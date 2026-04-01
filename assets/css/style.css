@@ -275,14 +275,20 @@ img { max-width: 100%; display: block; }
   background: white;
   border-bottom: 1px solid var(--border);
   padding: 14px 20px;
-  position: sticky;
-  top: 64px;
+  position: relative;
   z-index: 90;
 }
 
 .filters-inner {
   max-width: 1200px;
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.filter-group {
   display: flex;
   align-items: center;
   gap: 12px;
@@ -333,7 +339,9 @@ img { max-width: 100%; display: block; }
   transition: border-color 0.2s;
 }
 
-.filter-select:focus { border-color: var(--primary); }
+.filter-select:focus {
+  border-color: var(--primary);
+}
 
 .filter-count {
   margin-left: auto;
@@ -342,6 +350,34 @@ img { max-width: 100%; display: block; }
   color: var(--muted);
 }
 
+.filter-divider {
+  width: 1px;
+  height: 20px;
+  background: var(--border);
+  margin: 0 4px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .filters-inner {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .filter-group {
+    justify-content: space-between;
+  }
+  
+  .filter-count {
+    margin-left: 0;
+    text-align: center;
+    padding-top: 8px;
+  }
+  
+  .filter-divider {
+    display: none;
+  }
+}
 /* ===========================
    RESTAURANT GRID
 =========================== */
