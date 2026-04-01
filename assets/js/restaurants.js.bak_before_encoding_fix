@@ -1,0 +1,1121 @@
+﻿const RESTAURANTS = [
+    {
+        "id":  1,
+        "slug":  "restaurant-le-teranga",
+        "rank":  1,
+        "name":  "Restaurant Le Teranga",
+        "city":  "Cotonou",
+        "area":  "Cotonou",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.1,
+        "googleUserRatingCount":  1100,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerx8Acl5F5iH62NYB3ToATmSsozaPAxt_cOnhBy85tvgrdlqlHs1e36gTuDECviG2tTtwzeuNZXm-fjrAwdo5y4b1EwsMXx5kx1S7AInaUvwpHh28zLT1V6VFXMQns-4NZSztJnSQ=w298-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  82,
+        "budgetLabel":  "12 000 - 18 000 FCFA / pers.",
+        "budgetMax":  18000,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"La cuisine est juste exquise et le service est impeccable.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 09:00â€“01:00 | Mer: 09:00â€“01:00 | Jeu: 09:00â€“01:00 | Ven: 09:00â€“01:00 | Sam: 09:00â€“01:00 | Dim: 09:00â€“01:00 | Lun: 09:00â€“01:00",
+        "contactPhone":  "+229 21302929",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3568378,2.3911021999999997",
+        "tags":  [
+                     "restaurant",
+                     "pizza",
+                     "prix",
+                     "service",
+                     "jus",
+                     "diner"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "MÃ©lyssa COSSOU",
+                                  "rating":  5,
+                                  "text":  "Si vous ne connaissez pas, vous ratez une valeur sÃ»re de Cotonou. Le cadre est bien situÃ©, toujours impeccable et avec un personnel plus quâ€™accueillant (et qui mÃ©rite bien ses pourboires). Je suis une habituÃ©e de la maison et les plats ont toujours Ã©tÃ© un sans faute pour moiâœ¨ Je recommande chaleureusement leurs lasagnes qui sont Ã  tomber â¤ï¸",
+                                  "date":  "il y a 2Â mois"
+                              },
+                              {
+                                  "author":  "Elodie Kougnimon",
+                                  "rating":  5,
+                                  "text":  "Jâ€™y ai dÃ©jÃ  Ã©tÃ© plusieurs fois et jamais dÃ©Ã§ue. Tout y est comme il faut.\nOn a le choix entre la terrasse et lâ€™intÃ©rieur (deux mondes positivement diffÃ©rents)\nLes repas et les cocktails, les jus frais nature ðŸ˜‹.\nLa pizza pÃ¢te fine et lÃ©gÃ¨rement croustillante  sur le bord. Toujours un rÃ©gal ðŸ˜Š",
+                                  "date":  "il y a 11Â mois"
+                              },
+                              {
+                                  "author":  "Ashley zekiath",
+                                  "rating":  3,
+                                  "text":  "Jâ€™y vais depuis des annÃ©es et câ€™Ã©tait toujours aussi bien et bonâ€¦ sauf quâ€™une fois nous avions commandÃ© du jus dâ€™orange naturel Ã  emporter et une fois rentrÃ© nous y avons trouvÃ© un petit cafard. A part Ã§a câ€™est bien.",
+                                  "date":  "il y a 3Â semaines"
+                              }
+                          ],
+        "budgetMin":  12000
+    },
+    {
+        "id":  2,
+        "slug":  "ci-gusta-haie-vive",
+        "rank":  2,
+        "name":  "Ci Gusta! (Haie Vive)",
+        "city":  "Cotonou",
+        "area":  ", Rte De L\u0027AÃ©roport",
+        "cuisine":  "Restauration rapide",
+        "googleRating":  4,
+        "googleUserRatingCount":  1300,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep_F_LU4Fwfz4UFhLX8GXl6mKWYghG73uyxvXCMzuk7GW2Px4IhDZol8A3UPUEkS3E9bHlzAUOoL2BEsU8X5NabUbBJfiRCNvXAhVWyPr0xCweaW6_cJfun_qK30ssRzXzxuTcR=w662-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  81,
+        "budgetLabel":  "7 000 - 12 000 FCFA / pers.",
+        "budgetMax":  12000,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Restaurant situÃ© proche de l\u0027aÃ©roport...crÃ¨me glacÃ©e et fast food\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 09:00â€“23:30 | Mer: 09:00â€“23:30 | Jeu: 09:00â€“23:30 | Ven: 09:00â€“23:30 | Sam: 09:00â€“23:30 | Dim: 09:00â€“23:30 | Lun: 09:00â€“23:30",
+        "contactPhone":  "+229 01 65 25 00 00",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3538196,2.3935534",
+        "tags":  [
+                     "restauration-rapide",
+                     "cadre",
+                     "pizza",
+                     "service",
+                     "jeux",
+                     "aeroport"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Paolo Bangbola",
+                                  "rating":  3,
+                                  "text":  "Les glaces sont cools. J\u0027ai apprÃ©ciÃ© celui au chocolat noir. La gÃ¢teau Ã©tait dÃ©licieux. Mis Ã  part le service qui a Ã©tÃ© un peu dÃ©fectueux mais qui a Ã©tÃ© vite corrigÃ©, j\u0027avoue que le coin est assez cool pour se divertir et passer d\u0027agrÃ©ables moments. Je recommande",
+                                  "date":  "ModifiÃ© il y a 3Â ans"
+                              },
+                              {
+                                  "author":  "Emr Aude",
+                                  "rating":  2,
+                                  "text":  "Venue de France en famille , accueil laissant Ã  dÃ©sirer , personne ne vient vous installer , la serveuse arrive bien aprÃ¨s pour prendre la commande au bout dâ€™une dizaine de minutes malgrÃ© plusieurs serveurs prÃ©sents !!! On choisit une crÃªpe antillaise donc avec une boule de glace vanille et je demande un supplÃ©ment chantilly avec , on commande une coupe de fruits . Les commandes arrivent et la surprise ni glace ni chantilly je le signale je nâ€™en veux pas Ã  la serveuse mais ceux qui  sont derriÃ¨re Ã  lire les commandes surtout que les prix ne sont pas petits !!! La coupe de fruit dans un verre en plastique Ã  Ã©viter quand mÃªme avec seulement banane et mangue la catastrophe !!!!!! En soit celui de guezo est bien meilleur et lâ€™accueil est super !",
+                                  "date":  "il y a 3Â ans"
+                              },
+                              {
+                                  "author":  "Nella A",
+                                  "rating":  4,
+                                  "text":  "AccÃ¨s facile , cadre coquet , glace Ã  la pistache excellente par contre celle au coka cola pas fameuse du tout. Personnel Ã  lâ€™Ã©coute et trÃ¨s accueillant.",
+                                  "date":  "il y a 2Â ans"
+                              }
+                          ],
+        "budgetMin":  7000
+    },
+    {
+        "id":  3,
+        "slug":  "limprevu",
+        "rank":  3,
+        "name":  "L\u0027ImprÃ©vu",
+        "city":  "Cotonou",
+        "area":  "Face Ã  ECOBANK direction general, Ganhi",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.3,
+        "googleUserRatingCount":  617,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepjB37QW6XoB9OEH7SHScueB_eH7q2Umhz4vWOdP5Npzr0ZBTTUCnIDDfu36MuNBb5NyWAsKr1s1chi5a20Jx50KjF30XiPq8v6IJUHbLwAjq2vdDOaISNHirIG6ycwZxLk96Kk=w397-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  84,
+        "budgetLabel":  "8 000 - 15 000 FCFA / pers.",
+        "budgetMax":  15000,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Raviolis aux Ã©pinards excellents.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 07:00â€“23:00 | Mer: 07:00â€“23:00 | Jeu: 07:00â€“23:00 | Ven: 07:00â€“00:00 | Sam: 07:00â€“00:00 | Dim: FermÃ© | Lun: 07:00â€“23:00",
+        "contactPhone":  "+229 01 66 97 40 40",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.352869,2.4374778999999998",
+        "tags":  [
+                     "restaurant",
+                     "prix",
+                     "jardin",
+                     "pates",
+                     "cuisine",
+                     "cadre"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Josia",
+                                  "rating":  4,
+                                  "text":  "TrÃ¨s belle dÃ©couverte Ã  Cotonou. Cadre trÃ¨s cosy. Belle dÃ©coration. Saveurs sont Ã©galement bien habillÃ©s et serviables. Les plats sont trÃ¨s goÃ»teux, dommage pour ma purÃ©e qui avait des grumeaux. Mais j\u0027y reviendrai si l\u0027occasion se reprÃ©sente.",
+                                  "date":  "il y a 4Â mois"
+                              },
+                              {
+                                  "author":  "yannleboulanger",
+                                  "rating":  5,
+                                  "text":  "Nous avons passÃ© une semaine formidable en famille (2 enfants de 9 et 13 ans) Ã  L\u0027ImprÃ©vu (rÃ©sa des 2 grandes chambres). L\u0027accueil, la disponibilitÃ© et les conseils avisÃ©s de toute l\u0027Ã©quipe de l\u0027hÃ´tel ont Ã©tÃ© remarquables. Les chambres sont trÃ¨s spacieuses, la dÃ©coration de trÃ¨s bon goÃ»t, la propretÃ© exemplaire. La literie est d\u0027excellente qualitÃ© Ã©galement. La restaurant est d\u0027excellente facture. ||||Lors d\u0027un Ã©ventuel nouveau sÃ©jour Ã  Cotonou, nous reviendrons assurÃ©ment Ã  L\u0027imprÃ©vu tant la qualitÃ© des prestations a rÃ©pondu Ã  nos attentes et mÃªme au-delÃ .||||Une perle !!!!",
+                                  "date":  "il y a 7Â ans"
+                              },
+                              {
+                                  "author":  "Rahoulou",
+                                  "rating":  5,
+                                  "text":  "Lâ€™ImprÃ©vu est un vÃ©ritable petit havre en plein centre de Cotonou. Accueil trÃ¨s chaleureux, cadre charmant, et repas dÃ©licieux. IdÃ©al pour se poser et profiter, un vrai coup de cÅ“ur !",
+                                  "date":  "il y a 6Â mois"
+                              }
+                          ],
+        "budgetMin":  8000
+    },
+    {
+        "id":  4,
+        "slug":  "la-pirogue",
+        "rank":  4,
+        "name":  "La Pirogue",
+        "city":  "Cotonou",
+        "area":  "Rue 104B",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.4,
+        "googleUserRatingCount":  336,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepVXDCFw24ZZGC5HrXLFKxWdhGVLegP4IA8vPnyfSjBayYcJi_yWJxTba-Stqa2T2vQFJcTkVAQcWg7AQ3AFPgfcqyKCcMqIUxe1nVfwaw_poyhH70fZ25p5hcchPBZoMKe0d9m=w224-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  81,
+        "budgetLabel":  "10 000 - 18 000 FCFA / pers.",
+        "budgetMax":  18000,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Lâ€™endroit est parfait pour se relaxer tout en profitant dâ€™un bon repas.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 10:00â€“22:00 | Mer: 10:00â€“22:00 | Jeu: 10:00â€“22:00 | Ven: 10:00â€“22:00 | Sam: 10:00â€“22:00 | Dim: 10:00â€“22:00 | Lun: 10:00â€“22:00",
+        "contactPhone":  "+229 91954444",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3596809,2.4381771",
+        "tags":  [
+                     "restaurant",
+                     "concept",
+                     "gambas",
+                     "fruits-de-mer",
+                     "cuisson",
+                     "prix"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Carine A.",
+                                  "rating":  5,
+                                  "text":  "Super manager qui nous a bien accueilli en famille!\nÃ‡a fait vraiment plaisir !\nLes plats Ã©taient bons !\nJe voulais faire ce restaurant depuis un moment je ne suis pas dÃ©Ã§ue !\nMerci pour nous avoir aidÃ© Ã  prendre un Gozem !\nÃ€ bientÃ´t !",
+                                  "date":  "il y a 2Â mois"
+                              },
+                              {
+                                  "author":  "LÃ©a LÃ©a",
+                                  "rating":  5,
+                                  "text":  "En sÃ©jour au BÃ©nin pour quelques joursâ€¦\nJâ€™ai pris lâ€™habitude de passer par ce restaurant qui est pour moi un INCONTOURNABLE au BÃ©nin\nLe poisson est frais, lâ€™assaisonnement est parfait. Vous pouvez y allez les yeux fermÃ©s.\nMerci encore!",
+                                  "date":  "il y a 2Â mois"
+                              },
+                              {
+                                  "author":  "Ima Zorzin",
+                                  "rating":  5,
+                                  "text":  "J ai trouvÃ© le cadre trÃ¨s agrÃ©able mais le service Ã  Ã©tÃ© un long sachant qu on avait commande par tÃ©lÃ©phone. Mais dans l ensemble tout est  izn agreable",
+                                  "date":  "il y a 4Â mois"
+                              }
+                          ],
+        "budgetMin":  10000
+    },
+    {
+        "id":  5,
+        "slug":  "ya-hala",
+        "rank":  5,
+        "name":  "Ya- Hala",
+        "city":  "Cotonou",
+        "area":  ", Rue 108",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.6,
+        "googleUserRatingCount":  252,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqFi4h1BJwFQ8HYO0nH2jwx_6rOiE7bB9Gh3Dtq__ppI0hXd8LMuNynss6IuZCriSp9hMo1lN3XP-c_jBzhGmBdVR4vqCzPCpEJqgCBRk-yNPIoX9WA86VpRxkSgcQL33yDKb9n=w397-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  81,
+        "budgetLabel":  "4 500 - 7 500 FCFA / pers.",
+        "budgetMax":  7500,
+        "badge":  "Coup de cÅ“ur",
+        "badgeColor":  "#e23844",
+        "editorialSummary":  "\"La cuisine aussi est top.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 12:00â€“23:00 | Mer: 12:00â€“23:00 | Jeu: 12:00â€“23:00 | Ven: 12:00â€“23:00 | Sam: 12:00â€“23:00 | Dim: 12:00â€“23:00 | Lun: FermÃ©",
+        "contactPhone":  "+229 66555999",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.360697699999999,2.4357751",
+        "tags":  [
+                     "restaurant",
+                     "libanais",
+                     "prix",
+                     "chef",
+                     "houmous",
+                     "pizza"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Thierry",
+                                  "rating":  5,
+                                  "text":  "Lieu chaleureux avec cuisine libanaise de qualitÃ©e.\nPatron extraordinairement gentil et gÃ©nÃ©reux.",
+                                  "date":  "il y a 3Â mois"
+                              },
+                              {
+                                  "author":  "GrÃ©gory Lepez",
+                                  "rating":  5,
+                                  "text":  "Endroit agrÃ©able pour dÃ©guster de bons plats libanais. Prix raisonnable.\nPour ceux que Ã§a gÃªne Ã§a sent un peu la clope dans le restos.",
+                                  "date":  "il y a 2Â mois"
+                              },
+                              {
+                                  "author":  "Miwakpon",
+                                  "rating":  5,
+                                  "text":  "Vraiment trop mignon comme restaurant ðŸ¥ºâœ¨ðŸª´\nLes plats y sont savoureux et le cadre particuliÃ¨rement cosy ðŸ˜\n\nðŸª§Menu: SpÃ©cialitÃ©s Libanaises et EuropÃ©ennes; on a testÃ© le Gratin de fruits de mer et des ailes de poulet Ã  l\u0027ail ðŸ˜‹ðŸ˜‹\n\nâ±35 min en soirÃ©e\nðŸ’¶ 3000 - 8000 francs\nðŸ“† Lundi de 18h - 23h - Mardi au Dimanche de 12h Ã  23h\n\nSuivez-nous sur nos rÃ©seaux sociaux pour dâ€™autres adresses !",
+                                  "date":  "il y a 4Â ans"
+                              }
+                          ],
+        "budgetMin":  4500
+    },
+    {
+        "id":  6,
+        "slug":  "maquis-le-kedjenou-specialites-ivoiriennes",
+        "rank":  6,
+        "name":  "Maquis le KÃ©djenou (spÃ©cialitÃ©s ivoiriennes)",
+        "city":  "Cotonou",
+        "area":  "https://maps.google.com/?q=6.366220,2.443567",
+        "cuisine":  "Restaurant",
+        "googleRating":  4,
+        "googleUserRatingCount":  536,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerzWYInUwIWU4pElBCR9-bTEE3eWeGJP1-N0Dk60xWILWfOK1jCW7x-l3iPeAd00FzCZ-j-XXOJdXGVE1M8AdNMYUfNnPRqBd-ZuZ0ut-OBWIOfpJSeZdxLuY5vYLvbK_zzh_f1=w238-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  81,
+        "budgetLabel":  "~1 500 FCFA / pers.",
+        "budgetMax":  1800,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Le service est superbe et la nourriture est excellente.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 12:00â€“17:00 | Mer: 12:00â€“17:00 | Jeu: 12:00â€“17:00 | Ven: 12:00â€“17:00 | Sam: FermÃ© | Dim: FermÃ© | Lun: 12:00â€“17:00",
+        "contactPhone":  "+229 01 60 02 29 29",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3662506,2.4435974",
+        "tags":  [
+                     "restaurant",
+                     "cadre",
+                     "foutou-banane",
+                     "jus",
+                     "kedjenou",
+                     "qualite"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Carmelle Okoumassoun",
+                                  "rating":  4,
+                                  "text":  "TrÃ¨s bel endroit. Le service Ã©tait assez lent et pas trÃ¨s stratÃ©gique...je crois que la jeune dame qui s\u0027est occupÃ© de nous Ã©tait nouvelle. Mais le repas Ã©tait excellent. Je recommande et j\u0027y retournerais avec joieðŸ˜€â¤ï¸",
+                                  "date":  "il y a 4Â mois"
+                              },
+                              {
+                                  "author":  "Elodie Kougnimon",
+                                  "rating":  4,
+                                  "text":  "Top 3 de mes meilleurs restaurants Africains.  Le service est vraiment bien et le personnel trÃ¨s agrÃ©able.\nMes plats prÃ©fÃ©rÃ©s sont le choucouya poulet ou tilapia/carpe braisÃ©/e avec atieke et alloco puis la sauce graine avec le foutou banane.\nLe dÃ©cor est atypique mais attention aux moucherons.\nEn temps de pluie les grosses flaques dâ€™eau peuvent dÃ©courager mais le dÃ©placement en vaudra le coup ( pour les amoureux de la bonne table comme moi).",
+                                  "date":  "il y a un an"
+                              },
+                              {
+                                  "author":  "Pat34 pat34",
+                                  "rating":  4,
+                                  "text":  "Semaine derniÃ¨re nous avions pris Ã  emporter alors nous avons dÃ©cidÃ© d\u0027essayer de dÃ©jeuner sur place. Accueil chaleureux, serveuses Ã  l\u0027Ã©coute, les plats sont trÃ¨s bons et copieux. Nous regretterons que le poisson ðŸŸ de mon Ã©pouse n\u0027est pu Ãªtre servi (30mn d\u0027attente + 30mn car plat donnÃ© Ã  un autre et donc 30mn supplÃ©mentaire pour le ravoir) avons dÃ» le prendre Ã  emporter. Mais bon Ã  savoir commander avant d\u0027arriver comme Ã§a servi dans les temps...",
+                                  "date":  "il y a 3Â ans"
+                              }
+                          ]
+    },
+    {
+        "id":  7,
+        "slug":  "maquis-la-residence",
+        "rank":  7,
+        "name":  "Maquis la RÃ©sidence",
+        "city":  "Cotonou",
+        "area":  "Rue 235",
+        "cuisine":  "Restaurant",
+        "googleRating":  3.9,
+        "googleUserRatingCount":  507,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerZxUwLxjs92TeIDxqXyj2k8sDA4VVHuYhYRVKFALeKN3BGUmHwyjQAauS6wznc1iiKDoQpbwCFh46JG4foAatxldycnkaHee4dmtulrfiJwovJvV_MgyKeSUHbbgSfS7wI8aN8gA=w224-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  79,
+        "budgetLabel":  "~1 500 FCFA / pers.",
+        "budgetMax":  1800,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Belle dÃ©coration, vent naturelle service au point.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 12:00â€“16:00, 19:00â€“23:00 | Mer: 12:00â€“16:00, 19:00â€“23:00 | Jeu: 12:00â€“16:00, 19:00â€“23:00 | Ven: 12:00â€“16:00, 19:00â€“23:00 | Sam: 12:00â€“16:00, 19:00â€“23:00 | Dim: 12:00â€“16:00, 19:00â€“23:00 | Lun: 12:00â€“16:00, 19:00â€“23:00",
+        "contactPhone":  "+229 01 94 12 83 53",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3540247999999995,2.4210705",
+        "tags":  [
+                     "restaurant",
+                     "poisson",
+                     "braise",
+                     "cuisine",
+                     "service",
+                     "prix"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Carmen Rich",
+                                  "rating":  3,
+                                  "text":  "Probablement le meilleur poisson braisÃ© de tout Cotonou pour ne pas dire tout le BÃ©nin. Une trÃ¨s bonne cuisine locale, avec ces petits dÃ©licieux accompagnents. Ã‡a change un peu des autres restos locaux qui proposent des plats sans les maÃ®triser vraiment. Les deux Ã©toiles manquantes câ€™est liÃ© au service. Le service est trÃ¨s trÃ¨s trÃ¨s lent. Et parfois ils ne servent pas le bon plat commandÃ©. Alors armez-vous de patience avant de venir car vous nâ€™allez pas regretter le goÃ»t.",
+                                  "date":  "il y a 10Â mois"
+                              },
+                              {
+                                  "author":  "Johan GARRY",
+                                  "rating":  4,
+                                  "text":  "Chers occidentaux, je vous rassure, cette endroit est a essayer. Le poisson grillÃ© est trÃ¨s bien cuisiner, le service est agrÃ©able, si vous avez trop commandÃ©, demandÃ© de le ramener pour l\u0027offrir par exemple au gardien. A faire et refaire",
+                                  "date":  "il y a 7Â mois"
+                              },
+                              {
+                                  "author":  "Denis Gremillon",
+                                  "rating":  3,
+                                  "text":  "Un peu dÃ©Ã§u...\nLe cadre est trÃ¨s joli.\nNous avons Ã©tÃ© servis avec beaucoup de retard et le service n\u0027Ã©tait pas agrÃ©able...",
+                                  "date":  "il y a un an"
+                              }
+                          ]
+    },
+    {
+        "id":  8,
+        "slug":  "saveurs-du-benin",
+        "rank":  8,
+        "name":  "SAVEURS DU BENIN",
+        "city":  "Cotonou",
+        "area":  "Rue 400",
+        "cuisine":  "Plats africains",
+        "googleRating":  3.9,
+        "googleUserRatingCount":  504,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepHpVzLlrklBy3MYamEtKWzWb2ZQhmeDzoCAu63eJ13A_q_A3jV9fSAblaxrrkPvk53StHg7ulL_s0EYY3IdhWdhRX-DSllio5n0LpCnQ5P-ZiJiSITauctvdUcUGEsw5B7jElO=w397-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  79,
+        "budgetLabel":  "3 500 - 6 000 FCFA / pers.",
+        "budgetMax":  6000,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"TrÃ¨s bon restaurant avec uniquement des plats du BÃ©nin ou pays voisins.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 10:00â€“23:00 | Mer: 10:00â€“23:00 | Jeu: 10:00â€“23:00 | Ven: 10:00â€“23:00 | Sam: 10:00â€“23:00 | Dim: FermÃ© | Lun: 10:00â€“23:00",
+        "contactPhone":  "+229 01 64 64 64 67",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3693637,2.4125463",
+        "tags":  [
+                     "plats-africains",
+                     "prix",
+                     "service",
+                     "igname",
+                     "jus",
+                     "locavore"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Pascaline Binazon",
+                                  "rating":  5,
+                                  "text":  "Meilleur restaurant pour manger local Ã  Cotonou. Jai toujours aimÃ© manger lÃ  bas lors de mes passages.\n\nLes sauces sont tres bonnes..\n\nMention speciale pour la sauce de feuilles \"ManvivÃª\", cest la sauce Ã  base d\u0027 aloma (feuilles ameres utilisÃ©s pour le ndole).\n\nJe recommande..",
+                                  "date":  "il y a 9Â mois"
+                              },
+                              {
+                                  "author":  "Wassiou SANOUSSI",
+                                  "rating":  5,
+                                  "text":  "Lors de chacun de mes passages Ã  Cotonou, il y a une adresse incontournable que je ne manque jamais de visiter : ce restaurant, vÃ©ritable temple de la cuisine locale. Pour les amateurs de saveurs authentiques et de plats faits maison, câ€™est sans doute lâ€™un des meilleurs endroits pour savourer la richesse gastronomique bÃ©ninoise.\n\nLâ€™ambiance y est chaleureuse, le service rapide et attentionnÃ©, et surtout, les plats sont dâ€™une qualitÃ© remarquable. Chaque sauce a son identitÃ©, sa profondeur, son goÃ»t unique qui rappelle les recettes de nos grands-mÃ¨res. Les ingrÃ©dients sont frais, les portions gÃ©nÃ©reuses, et le goÃ»t, toujours au rendez-vous.\n\nMention spÃ©ciale pour la sauce de feuilles \"ManvivÃª\", une merveille culinaire prÃ©parÃ©e Ã  base de feuilles dâ€™aloma, aussi appelÃ©es feuilles amÃ¨res, trÃ¨s prisÃ©es au Cameroun dans le cÃ©lÃ¨bre ndolÃ¨. Cette sauce est savoureuse, Ã©quilibrÃ©e et parfaitement relevÃ©e, un vrai rÃ©gal pour les papilles.",
+                                  "date":  "il y a 3Â mois"
+                              },
+                              {
+                                  "author":  "Anthony Chevaux",
+                                  "rating":  5,
+                                  "text":  "J\u0027y ai mangÃ© plusieurs fois mais malheureusement pas des saveurs du BÃ©nin. Je prends toujours des saveurs d\u0027autres pays d\u0027Afrique de l\u0027ouest ðŸ˜…\nSeul inconvÃ©nient, il faut changer les tables dehors car les lattes de bois avec un Ã©cartement de 2cm + une nappe par dessus Ã§a termine toujours avec des frayeurs pour poser son verre.",
+                                  "date":  "il y a 4Â mois"
+                              }
+                          ],
+        "budgetMin":  3500
+    },
+    {
+        "id":  9,
+        "slug":  "restaurant-chez-maman-benin",
+        "rank":  9,
+        "name":  "Restaurant Chez Maman Benin",
+        "city":  "Cotonou",
+        "area":  "Rue 201A",
+        "cuisine":  "Restaurant",
+        "googleRating":  3.9,
+        "googleUserRatingCount":  493,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepwrnjJziy_x-bX23bECH98-bhD5HVpKSU2HfvIVMHThwKsXoDgRy9eurtM5T8GKqNse7Udp1akfpnoIupZXMD1wbXXGMzMJNnTTDZKiOIudNDJBoboMjLW7PV9JbVNiT_vTM0Z=w270-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  79,
+        "budgetLabel":  "3 000 - 5 500 FCFA / pers.",
+        "budgetMax":  5500,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Bon accueil, cuisine service et ambiance excellent\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 11:00â€“00:00 | Mer: 11:00â€“00:00 | Jeu: 11:00â€“00:00 | Ven: 11:00â€“00:00 | Sam: 11:00â€“00:00 | Dim: 11:00â€“00:00 | Lun: 11:00â€“00:00",
+        "contactPhone":  "+229 21323338",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3624633,2.4225517",
+        "tags":  [
+                     "restaurant",
+                     "service",
+                     "prix",
+                     "cuisine-africaine",
+                     "cadre",
+                     "locavore"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Sarah De Nabila",
+                                  "rating":  3,
+                                  "text":  "TrÃ¨s trÃ¨s belle expÃ©rience culinaire Une vÃ©ritable explosion de saveur dans la bouche on sâ€™est rÃ©galÃ© rien Ã  dire.\nSeul hic une lenteur gargantuesque dans le service et une nonchanlance incroyable de la part des serveurs\nLes prix sont correct pour la qualitÃ© des mets\nJe recommande vivement quand mÃªme mais soyez patientðŸ¤£ðŸ¤£ðŸ¤£",
+                                  "date":  "il y a 5Â mois"
+                              },
+                              {
+                                  "author":  "Ghislain Chasme",
+                                  "rating":  3,
+                                  "text":  "Des plats locaux Ã  toute heure de la journÃ©e, dans un cadre un peu plus Ã©laborÃ© que le simple maquis. IdÃ©al pour qui est pressÃ© car le service est rapide",
+                                  "date":  "ModifiÃ© il y a 8Â mois"
+                              },
+                              {
+                                  "author":  "michelle madjÃ©",
+                                  "rating":  4,
+                                  "text":  "TrÃ¨s grande variÃ©tÃ© de plats. Chacun y trouve pour son compte. Super emplacement, bien emmÃ©nagÃ© et climatisÃ©. Toilettes propres. Service agrÃ©able. Nourriture un peu fade mais rien qu\u0027un peu de sel et de piment ne rehausserait pas. A faire obligatoirement",
+                                  "date":  "il y a 2Â ans"
+                              }
+                          ],
+        "budgetMin":  3000
+    },
+    {
+        "id":  10,
+        "slug":  "face-a-la-mer",
+        "rank":  10,
+        "name":  "Face Ã€ La Mer",
+        "city":  "Cotonou",
+        "area":  "BP 68 FidjrossÃ¨ Route des pÃªches",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.1,
+        "googleUserRatingCount":  307,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800\u0026auto=format\u0026fit=crop",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  76,
+        "budgetLabel":  "~1 500 FCFA / pers.",
+        "budgetMax":  1800,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Les plats sont dÃ©licieux et la prÃ©sentation est souvent impeccable.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Horaires Ã  confirmer",
+        "contactPhone":  "",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3509207,2.3505745",
+        "tags":  [
+                     "restaurant"
+                 ],
+        "googleReviews":  [
+
+                          ]
+    },
+    {
+        "id":  11,
+        "slug":  "eats",
+        "rank":  11,
+        "name":  "EATâ€™S",
+        "city":  "Cotonou",
+        "area":  "Cotonou",
+        "cuisine":  "Restauration rapide",
+        "googleRating":  4.9,
+        "googleUserRatingCount":  84,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoPTzyDlUpe_Q4KtD7ZdREnG3bnX2Lza0ssz52P8c2_a6SB8V8pzll5G4Mz9QMC1oQWrbFvOYLBjDGcdOOqcaqLaf412qs_WMY6dB6jgL0nf1YZ4JEmK9OxeBwG6WE-mdsjsXE3YBwi_XEt=w529-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  79,
+        "budgetLabel":  "4 000 - 6 000 FCFA / pers.",
+        "budgetMax":  6000,
+        "badge":  "Coup de cÅ“ur",
+        "badgeColor":  "#e23844",
+        "editorialSummary":  "\"Merci EAT\u0027S pour votre Livraison rapide GoÃ»t dÃ©licieux et unique.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 08:30â€“21:00 | Mer: 08:30â€“21:00 | Jeu: 08:30â€“21:00 | Ven: 08:30â€“21:00 | Sam: 08:30â€“21:00 | Dim: 08:30â€“21:00 | Lun: FermÃ©",
+        "contactPhone":  "+229 01 61 69 34 34",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3688386,2.4752164",
+        "tags":  [
+                     "restauration-rapide",
+                     "bon-prix",
+                     "indomie"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Sheriss YOA TAWEMA",
+                                  "rating":  5,
+                                  "text":  "DÃ©licieux et bon prix  avec du goÃ»t !",
+                                  "date":  "il y a 2Â mois"
+                              },
+                              {
+                                  "author":  "Mahfouz Souley",
+                                  "rating":  5,
+                                  "text":  "Jâ€™ai adorÃ© mon expÃ©rience dans ce restaurant ! Lâ€™accueil Ã©tait chaleureux, le service impeccable et les platsâ€¦ un vrai dÃ©lice. Les saveurs Ã©taient parfaitement Ã©quilibrÃ©es, et on sent que les produits sont frais et de qualitÃ©. Lâ€™ambiance du lieu est conviviale et bien pensÃ©e, on sâ€™y sent tout de suite Ã  lâ€™aise. Je recommande sans hÃ©siter et jâ€™y reviendrai avec plaisir !",
+                                  "date":  "il y a 11Â mois"
+                              },
+                              {
+                                  "author":  "Kevin Nzoitcha",
+                                  "rating":  5,
+                                  "text":  "Je recommande Ã  chaque fois que je viens en vacances sur Cotonou, je mange dans ce restaurant. Les plats sont dÃ©licieux et le service est de qualitÃ©.",
+                                  "date":  "il y a 9Â mois"
+                              }
+                          ],
+        "budgetMin":  4000
+    },
+    {
+        "id":  12,
+        "slug":  "maquis-tata-vivi",
+        "rank":  12,
+        "name":  "Maquis Tata Vivi",
+        "city":  "Cotonou",
+        "area":  "Cotonou",
+        "cuisine":  "Plats africains",
+        "googleRating":  4.1,
+        "googleUserRatingCount":  200,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepU_ObuDida2ZCAZrTs8aLzdd7ZQisBX7j6U8lRj8fcZcNTrJfJUiW7Tn4ql2Pk_ByArBNbJMIjvLpxWw-a_7SdI28FHwAgzTc2WDNuDgSq7_kERLuLcMaEa6ejDZ6zveR2IAFa=w224-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  73,
+        "budgetLabel":  "3 000 - 5 000 FCFA / pers.",
+        "budgetMax":  5000,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"TrÃ¨s bonne cuisine.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 08:00â€“19:00 | Mer: 08:00â€“19:00 | Jeu: 08:00â€“19:00 | Ven: 08:00â€“19:00 | Sam: 08:00â€“19:00 | Dim: FermÃ© | Lun: 08:00â€“19:00",
+        "contactPhone":  "+229 01 99 09 09 49",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3641568,2.4301423",
+        "tags":  [
+                     "plats-africains",
+                     "prix",
+                     "service",
+                     "succulents",
+                     "tripes",
+                     "dejeuner"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Lacarola 313",
+                                  "rating":  3,
+                                  "text":  "Je nâ€™ai pas Ã©tÃ© satisfaite parce quâ€™on mâ€™a obligÃ© Ã  manger la tÃªte de poisson. Jâ€™ai dit au serveur que je voulais une autre partie mais il mâ€™a ramenÃ© une autre tÃªte de poisson plus petite et c\u0027Ã©tait au mÃªme prix. Le rapport qualitÃ©-prix nâ€™est pas soutenable. Je ne pense pas retourner dans ce maquis.",
+                                  "date":  "il y a 7 mois"
+                              },
+                              {
+                                  "author":  "Jacques-Thierry d\u0027OLIVEIRA",
+                                  "rating":  5,
+                                  "text":  "Bien manger Ã  Cotonou, c\u0027est synonyme de faire un tour chez Tata Vivi. Je recommande fortement.",
+                                  "date":  "il y a 3 mois"
+                              },
+                              {
+                                  "author":  "hamed O",
+                                  "rating":  3,
+                                  "text":  "Service trÃ¨s rapide mais jâ€™ai dÃ©jÃ  mangÃ© une meilleur sauce feuille ( gbekouin).",
+                                  "date":  "il y a 2 mois"
+                              }
+                          ],
+        "budgetMin":  3000
+    },
+    {
+        "id":  13,
+        "slug":  "royal-paninis",
+        "rank":  13,
+        "name":  "ROYAL PANINI\u0027S",
+        "city":  "Cotonou",
+        "area":  "Rue 108",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.4,
+        "googleUserRatingCount":  125,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAweprKBmmUfzBtP9hzCpGfYSjSUFK-Llv7VkpiLM-DRwgmHKzXt6B80Zv4LOendgkYUNeS26XhFWKCgwd5r9-SlLBWjjs3f_0VWUP7TL6Md5fko3J7QvJIkkkjJio94Gqr7AfYp7AwFtb_F1O=w397-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  74,
+        "budgetLabel":  "3 000 - 4 500 FCFA / pers.",
+        "budgetMax":  4500,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Cuisine apprÃ©ciable Service rapide Ambiance dÃ©tente et calme.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 08:30â€“23:00 | Mer: 08:30â€“23:00 | Jeu: 08:30â€“23:00 | Ven: 08:30â€“23:00 | Sam: 08:30â€“23:00 | Dim: 09:00â€“22:00 | Lun: 08:30â€“23:00",
+        "contactPhone":  "",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3601209999999995,2.4344923",
+        "tags":  [
+                     "restaurant",
+                     "prix",
+                     "bon-coin"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Jennifer Assogba",
+                                  "rating":  3,
+                                  "text":  "La serveuse de la von de lolo andoche nÃ© sourire pas. Toujours en mine et pas du tout accueillante câ€™est dÃ©sagrÃ©able et sa donne pas envie de manger la mÃªme si le panini est trÃ¨s bon",
+                                  "date":  "il y a 2Â mois"
+                              },
+                              {
+                                  "author":  "BenoÃ®t Houessou",
+                                  "rating":  4,
+                                  "text":  "J\u0027ai tout simplement adorÃ©. Je recommande vivement ðŸ¤¤",
+                                  "date":  "il y a 3Â mois"
+                              },
+                              {
+                                  "author":  "Kasel LOKOSSOU",
+                                  "rating":  5,
+                                  "text":  "C\u0027est un endroit situÃ© dans la voie Ã  cÃ´tÃ© du prÃªt-Ã -porter LOLO ANDORCHE . C\u0027est un endroit calme et leur panini est trop bon j\u0027ai adorÃ© ðŸ¤¤ðŸ¤¤ðŸ¤¤",
+                                  "date":  "il y a 3Â ans"
+                              }
+                          ],
+        "budgetMin":  3000
+    },
+    {
+        "id":  14,
+        "slug":  "chez-tantie-food-and-drink",
+        "rank":  14,
+        "name":  "Chez Tantie Food and Drink",
+        "city":  "Cotonou",
+        "area":  "Rue du Gouverneur General Felix Eboue",
+        "cuisine":  "Plats africains",
+        "googleRating":  4,
+        "googleUserRatingCount":  154,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwery6fi2jrhrjlIiEpN60P6yzludLso5fHOMr9l8wZWIdV4FfjX63AnsNJR2irUAoyTVPd9hpaELQAk4_xZKLQxRybxek5rywBs9tDX_xEiGcSOCqSNXcHWfHYyaVG_URfQwJ3vtiA=w241-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  70,
+        "budgetLabel":  "2 500 - 4 500 FCFA / pers.",
+        "budgetMax":  4500,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"Des plats africains de qualitÃ©, je commande trÃ¨s souvent via Benin resto.\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 12:00â€“23:00 | Mer: 12:00â€“23:00 | Jeu: 12:00â€“23:00 | Ven: 12:00â€“23:00 | Sam: 12:00â€“23:00 | Dim: 12:00â€“22:00 | Lun: 12:00â€“23:00",
+        "contactPhone":  "+229 53955512",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3630188,2.4266744",
+        "tags":  [
+                     "plats-africains",
+                     "prix",
+                     "senegalais",
+                     "yassa",
+                     "cuisine-ivoirienne",
+                     "mal"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Lewis ADJADEME",
+                                  "rating":  5,
+                                  "text":  "Si je pouvais ajouter une sixiÃ¨me Ã©toile, croyez-le, je le ferais sans la moindre hÃ©sitation !\n\nLe cadre et l\u0027ambiance (quand on est en groupe !), il n\u0027y a rien Ã  dire Ã  ce sujet. En attendant vos plats, vous avez plusieurs jeux pour passer le temps. Pensez au Mikado, fou rire garanti. Anyway, je m\u0027Ã©gare. Passons Ã  ce qui nous intÃ©resse : la bouffe.\n\nSeigneur, la QUALITÃ‰ des plats est juste PHÃ‰NOMÃ‰NALE !ðŸ˜­ðŸ”¥ Mention spÃ©ciale Ã  la sauce graine (qu\u0027elle soit accompagnÃ©e de leur riz blanc ou de cet excellent foutou). J\u0027aime, j\u0027aime, j\u0027aime ! Est-ce que vous devriez Ã©galement essayer les brochettes de gÃ©sier ou de bÅ“uf ? La question ne se pose mÃªme pas. C\u0027est un grand oui. Chef cuisinier, vous avez toute ma gratitude !\n\nLe plus Ã©tonnant, c\u0027est que le rapport qualitÃ©-quantitÃ©-prix est juste tout bonnement stupÃ©fiant. Les jus sont tout aussi excellents.\n\nMon verdict : je recommande ! Tantie Food, vous avez gagnÃ© un fan",
+                                  "date":  "ModifiÃ© il y a 4Â mois"
+                              },
+                              {
+                                  "author":  "MÃ©lyssa COSSOU",
+                                  "rating":  5,
+                                  "text":  "Comment dÃ©crire lâ€™expÃ©rience ? 10/10 accross the board â¤ï¸Câ€™est vraiment un coup de cÅ“ur pour manger de la nourriture sÃ©nÃ©galaise et ivoirienne authentique et Ã  moindre coÃ»t âœ¨\nLes plats sont dÃ©licieux, le personnel chaleureux et hyper attentionnÃ© et le cadre est hyper beau pour faire de belles photos.\nJe recommande Ã  110%",
+                                  "date":  "il y a 6Â mois"
+                              },
+                              {
+                                  "author":  "Ruth Milhomme",
+                                  "rating":  3,
+                                  "text":  "Le restaurant est super beau, trÃ¨s moderne et le serveur est adorable.\n\nMais j\u0027ai Ã©tÃ© surprise d\u0027apprendre que l\u0027on doit payer en plus si on prend un plat Ã  emporter alors que sur place non et surtout qu\u0027il serait prÃ©fÃ©rable de le mettre sur la carte, carte ce n\u0027Ã©tait pas indiquÃ©.\n\nEn arrivant chez nous , avec nos plats de tieb poisson le goÃ»t n\u0027y Ã©tait malheureusement pas. Ã‡a manquait de saveur, c\u0027est dommage ðŸ¥º",
+                                  "date":  "il y a 7Â mois"
+                              }
+                          ],
+        "budgetMin":  2500
+    },
+    {
+        "id":  15,
+        "slug":  "paulcuisine",
+        "rank":  15,
+        "name":  "Paulcuisine",
+        "city":  "Cotonou",
+        "area":  "Cotonou",
+        "cuisine":  "VÃ©gÃ©tarienne",
+        "googleRating":  4.9,
+        "googleUserRatingCount":  58,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep_HNao8sjfbCQ1Jbzql1ZuOQlpzzGNz4lOkivmB-nKjkGNkcuOxzlMlJWtCzDJ8-SZb9HC1mhLWAjDOW5pUS0BEVOWP5G2p_AYtjZ9K1jROhkT1MuYzi_kqrQjdbOjFz5yCur-=w397-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  78,
+        "budgetLabel":  "4 000 - 7 000 FCFA / pers.",
+        "budgetMax":  7000,
+        "badge":  "Coup de cÅ“ur",
+        "badgeColor":  "#e23844",
+        "editorialSummary":  "\"SpÃ©cialisÃ© Ã©galement en repas vegan !\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: FermÃ© | Mer: 12:00â€“23:00 | Jeu: 12:00â€“23:00 | Ven: 12:00â€“23:00 | Sam: 12:00â€“23:00 | Dim: 18:00â€“23:00 | Lun: 12:00â€“23:00",
+        "contactPhone":  "+229 01 66 57 09 91",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.359061,2.3718901999999997",
+        "tags":  [
+                     "vegetarienne",
+                     "vegan",
+                     "prix",
+                     "choix",
+                     "sourire",
+                     "jus"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Lalique Browne",
+                                  "rating":  5,
+                                  "text":  "PaulCuisine câ€™est mon restaurant prÃ©fÃ©rÃ© Ã  Cotonou! Je suis un grande adepte de la nourriture africaine mais je ne mange pas beaucoup de viande et jâ€™adore les lÃ©gumes! Paul Cuisine sait conserver les saveurs bÃ©ninoises tout en remplaÃ§ant la viande et en ajoutant des lÃ©gumes (je recommande les plats avec fromage peul)! Le restaurant convient autant aux bÃ©ninois qui veulent essayer des plats originaux, quâ€™aux Ã©trangers qui souhaitent dÃ©couvrir la cuisine bÃ©ninoise dans un cadre accessible. Jâ€™ai dâ€™ailleurs Ã©tÃ© agrÃ©ablement surprise par les prix qui restent trÃ¨s accessibles.",
+                                  "date":  "il y a 6Â mois"
+                              },
+                              {
+                                  "author":  "Eddy",
+                                  "rating":  5,
+                                  "text":  "Une superbe adresse pour manger gourmand et se faire plaisir, beaucoup de choix pour satisfaire toutes les envies. Des plats dÃ©licieux Ã  un prix raisonnable en plus dâ€™un personnel au petit soin (rarement vu en Afrique aprÃ¨s 5 mois de voyages Ã  travers le continent)\n\nÃ€ ne pas louper Ã  Cotonou !!",
+                                  "date":  "il y a 9Â mois"
+                              },
+                              {
+                                  "author":  "Nelly Mbaa",
+                                  "rating":  5,
+                                  "text":  "Paul est un chef passionnÃ©, dÃ©vouÃ©, ambitieux et trÃ¨s crÃ©atif. Allez-y les yeux fermÃ©s, il impressionnera les vegans comme les non-vegans, les locaux comme les touristes. Sa cuisine est unique, variÃ©e et succulente et vous fera dÃ©couvrir ou redÃ©couvrir la gastronomie bÃ©ninoise, togolaise, ivoirienne, sÃ©nÃ©galaise, marocaine, europÃ©enne et asiatique sans jamais vous dÃ©cevoir ! Ce restaurant est dÃ©finitivement un incontournable ðŸ™ŒðŸ½\n\nJ\u0027ai ajoutÃ© quelques photos mais ce n\u0027est qu\u0027un tout petit aperÃ§u.",
+                                  "date":  "il y a un an"
+                              }
+                          ],
+        "budgetMin":  4000
+    },
+    {
+        "id":  16,
+        "slug":  "maquis-chez-rokia",
+        "rank":  16,
+        "name":  "Maquis Chez Rokia",
+        "city":  "Cotonou",
+        "area":  ", Ave Van Vollenhoven",
+        "cuisine":  "Restaurant",
+        "googleRating":  3.8,
+        "googleUserRatingCount":  176,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqkoBMR0ihjMvU90_hj9VJ-ZszIj8kF0S1Lly_UvnVJGxTOBc9uK4wmLyRvFSiY0cBb6HIX2_AbQVXk2tLwFHQ_n8nta2aifUmo-UxfgpBwJ8GLSEJYeeg5yBRvbbGcBK97hT583g=w224-h299-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  68,
+        "budgetLabel":  "2 500 - 4 500 FCFA / pers.",
+        "budgetMax":  4500,
+        "badge":  "Petit budget",
+        "badgeColor":  "#27ae60",
+        "editorialSummary":  "\"J\u0027ai beaucoup apprÃ©ciÃ© leur repas\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 11:00â€“18:30 | Mer: 11:00â€“18:30 | Jeu: 11:00â€“18:30 | Ven: 11:00â€“18:30 | Sam: 11:00â€“18:30 | Dim: 11:00â€“18:30 | Lun: 11:00â€“18:30",
+        "contactPhone":  "+229 97574544",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3605291,2.4296546",
+        "tags":  [
+                     "restaurant",
+                     "jus",
+                     "qualite",
+                     "senegalais"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Vital Degnide",
+                                  "rating":  4,
+                                  "text":  "Leur riz tchep est bon. Je ne conseille pas le Yasa au poulet si vous avez le mÃªme goÃ»t que moi.\n\nLorsqu\u0027il n\u0027a pas du poisson, je prÃ©fÃ¨re prendre du riz simple 1000f\n\nPs: la diffÃ©rence entre le plat de 2500f et le demi plat de 1500f est la qualitÃ© du Poisson. La quantitÃ© de riz est la mÃªme.\n\nDonc les gros mangeurs comme moi venus pour le tchep pas pour du poisson prennent le demi plat et double au besoin accompagnÃ© du jus de d\u0027ananas (additif dedans attention) ou le jus de gingembre (additif Ã©galement prÃ©sent).",
+                                  "date":  "il y a un mois"
+                              },
+                              {
+                                  "author":  "Charbel DATO",
+                                  "rating":  1,
+                                  "text":  "Le riz est sec aucune subtilitÃ©. La viande encore pire. J\u0027ai entendu les mÃ©rites mais je suis allÃ© deux fois et a chaque fois j\u0027ai Ã©tÃ© dÃ©Ã§u. Il y a mieux comme prÃ©parer de tchÃ¨que",
+                                  "date":  "il y a 9Â ans"
+                              },
+                              {
+                                  "author":  "linette sogansa",
+                                  "rating":  4,
+                                  "text":  "Le seul endroit oÃ¹ je vais manger le Tchep Ã  Cotonou. Plat bien fourni avec plein de lÃ©gumes. Si on est pas un grand gourmand,mieux vaut prendre un demi plat au risque de laisser une grande quantitÃ© de nourriture dans le plat. Des jus naturels sont disponibles pour accompagner le repas.",
+                                  "date":  "il y a 6Â ans"
+                              }
+                          ],
+        "budgetMin":  2500
+    },
+    {
+        "id":  17,
+        "slug":  "linsolite",
+        "rank":  17,
+        "name":  "L\u0027insolite",
+        "city":  "Cotonou",
+        "area":  "Cotonou",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.7,
+        "googleUserRatingCount":  63,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepxdewoQ9WfCHfJUTWgGsPe6CEl56XSN94bWFOS7-DuxKKkT1jCdz9VVugU6JJAwYunpy_XHO-l_x6o3rsna33EL9uugizSZd0te9-rB-ae7kxu_vdNlw7M7TAF997SYyMwyUqGPWuKHsFc=w224-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  76,
+        "budgetLabel":  "8 000 - 14 000 FCFA / pers.",
+        "budgetMax":  14000,
+        "badge":  "Coup de cÅ“ur",
+        "badgeColor":  "#e23844",
+        "editorialSummary":  "\"Excellent service, la nourriture et lâ€™ambiance sont top!\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 11h00â€“23h00 | Mer: 11h00â€“23h00 | Jeu: 11h00â€“23h00 | Ven: 11h00â€“23h00 | Sam: 11h00â€“23h00 | Dim: 11h00â€“23h00 | Lun: 11h00â€“23h00",
+        "contactPhone":  "+229 01 67 26 01 75",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3653438,2.4121001",
+        "tags":  [
+                     "restaurant",
+                     "cadre",
+                     "salles",
+                     "poisson"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Key Me.",
+                                  "rating":  5,
+                                  "text":  "Nous avons trÃ¨s bien dÃ©jeunÃ© ! Notre table Ã©tait sous une petite paillote ventilÃ©e avec un lavabo pour nous laver les mains.\nLes plats Ã©taient trÃ¨s bien cuisinÃ©s et le service chaleureux.\nJe recommande ce restaurant !",
+                                  "date":  "il y a 2Â ans"
+                              },
+                              {
+                                  "author":  "Yvan GOMEZ",
+                                  "rating":  5,
+                                  "text":  "Lieu trÃ¨s sympathique et personnel accueillant. La cuisine Ã©tait bonne et nous avons passÃ© un excellent moment.",
+                                  "date":  "il y a 3Â mois"
+                              },
+                              {
+                                  "author":  "Rodney GBAGUIDI",
+                                  "rating":  4,
+                                  "text":  "Tout nouveau Ã  Cotonou, c\u0027est un bon restaurant oÃ¹ vous pouvez manger africain et surtout ivoirien . Vous y trouverez des salles VIP et trÃ¨s prochainement un club cigare. IdÃ©al pour les afterwork ou pour des moments en famille. Testez et vous ne serez pas dÃ©Ã§u ! Je recommande....\nVisitÃ© Ã  nouveau ce jour 01 Mai 2022 , toujours Top !",
+                                  "date":  "ModifiÃ© il y a 3Â ans"
+                              }
+                          ],
+        "budgetMin":  8000
+    },
+    {
+        "id":  18,
+        "slug":  "escobar",
+        "rank":  18,
+        "name":  "ESCOBAR",
+        "city":  "Cotonou",
+        "area":  "Cotonou",
+        "cuisine":  "Restaurant",
+        "googleRating":  4.8,
+        "googleUserRatingCount":  53,
+        "googlePriceLevel":  1,
+        "heroImage":  "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqaxDAjTYADpU2-FiFqoOe7PYQeq-gF5s45coU5AhsZcUuhUld1bQxQcXQ4kWjsWgRfTY6nIxEj_ia6w3vvEmqEFpo7VXB5FuTbbZUyIPU3vZb5B3165DqZ7J8cJMXTTu87utl1=w238-h298-k-no",
+        "gallery":  [
+
+                    ],
+        "miwadooScore":  77,
+        "budgetLabel":  "7 000 - 12 000 FCFA / pers.",
+        "budgetMax":  12000,
+        "badge":  "Coup de cÅ“ur",
+        "badgeColor":  "#e23844",
+        "editorialSummary":  "\"CrÃ¨me de la crÃ¨me\"",
+        "strengths":  [
+                          "Ã€ complÃ©ter aprÃ¨s visite"
+                      ],
+        "weaknesses":  [
+
+                       ],
+        "recommendedDishes":  [
+                                  "Ã€ complÃ©ter aprÃ¨s visite"
+                              ],
+        "openingHours":  "Mar: 00:00â€“02:00, 11:30â€“00:00 | Mer: 00:00â€“02:00, 11:30â€“00:00 | Jeu: 00:00â€“02:00, 11:30â€“00:00 | Ven: 00:00â€“02:00, 11:30â€“00:00 | Sam: 00:00â€“06:00, 11:30â€“00:00 | Dim: 00:00â€“06:00, 15:00â€“00:00 | Lun: 00:00â€“02:00, 11:30â€“00:00",
+        "contactPhone":  "+229 01 97 77 77 77",
+        "mapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.3559579,2.4175618",
+        "tags":  [
+                     "restaurant",
+                     "stationnement",
+                     "libanais",
+                     "musique",
+                     "equipe",
+                     "service"
+                 ],
+        "googleReviews":  [
+                              {
+                                  "author":  "Hafsi Dorra",
+                                  "rating":  5,
+                                  "text":  "L meilleur restaurant pour moi Ã©quipe top de top trÃ¨s accueillant, souriant, top de gentillesse repas dÃ©licieux et diffÃ©rents et les prix acceptable bonne continuationâ€¦",
+                                  "date":  "il y a 2Â ans"
+                              },
+                              {
+                                  "author":  "Ecclisias Gnansounou",
+                                  "rating":  5,
+                                  "text":  "Vraiment câ€™est le meilleure restaurant tout est parfaite",
+                                  "date":  "il y a 3Â mois"
+                              },
+                              {
+                                  "author":  "Paulette Luz",
+                                  "rating":  5,
+                                  "text":  "Les repas sont au top",
+                                  "date":  "il y a 2Â mois"
+                              }
+                          ],
+        "budgetMin":  7000
+    }
+];
+
+// â”€â”€â”€ Utilitaires â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+function starsHTML(rating) {
+  const full = Math.floor(rating);
+  const half = rating % 1 >= 0.5;
+  let h = 'â˜…'.repeat(full);
+  if (half) h += 'Â½';
+  h += 'â˜†'.repeat(5 - full - (half ? 1 : 0));
+  return h;
+}
+
+function priceLevelLabel(level) {
+  return { 1: 'â‚¬ TrÃ¨s accessible', 2: 'â‚¬â‚¬ Accessible', 3: 'â‚¬â‚¬â‚¬ Moyen' }[level] || '';
+}
+
+function getRestaurantBySlug(slug) {
+  return RESTAURANTS.find(r => r.slug === slug) || null;
+}
+
