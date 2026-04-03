@@ -3,10 +3,11 @@
  * Récupère : données de base + avis réels + horaires + téléphone
  *
  * Usage : node scraper.js
- * Budget API estimé : ~65 requêtes (sur 100 gratuites/mois)
- *   - 4 recherches google_local
- *   - 20 × google_maps_reviews  (avis)
- *   - 20 × google_maps search   (horaires + téléphone)
+ * Budget API estimé : ~215 requêtes pour 100 restaurants
+ *   - 15 recherches google_local  (~15 req)
+ *   - 100 × google_maps           (détails)
+ *   - 100 × google_maps_reviews   (avis)
+ * ⚠️  Le cache évite de re-dépenser sur les restos déjà fetchés.
  */
 
 const https  = require('https');
@@ -17,14 +18,32 @@ const path   = require('path');
 const API_KEY     = '655dfb50aa957907b7c2ed834a83deb4c4b4ba42e3dec37e14e29879858f2657';
 const CACHE_FILE  = path.join(__dirname, 'data', 'cache.json');
 const OUTPUT_FILE = path.join(__dirname, 'assets', 'js', 'restaurants.js');
-const TARGET      = 20;
+const TARGET      = 100;
 const DELAY_MS    = 800;
 
 const SEARCH_QUERIES = [
+  // Généralistes
   'restaurant Cotonou',
   'maquis restaurant Cotonou',
   'restauration rapide Cotonou',
   'restaurant africain Cotonou Benin',
+  'restaurant populaire Cotonou',
+  // Par quartier
+  'restaurant Fidjrossè Cotonou',
+  'restaurant Cadjèhoun Cotonou',
+  'restaurant Haie Vive Cotonou',
+  'restaurant Akpakpa Cotonou',
+  'restaurant Dantokpa Cotonou',
+  'restaurant Gbèdjromèdji Cotonou',
+  // Par type de cuisine
+  'fast food Cotonou',
+  'pizza restaurant Cotonou',
+  'grillades brochettes Cotonou',
+  'maquis ivoirien Cotonou',
+  'restaurant libanais Cotonou',
+  'snack buvette Cotonou',
+  'restaurant gastronomique Cotonou',
+  'brasserie Cotonou',
 ];
 
 // Images Unsplash HD de secours (tournantes selon l'index)
@@ -87,11 +106,11 @@ function priceSymbolToLevel(price) {
 }
 
 function priceLevelToFCFA(level) {
-  return { 1: '~1 500 FCFA / pers.', 2: '~2 500 FCFA / pers.', 3: '~4 000 FCFA / pers.' }[level] || '~2 000 FCFA / pers.';
+  return { 1: '~4 500 FCFA / pers.', 2: '~9 000 FCFA / pers.', 3: '~18 000 FCFA / pers.' }[level] || '~4 500 FCFA / pers.';
 }
 
 function priceLevelToMax(level) {
-  return { 1: 1800, 2: 3000, 3: 5000 }[level] || 2500;
+  return { 1: 4500, 2: 9000, 3: 18000 }[level] || 4500;
 }
 
 function chooseBadge(rating, reviews, priceLevel) {
@@ -438,7 +457,8 @@ async function main() {
   console.log(`   Avec avis Google    : ${avecAvis}/${restaurants.length}`);
   console.log(`   Avec téléphone      : ${avecPhone}/${restaurants.length}`);
   console.log(`   Avec horaires       : ${avecHoraires}/${restaurants.length}`);
-  console.log('\n📌 À compléter manuellement : strengths, weaknesses, recommendedDishes, gallery\n');
+  console.log('\n📌 À compléter manuellement : strengths, weaknesses, recommendedDishes, gallery');
+  console.log('💡 Pense à ajuster budgetLabel/budgetMax dans restaurants.js après le scrape.\n');
 }
 
 main().catch(e => { console.error('\n❌ Erreur fatale :', e.message); process.exit(1); });

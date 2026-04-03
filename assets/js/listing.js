@@ -9,6 +9,55 @@ function init() {
   buildFilters();
   renderGrid(RESTAURANTS);
   bindEvents();
+  initCarousel();
+}
+
+function initCarousel() {
+  const wrap  = document.getElementById('hero-carousel');
+  const dotsW = document.getElementById('hero-dots');
+  const label = document.getElementById('hero-slide-label');
+  if (!wrap) return;
+
+  // Prendre les 10 premiers restos avec vraie photo Google
+  const picks = RESTAURANTS
+    .filter(r => r.heroImage && r.heroImage.includes('lh3.googleusercontent'))
+    .slice(0, 10);
+
+  if (!picks.length) return;
+
+  // Créer les slides
+  picks.forEach((r, i) => {
+    const slide = document.createElement('div');
+    slide.className = 'c-slide' + (i === 0 ? ' active' : '');
+    slide.style.backgroundImage = `url('${r.heroImage}')`;
+    wrap.appendChild(slide);
+
+    // Indicateur
+    const dot = document.createElement('div');
+    dot.className = 'dot' + (i === 0 ? ' active' : '');
+    dot.addEventListener('click', () => goTo(i));
+    dotsW.appendChild(dot);
+  });
+
+  if (label) label.textContent = picks[0].name;
+
+  let current = 0;
+  const slides = wrap.querySelectorAll('.c-slide');
+  const dots   = dotsW.querySelectorAll('.dot');
+
+  function goTo(idx) {
+    slides[current].classList.remove('active');
+    dots[current].classList.remove('active');
+    current = (idx + slides.length) % slides.length;
+    slides[current].classList.add('active');
+    dots[current].classList.add('active');
+    if (label) label.textContent = picks[current].name;
+  }
+
+  const timer = setInterval(() => goTo(current + 1), 5000);
+
+  // Pause au survol
+  wrap.closest('.hero')?.addEventListener('mouseenter', () => clearInterval(timer));
 }
 
 function buildFilters() {

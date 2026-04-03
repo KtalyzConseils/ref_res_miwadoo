@@ -1,0 +1,452 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Articles Conseils Culinaires & Recettes | MIWADOO Restau</title>
+  <meta name="description" content="Conseils culinaires pratiques, astuces de chef et recettes faciles pour cuisiner mieux au quotidien avec MIWADOO Restau.">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" href="https://www.miwadoo.com/img/icons/miadoo.png" type="image/png">
+  <style>
+    .articles-hero {
+      background: linear-gradient(135deg, #e23844 0%, #c0272f 100%);
+      color: white;
+      padding: 74px 20px 66px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .articles-hero::before,
+    .articles-hero::after {
+      content: '';
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.1);
+    }
+
+    .articles-hero::before {
+      width: 300px;
+      height: 300px;
+      top: -120px;
+      right: -90px;
+    }
+
+    .articles-hero::after {
+      width: 220px;
+      height: 220px;
+      bottom: -90px;
+      left: -60px;
+    }
+
+    .articles-hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+      text-align: center;
+    }
+
+    .articles-hero-tag {
+      display: inline-block;
+      background: rgba(255, 255, 255, 0.18);
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .articles-hero h1 {
+      font-size: 40px;
+      font-weight: 800;
+      line-height: 1.2;
+      margin-bottom: 12px;
+    }
+
+    .articles-hero p {
+      max-width: 780px;
+      margin: 0 auto;
+      font-size: 16px;
+      color: rgba(255, 255, 255, 0.9);
+      line-height: 1.8;
+    }
+
+    .articles-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 42px 20px 10px;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .section-head h2 {
+      font-size: 28px;
+      font-weight: 800;
+      color: var(--text);
+      letter-spacing: -0.3px;
+    }
+
+    .section-note {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 22px;
+      margin-bottom: 40px;
+    }
+
+    .article-card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 22px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .article-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-hover);
+    }
+
+    .article-label {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: var(--primary);
+      background: var(--primary-light);
+      padding: 5px 11px;
+      border-radius: 20px;
+      margin-bottom: 12px;
+    }
+
+    .article-card h3 {
+      font-size: 20px;
+      line-height: 1.35;
+      margin-bottom: 8px;
+      color: #1f2630;
+    }
+
+    .article-meta {
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      color: var(--muted);
+      margin-bottom: 12px;
+    }
+
+    .article-card p {
+      color: #4f5864;
+      font-size: 14px;
+      line-height: 1.75;
+    }
+
+    .article-list {
+      margin-top: 12px;
+      padding-left: 18px;
+      color: #4f5864;
+      font-size: 13px;
+      line-height: 1.8;
+    }
+
+    .article-list li { margin-bottom: 4px; }
+
+    .recipe-focus {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 28px;
+      margin-bottom: 40px;
+    }
+
+    .recipe-focus h2 {
+      font-size: 26px;
+      font-weight: 800;
+      margin-bottom: 4px;
+    }
+
+    .recipe-focus .recipe-meta {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+
+    .recipe-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 22px;
+    }
+
+    .recipe-col {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+      background: #fff;
+    }
+
+    .recipe-col h4 {
+      font-size: 17px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: #202833;
+    }
+
+    .recipe-col ul,
+    .recipe-col ol {
+      padding-left: 20px;
+      color: #4f5864;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .recipe-col li { margin-bottom: 5px; }
+
+    .recipe-tip {
+      margin-top: 16px;
+      border-left: 4px solid var(--primary);
+      background: #fff4f5;
+      padding: 12px 14px;
+      border-radius: 8px;
+      color: #7a2b33;
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .cta-strip {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+
+    .cta-strip h3 {
+      font-size: 22px;
+      font-weight: 800;
+      margin-bottom: 5px;
+      color: #1f2630;
+    }
+
+    .cta-strip p {
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .cta-btn {
+      background: var(--primary);
+      color: white;
+      border-radius: 999px;
+      padding: 12px 20px;
+      font-size: 13px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      transition: background 0.2s, transform 0.15s;
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    .cta-btn:hover {
+      background: var(--primary-dark);
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 1024px) {
+      .article-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 768px) {
+      .articles-hero h1 { font-size: 30px; }
+      .article-grid { grid-template-columns: 1fr; }
+      .recipe-grid { grid-template-columns: 1fr; }
+      .recipe-focus,
+      .article-card,
+      .cta-strip { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ======= HEADER ======= -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="logo">
+      MIWADOO
+      <span class="logo-badge">Restau</span>
+    </a>
+
+    <nav>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="index.html" class="active">Accueil</a></li>
+        <li><a href="methode.html">Notre méthode</a></li>
+        <li><a href="articles.html">Conseils et recettes</a></li>
+        <li><a href="https://www.miwadoo.com" target="_blank" class="nav-cta">Commander sur MIWADOO</a></li>
+      </ul>
+    </nav>
+
+    <button class="burger" id="burger-btn" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<section class="articles-hero">
+  <div class="articles-hero-inner">
+    <span class="articles-hero-tag">Conseils Culinaires & Recettes</span>
+    <h1>Le coin cuisine de MIWADOO Restau</h1>
+    <p>Des contenus pratiques pour mieux cuisiner au quotidien: organisation en cuisine, techniques simples, idées de repas et recettes équilibrées accessibles à tous.</p>
+  </div>
+</section>
+
+<main class="articles-wrap">
+  <section>
+    <div class="section-head">
+      <h2>Articles à lire cette semaine</h2>
+      <span class="section-note">Mise à jour éditoriale: Avril 2026</span>
+    </div>
+
+    <div class="article-grid">
+      <article class="article-card">
+        <span class="article-label">Organisation</span>
+        <h3>Batch cooking: 2h de préparation pour 5 jours de repas</h3>
+        <div class="article-meta">Lecture: 5 min</div>
+        <p>Planifiez vos bases (protéines, féculents, légumes, sauces) pour composer des assiettes variées en moins de 15 minutes chaque soir.</p>
+        <ul class="article-list">
+          <li>Préparer une liste d'achats claire</li>
+          <li>Cuire en parallèle pour gagner du temps</li>
+          <li>Conserver sans perte de qualité</li>
+        </ul>
+      </article>
+
+      <article class="article-card">
+        <span class="article-label">Techniques</span>
+        <h3>7 astuces pour intensifier les saveurs sans trop saler</h3>
+        <div class="article-meta">Lecture: 4 min</div>
+        <p>Acidité, épices toastées, herbes fraîches, croustillant: apprenez à équilibrer vos plats avec des gestes simples et efficaces.</p>
+        <ul class="article-list">
+          <li>Le rôle du citron et du vinaigre</li>
+          <li>Comment torréfier les épices</li>
+          <li>Textures: fondant + croquant</li>
+        </ul>
+      </article>
+
+      <article class="article-card">
+        <span class="article-label">Nutrition</span>
+        <h3>Composer une assiette complète et économique</h3>
+        <div class="article-meta">Lecture: 6 min</div>
+        <p>Utilisez une méthode simple: 1 protéine + 1 féculent + 2 légumes + 1 condiment maison pour des repas équilibrés et abordables.</p>
+        <ul class="article-list">
+          <li>Repères de portions faciles</li>
+          <li>Exemples de menus petit budget</li>
+          <li>Idées de substitutions intelligentes</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="recipe-focus">
+    <h2>Recette vedette: Riz sauté au poulet et légumes</h2>
+    <p class="recipe-meta">Temps total: 30 min | Portions: 4 | Coût estimé: économique</p>
+
+    <div class="recipe-grid">
+      <div class="recipe-col">
+        <h4>Ingrédients</h4>
+        <ul>
+          <li>500 g de poulet émincé</li>
+          <li>350 g de riz déjà cuit et refroidi</li>
+          <li>1 poivron rouge, 1 carotte, 1 oignon</li>
+          <li>2 gousses d'ail hachées</li>
+          <li>2 c. à soupe d'huile</li>
+          <li>2 c. à soupe de sauce soja</li>
+          <li>1 c. à café de gingembre râpé</li>
+          <li>Sel, poivre, ciboulette ou persil</li>
+        </ul>
+      </div>
+
+      <div class="recipe-col">
+        <h4>Préparation</h4>
+        <ol>
+          <li>Chauffez l'huile dans une grande poêle ou un wok.</li>
+          <li>Faites revenir l'oignon, l'ail et le gingembre 2 minutes.</li>
+          <li>Ajoutez le poulet, salez légèrement et cuisez 6 à 8 minutes.</li>
+          <li>Incorporez carotte et poivron, puis laissez 4 minutes.</li>
+          <li>Ajoutez le riz froid et mélangez sur feu vif.</li>
+          <li>Versez la sauce soja, poivrez et remuez 2 minutes.</li>
+          <li>Terminez avec la ciboulette, servez chaud.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="recipe-tip"><strong>Astuce MIWADOO:</strong> utilisez du riz cuit la veille pour éviter qu'il ne colle et obtenir une texture plus légère au sauté.</div>
+  </section>
+
+  <section class="cta-strip">
+    <div>
+      <h3>Envie de gagner du temps en cuisine ?</h3>
+      <p>Commandez vos repas préférés sur MIWADOO quand votre planning est chargé.</p>
+    </div>
+    <a class="cta-btn" href="https://www.miwadoo.com" target="_blank">Commander sur MIWADOO</a>
+  </section>
+</main>
+
+<!-- ======= FOOTER ======= -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo" style="color:white;margin-bottom:10px">MIWADOO <span class="logo-badge">Restau</span></div>
+      <p>La référence des restaurants bon marché à Cotonou. Sélection éditoriale, avis vérifiés et budget affiché pour chaque adresse.</p>
+    </div>
+    <div class="footer-links">
+      <h5>Navigation</h5>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="methode.html">Notre méthode de classement</a></li>
+      </ul>
+    </div>
+    <div class="footer-links">
+      <h5>Miwadoo</h5>
+      <ul>
+        <li><a href="https://www.miwadoo.com" target="_blank">Commander un repas</a></li>
+        <li><a href="https://www.miwadoo.com" target="_blank">Application Miwadoo</a></li>
+        <li><a href="https://www.miwadoo.com/?open=recruitment" target="_blank">Devenir partenaire</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 <a href="https://www.miwadoo.com" target="_blank">MIWADOO</a> – Tous droits réservés</span>
+    <span>Les avis Google sont affichés avec attribution conformément aux CGU Google Maps Platform.</span>
+  </div>
+</footer>
+
+<script>
+  const burger = document.getElementById('burger-btn');
+  const nav = document.getElementById('nav-links');
+  if (burger) burger.addEventListener('click', () => nav.classList.toggle('open'));
+</script>
+</body>
+</html>

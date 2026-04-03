@@ -152,33 +152,81 @@ img { max-width: 100%; display: block; }
    HERO - PAGE LISTING
 =========================== */
 .hero {
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
   color: white;
   padding: 70px 20px 60px;
   text-align: center;
   position: relative;
   overflow: hidden;
+  min-height: 520px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.hero::before {
-  content: '';
+/* ── Carrousel ── */
+.hero-carousel {
   position: absolute;
-  top: -80px; right: -80px;
-  width: 300px; height: 300px;
-  background: var(--primary);
-  border-radius: 50%;
-  opacity: 0.08;
+  inset: 0;
+  z-index: 0;
 }
 
-.hero::after {
-  content: '';
+.hero-carousel .c-slide {
   position: absolute;
-  bottom: -60px; left: -60px;
-  width: 200px; height: 200px;
-  background: var(--gold);
-  border-radius: 50%;
-  opacity: 0.06;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 1.4s ease;
 }
+
+.hero-carousel .c-slide.active { opacity: 1; }
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(26,26,46,0.82) 0%, rgba(15,52,96,0.72) 100%);
+  z-index: 1;
+}
+
+/* indicateurs */
+.hero-dots {
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 7px;
+  z-index: 3;
+}
+
+.hero-dots .dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.4);
+  cursor: pointer;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.hero-dots .dot.active {
+  background: white;
+  transform: scale(1.3);
+}
+
+/* label restaurant en bas à gauche */
+.hero-slide-label {
+  position: absolute;
+  bottom: 46px;
+  left: 24px;
+  z-index: 3;
+  font-size: 11px;
+  font-weight: 700;
+  color: rgba(255,255,255,0.6);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+
+.hero-content { position: relative; z-index: 2; }
 
 .hero-content { position: relative; z-index: 1; max-width: 700px; margin: 0 auto; }
 
