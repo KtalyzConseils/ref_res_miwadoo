@@ -439,26 +439,15 @@ img { max-width: 100%; display: block; }
   margin: 0 4px;
 }
 
-/* Responsive */
+/* Responsive — filters inside .filters-inner become column on narrow screens (desktop fallback) */
 @media (max-width: 768px) {
   .filters-inner {
     flex-direction: column;
     align-items: stretch;
   }
-  
-  .filter-group {
-    justify-content: space-between;
-  }
-  
-  .filter-count {
-    margin-left: 0;
-    text-align: center;
-    padding-top: 8px;
-  }
-  
-  .filter-divider {
-    display: none;
-  }
+  .filter-group { justify-content: space-between; }
+  .filter-count { margin-left: 0; text-align: center; padding-top: 8px; }
+  .filter-divider { display: none; }
 }
 /* ===========================
    RESTAURANT GRID
@@ -1353,14 +1342,98 @@ img { max-width: 100%; display: block; }
   .hero h1 { font-size: 26px; }
   .hero-stats { gap: 20px; }
   .restaurant-grid { grid-template-columns: 1fr; }
-  .filters-inner { gap: 8px; }
-  .filter-count { display: none; }
   .detail-hero { height: 280px; }
   .detail-name { font-size: 24px; }
   .detail-sidebar { grid-template-columns: 1fr; }
   .related-grid { grid-template-columns: 1fr; }
   .footer-inner { flex-direction: column; gap: 28px; }
   .footer-bottom { flex-direction: column; gap: 6px; text-align: center; }
+
+  /* ── SPLIT LAYOUT : filtres en colonne latérale ── */
+  #content-wrapper {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  /* Panneau de filtres = colonne collante à gauche */
+  #filters-panel {
+    max-height: none !important;        /* annule l'animation max-height du desktop */
+    width: clamp(148px, 42vw, 210px);
+    flex-shrink: 0;
+    position: sticky;
+    top: 64px;
+    height: calc(100vh - 64px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-bottom: none;
+    border-right: 1px solid var(--border);
+    padding: 14px 10px;
+    background: white;
+    transition: width 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+    z-index: 10;
+  }
+
+  #filters-panel.filters-hidden {
+    max-height: none !important;
+    width: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    opacity: 0;
+    overflow: hidden;
+    border-right: none;
+  }
+
+  /* Listing prend le reste de la largeur */
+  #listing-section {
+    flex: 1;
+    min-width: 0;
+    padding: 16px 10px 40px;
+  }
+
+  /* Intérieur du panel : colonne compacte */
+  #filters-panel .filters-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 0;
+    max-width: none;
+    margin: 0;
+  }
+
+  #filters-panel .filter-group {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    justify-content: flex-start;
+    width: 100%;
+  }
+
+  #filters-panel .filter-btn {
+    white-space: normal;
+    font-size: 11px;
+    padding: 5px 10px;
+    width: 100%;
+    text-align: left;
+  }
+
+  #filters-panel #filter-cuisine,
+  #filters-panel #filter-area {
+    flex-direction: column !important;
+    gap: 4px !important;
+    width: 100%;
+  }
+
+  #filters-panel .filter-select {
+    width: 100%;
+    font-size: 12px;
+  }
+
+  #filters-panel .filter-count {
+    display: block !important;
+    font-size: 11px;
+    text-align: left;
+    margin-top: 4px;
+  }
 }
 
 @media (max-width: 480px) {

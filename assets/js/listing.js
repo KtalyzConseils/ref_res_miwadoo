@@ -123,12 +123,23 @@ function bindEvents() {
   const filterToggle = document.getElementById('filter-toggle-btn');
   const filtersPanel = document.getElementById('filters-panel');
   if (filterToggle && filtersPanel) {
-    // Set initial max-height so the transition works
-    filtersPanel.style.maxHeight = filtersPanel.scrollHeight + 'px';
+    const isMobile = () => window.innerWidth <= 768;
+
+    // État initial : caché sur mobile, visible sur desktop
+    if (isMobile()) {
+      filtersPanel.classList.add('filters-hidden');
+    } else {
+      filtersPanel.style.maxHeight = filtersPanel.scrollHeight + 'px';
+      filterToggle.classList.add('active');
+    }
+
     filterToggle.addEventListener('click', () => {
-      const hidden = filtersPanel.classList.toggle('filters-hidden');
-      filterToggle.classList.toggle('active', !hidden);
-      if (!hidden) filtersPanel.style.maxHeight = filtersPanel.scrollHeight + 'px';
+      const nowHidden = filtersPanel.classList.toggle('filters-hidden');
+      filterToggle.classList.toggle('active', !nowHidden);
+      // Sur desktop seulement : animer via max-height
+      if (!nowHidden && !isMobile()) {
+        filtersPanel.style.maxHeight = filtersPanel.scrollHeight + 'px';
+      }
     });
   }
 
