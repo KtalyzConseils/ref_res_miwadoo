@@ -19,11 +19,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Un fast food super intéressant qui propose plusieurs variétés.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cadre soigné à Ganhi",
+      "Terrasse agréable et espace jeux pour enfants"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Glaces italiennes artisanales",
+      "Burgers et frites (Mc Bouffe)"
     ],
     "openingHours": "Jeu: 07:00–00:00 | Ven: 07:00–00:00 | Sam: 07:00–00:00 | Dim: 07:00–00:00 | Lun: 07:00–00:00 | Mar: 07:00–00:00 | Mer: 07:00–00:00",
     "contactPhone": "+229 60101010",
@@ -77,11 +79,14 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"La cuisine est juste exquise et le service est impeccable.\"",
     "strengths": [
-      "À compléter après visite"
+      "Buffet varié le dimanche soir",
+      "Ambiance conviviale avec musique live"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Poulet Yassa",
+      "Thieboudienne (riz au poisson)",
+      "Spécialités sénégalaises"
     ],
     "openingHours": "Mar: 09:00–01:00 | Mer: 09:00–01:00 | Jeu: 09:00–01:00 | Ven: 09:00–01:00 | Sam: 09:00–01:00 | Dim: 09:00–01:00 | Lun: 09:00–01:00",
     "contactPhone": "+229 21302929",
@@ -135,11 +140,14 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"La cuisine est excellente et l'ambiance est conviviale .\"",
     "strengths": [
-      "À compléter après visite"
+      "Emplacement exceptionnel en bord de mer",
+      "Terrasse sur le sable"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Langoustes grillées",
+      "Poissons frais du jour",
+      "Calamars"
     ],
     "openingHours": "Jeu: 11:00–22:30 | Ven: 11:00–22:30 | Sam: 11:00–22:30 | Dim: 11:00–22:30 | Lun: Fermé | Mar: 11:00–22:30 | Mer: 11:00–22:30",
     "contactPhone": "+229 01 95 55 00 03",
@@ -193,11 +201,15 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Restaurant situé proche de l'aéroport...crème glacée et fast food\"",
     "strengths": [
-      "À compléter après visite"
+      "Design moderne et épuré",
+      "Idéal pour une pause gourmande ou un rendez-vous"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Gelato",
+      "Crêpes",
+      "Gaufres",
+      "Pizzas fines"
     ],
     "openingHours": "Mar: 09:00–23:30 | Mer: 09:00–23:30 | Jeu: 09:00–23:30 | Ven: 09:00–23:30 | Sam: 09:00–23:30 | Dim: 09:00–23:30 | Lun: 09:00–23:30",
     "contactPhone": "+229 01 65 25 00 00",
@@ -251,11 +263,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Bonne cuisine, belle ambiance et service rapide\"",
     "strengths": [
-      "À compléter après visite"
+      "Cadre artistique et jardin calme",
+      "Ambiance culturelle unique à Cotonou"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Souris d'agneau",
+      "Poisson grillé"
     ],
     "openingHours": "Jeu: 12:00–01:00 | Ven: 12:00–02:00 | Sam: 12:00–02:00 | Dim: 12:00–01:00 | Lun: 12:00–01:00 | Mar: 12:00–01:00 | Mer: 12:00–01:00",
     "contactPhone": "+229 01 67 54 98 58",
@@ -309,11 +323,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Restaurant libanais servant une cuisine de bonne qualité\"",
     "strengths": [
-      "À compléter après visite"
+      "Service non-stop 24h/24",
+      "Idéal après les sorties nocturnes"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Chawarma",
+      "Poulet-frites"
     ],
     "openingHours": "Jeu: 10:00–02:00 | Ven: 10:00–02:00 | Sam: 10:00–02:00 | Dim: 10:00–02:00 | Lun: 10:00–02:00 | Mar: 10:00–02:00 | Mer: 10:00–02:00",
     "contactPhone": "+229 01 97 96 66 66",
@@ -326,26 +342,7 @@ const RESTAURANTS = [
       "service",
       "mal"
     ],
-    "googleReviews": [
-      {
-        "author": "oscar dovonou",
-        "rating": 4,
-        "text": "Fast-food propre, bien organisé et très accueillant. Le service est rapide, le personnel courtois et attentif. Les plats sont savoureux, bien préparés et servis chauds. Les portions sont correctes et le rapport qualité-prix est intéressant. Idéal pour manger rapidement sans négliger la qualité.",
-        "date": "il y a 2 mois"
-      },
-      {
-        "author": "Jonathan Njembe",
-        "rating": 5,
-        "text": "Mangé sur place trois jours d'affilée avec 5-6 collègues et a chaque fois nous avons été servis très rapidement.\nLe menu est varié et disponible.\nJe recommande",
-        "date": "il y a 7 mois"
-      },
-      {
-        "author": "Omotola Adeothy",
-        "rating": 1,
-        "text": "Le Shawarma du site de Ganhi est acide. Je n'ai pas pu manger ça",
-        "date": "il y a 3 mois"
-      }
-    ]
+    "googleReviews": []
   },
   {
     "id": 7,
@@ -367,11 +364,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Raviolis aux épinards excellents.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine mixte locale et européenne",
+      "Cadre décontracté"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Poisson braisé",
+      "Sauces locales"
     ],
     "openingHours": "Mar: 07:00–23:00 | Mer: 07:00–23:00 | Jeu: 07:00–23:00 | Ven: 07:00–00:00 | Sam: 07:00–00:00 | Dim: Fermé | Lun: 07:00–23:00",
     "contactPhone": "+229 01 66 97 40 40",
@@ -425,11 +424,14 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"La nourriture est bonne et bien faite avec des ingrédients équilibrés.\"",
     "strengths": [
-      "À compléter après visite"
+      "Accueil chaleureux",
+      "Grandes tablées idéales pour les groupes"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Mezzés mixtes (Houmous, Falafels)",
+      "Chawarmas",
+      "Grillades"
     ],
     "openingHours": "Jeu: 09:00–00:00 | Ven: 09:00–00:00 | Sam: 09:00–00:00 | Dim: 09:00–00:00 | Lun: 09:00–00:00 | Mar: 09:00–00:00 | Mer: 09:00–00:00",
     "contactPhone": "+229 97888188",
@@ -483,11 +485,14 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Cuisine savoureuse, ambiance sympathique.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cadre exotique et calme",
+      "Cuisine thaïlandaise raffinée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pad Thaï",
+      "Curry Vert",
+      "Soupe Tom Yum"
     ],
     "openingHours": "Jeu: 12:00–14:30, 19:00–23:00 | Ven: 12:00–14:30, 19:00–23:00 | Sam: 12:00–14:30, 19:00–23:00 | Dim: 12:00–14:30, 19:00–23:00 | Lun: Fermé | Mar: 12:00–14:30, 19:00–23:00 | Mer: 12:00–14:30, 19:00–23:00",
     "contactPhone": "+229 01 21 30 37 86",
@@ -541,11 +546,14 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Service Impeccable.\"",
     "strengths": [
-      "À compléter après visite"
+      "Saveurs indiennes authentiques",
+      "Épices bien dosées"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Butter Chicken",
+      "Naans au fromage",
+      "Biryani"
     ],
     "openingHours": "Jeu: 12:00–15:00, 18:30–23:30 | Ven: 12:00–15:00, 18:30–23:30 | Sam: 12:00–15:00, 18:30–23:30 | Dim: 12:00–15:00, 18:30–23:30 | Lun: 18:30–23:00 | Mar: 12:00–15:00, 19:00–23:30 | Mer: 12:00–15:00, 18:30–23:30",
     "contactPhone": "+229 01 96 18 16 23",
@@ -599,11 +607,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"L’endroit est parfait pour se relaxer tout en profitant d’un bon repas.\"",
     "strengths": [
-      "À compléter après visite"
+      "Vue sur la lagune",
+      "Cadre naturel et dépaysant"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Gambas grillées",
+      "Frites d'igname"
     ],
     "openingHours": "Mar: 10:00–22:00 | Mer: 10:00–22:00 | Jeu: 10:00–22:00 | Ven: 10:00–22:00 | Sam: 10:00–22:00 | Dim: 10:00–22:00 | Lun: 10:00–22:00",
     "contactPhone": "+229 91954444",
@@ -657,11 +667,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"La cuisine aussi est top.\"",
     "strengths": [
-      "À compléter après visite"
+      "Libanais de qualité constante",
+      "Portions généreuses"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Chawarma bœuf/poulet",
+      "Plateau de mezzés"
     ],
     "openingHours": "Mar: 12:00–23:00 | Mer: 12:00–23:00 | Jeu: 12:00–23:00 | Ven: 12:00–23:00 | Sam: 12:00–23:00 | Dim: 12:00–23:00 | Lun: Fermé",
     "contactPhone": "+229 66555999",
@@ -715,11 +727,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Service rapide et bien fait\"",
     "strengths": [
-      "À compléter après visite"
+      "Incontournable du chawarma à Cotonou",
+      "Service rapide"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Chawarma",
+      "Poulet rôti"
     ],
     "openingHours": "Jeu: 00:00–06:00, 10:00–00:00 | Ven: 00:00–06:00, 10:00–00:00 | Sam: 00:00–06:00, 10:00–00:00 | Dim: 00:00–06:00, 10:00–00:00 | Lun: 00:00–06:00, 12:00–00:00 | Mar: 00:00–06:00, 12:00–00:00 | Mer: 00:00–06:00, 10:00–00:00",
     "contactPhone": "+229 01 96 11 69 43",
@@ -773,11 +787,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Le service est superbe et la nourriture est excellente.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine ivoirienne authentique",
+      "Ambiance maquis décontractée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Kédjenou de poulet",
+      "Kédjenou d'agouti servi avec de l'attiéké"
     ],
     "openingHours": "Mar: 12:00–17:00 | Mer: 12:00–17:00 | Jeu: 12:00–17:00 | Ven: 12:00–17:00 | Sam: Fermé | Dim: Fermé | Lun: 12:00–17:00",
     "contactPhone": "+229 01 60 02 29 29",
@@ -790,26 +806,7 @@ const RESTAURANTS = [
       "kedjenou",
       "qualite"
     ],
-    "googleReviews": [
-      {
-        "author": "Carmelle Okoumassoun",
-        "rating": 4,
-        "text": "Très bel endroit. Le service était assez lent et pas très stratégique...je crois que la jeune dame qui s'est occupé de nous était nouvelle. Mais le repas était excellent. Je recommande et j'y retournerais avec joie😀❤️",
-        "date": "il y a 4 mois"
-      },
-      {
-        "author": "Elodie Kougnimon",
-        "rating": 4,
-        "text": "Top 3 de mes meilleurs restaurants Africains.  Le service est vraiment bien et le personnel très agréable.\nMes plats préférés sont le choucouya poulet ou tilapia/carpe braisé/e avec atieke et alloco puis la sauce graine avec le foutou banane.\nLe décor est atypique mais attention aux moucherons.\nEn temps de pluie les grosses flaques d’eau peuvent décourager mais le déplacement en vaudra le coup ( pour les amoureux de la bonne table comme moi).",
-        "date": "il y a un an"
-      },
-      {
-        "author": "Pat34 pat34",
-        "rating": 4,
-        "text": "Semaine dernière nous avions pris à emporter alors nous avons décidé d'essayer de déjeuner sur place. Accueil chaleureux, serveuses à l'écoute, les plats sont très bons et copieux. Nous regretterons que le poisson 🐟 de mon épouse n'est pu être servi (30mn d'attente + 30mn car plat donné à un autre et donc 30mn supplémentaire pour le ravoir) avons dû le prendre à emporter. Mais bon à savoir commander avant d'arriver comme ça servi dans les temps...",
-        "date": "il y a 3 ans"
-      }
-    ]
+    "googleReviews": []
   },
   {
     "id": 15,
@@ -831,11 +828,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Le service est au top.\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance lounge et viandes braisées",
+      "Cadre soigné en terrasse"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Ribs de porc",
+      "Mixed grill"
     ],
     "openingHours": "Jeu: 17:30–01:00 | Ven: 18:00–03:00 | Sam: 18:00–03:00 | Dim: 18:00–01:00 | Lun: 18:00–01:00 | Mar: 18:00–01:00 | Mer: 18:00–01:00",
     "contactPhone": "+229 01 61 33 33 44",
@@ -889,11 +888,12 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Belle décoration, vent naturelle service au point.\"",
     "strengths": [
-      "À compléter après visite"
+      "Calme et authenticité",
+      "Cuisine béninoise sans fioritures"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Poulet bicyclette braisé"
     ],
     "openingHours": "Mar: 12:00–16:00, 19:00–23:00 | Mer: 12:00–16:00, 19:00–23:00 | Jeu: 12:00–16:00, 19:00–23:00 | Ven: 12:00–16:00, 19:00–23:00 | Sam: 12:00–16:00, 19:00–23:00 | Dim: 12:00–16:00, 19:00–23:00 | Lun: 12:00–16:00, 19:00–23:00",
     "contactPhone": "+229 01 94 12 83 53",
@@ -947,11 +947,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Très bon restaurant avec uniquement des plats du Bénin ou pays voisins.\"",
     "strengths": [
-      "À compléter après visite"
+      "Valorisation des produits du terroir béninois",
+      "Cadre propre"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Fromage local frit (Wagashi)",
+      "Sauces Crincrin et Gombo avec pâte"
     ],
     "openingHours": "Mar: 10:00–23:00 | Mer: 10:00–23:00 | Jeu: 10:00–23:00 | Ven: 10:00–23:00 | Sam: 10:00–23:00 | Dim: Fermé | Lun: 10:00–23:00",
     "contactPhone": "+229 01 64 64 64 67",
@@ -1005,11 +1007,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Bon accueil, cuisine service et ambiance excellent\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine familiale généreuse",
+      "Ambiance chaleureuse"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Riz au gras",
+      "Sauce graine"
     ],
     "openingHours": "Mar: 11:00–00:00 | Mer: 11:00–00:00 | Jeu: 11:00–00:00 | Ven: 11:00–00:00 | Sam: 11:00–00:00 | Dim: 11:00–00:00 | Lun: 11:00–00:00",
     "contactPhone": "+229 21323338",
@@ -1063,11 +1067,12 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Nourriture délicieuse et service impeccable!\"",
     "strengths": [
-      "À compléter après visite"
+      "Restauration rapide efficace",
+      "Menus complets à prix doux"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Menus burgers"
     ],
     "openingHours": "Jeu: 07:00–19:00 | Ven: 07:00–19:00 | Sam: 10:00–22:00 | Dim: 10:00–22:00 | Lun: 07:00–19:00 | Mar: 07:00–19:00 | Mer: 07:00–19:00",
     "contactPhone": "+229 01 66 64 44 03",
@@ -1121,11 +1126,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Le service est plus ou moins appréciable et l'ambiance est au top.\"",
     "strengths": [
-      "À compléter après visite"
+      "Accès direct à la plage",
+      "Ambiance festive le week-end"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Brochettes de crevettes",
+      "Poissons braisés"
     ],
     "openingHours": "Jeu: 10:00–20:00 | Ven: 10:00–20:00 | Sam: 10:00–22:00 | Dim: 10:00–22:00 | Lun: 10:00–20:00 | Mar: 10:00–20:00 | Mer: 10:00–20:00",
     "contactPhone": "+229 01 69 48 05 05",
@@ -1179,11 +1186,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Une plage magnifique, des pêcheurs au filet, et des vagues...\"",
     "strengths": [
-      "À compléter après visite"
+      "Déco moderne et cuisine saine",
+      "Idéal pour un repas équilibré"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Tacos mexicains",
+      "Buddha bowls"
     ],
     "openingHours": "Jeu: 11:00–22:00 | Ven: 11:00–22:00 | Sam: 11:00–22:00 | Dim: 11:00–22:00 | Lun: 11:00–22:00 | Mar: 11:00–22:00 | Mer: 11:00–22:00",
     "contactPhone": "+229 01 46 46 46 09",
@@ -1228,7 +1237,7 @@ const RESTAURANTS = [
     "googleRating": 4.1,
     "googleUserRatingCount": 307,
     "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepKpRPBZNfk96ZnXinUU_rj7tGbovCdWrDLNGgbcVN4SZ1ByP0rUPiNJTBbdcnpGHqzg0ZGGORBrfKqoAOzwIOgZImeGTp3RtsaR1Zr-lNIM6AICV3K-OKuTS9G890R1GY46aw_mzfaN8Lj=w141-h235-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 76,
     "budgetLabel": "~4 500 FCFA / pers.",
@@ -1237,11 +1246,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Les plats sont délicieux et la présentation est souvent impeccable.\"",
     "strengths": [
-      "À compléter après visite"
+      "Pieds dans le sable, vue sur l'océan",
+      "Poissons ultra-frais"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Barracuda grillé",
+      "Alloco"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -1271,11 +1282,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Terrasse agréable, bonne cuisine, pizzas, plats traditionnels.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine urbaine et variée",
+      "Cadre moderne"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Sandwichs variés",
+      "Frites"
     ],
     "openingHours": "Jeu: 10:30–00:30 | Ven: 10:30–00:30 | Sam: 10:30–00:30 | Dim: 10:30–00:30 | Lun: 10:30–00:30 | Mar: 10:30–00:30 | Mer: 10:30–00:30",
     "contactPhone": "+229 97011111",
@@ -1329,11 +1342,12 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Cote de boeuf accompagnée de frites campagnarde (épicé).\"",
     "strengths": [
-      "À compléter après visite"
+      "Présentation gastronomique soignée",
+      "Expérience culinaire créative"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Menu dégustation du chef"
     ],
     "openingHours": "Jeu: 12:00–02:00 | Ven: 12:00–03:00 | Sam: 12:00–03:00 | Dim: 12:00–03:00 | Lun: 18:00–02:00 | Mar: 12:00–02:00 | Mer: 12:00–02:00",
     "contactPhone": "+229 01 98 31 43 14",
@@ -1387,11 +1401,14 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"- Les hamburger sont super cool - le service est super sympa\"",
     "strengths": [
-      "À compléter après visite"
+      "Fast-food familial accessible",
+      "Large choix pour tous les goûts"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Nuggets",
+      "Pizzas",
+      "Burgers"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "+229 96969693",
@@ -1445,11 +1462,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"J'ai aimé l'ambiance et la cuisine.\"",
     "strengths": [
-      "À compléter après visite"
+      "Saveurs d'Afrique Centrale",
+      "Spécialités introuvables ailleurs à Cotonou"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Saka-Saka",
+      "Liboké de poisson"
     ],
     "openingHours": "Jeu: Fermé | Ven: 19:00–02:00 | Sam: 19:00–02:00 | Dim: 19:00–02:00 | Lun: 19:00–02:00 | Mar: 19:00–02:00 | Mer: 19:00–02:00",
     "contactPhone": "+229 01 40 18 81 02",
@@ -1485,66 +1504,8 @@ const RESTAURANTS = [
   },
   {
     "id": 27,
-    "slug": "king-food",
-    "rank": 27,
-    "name": "King Food",
-    "city": "Cotonou",
-    "area": ", Ave du Nouveau Pont",
-    "cuisine": "Restaurant",
-    "googleRating": 3.9,
-    "googleUserRatingCount": 345,
-    "googlePriceLevel": 1,
-    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqOvkXIYfTh0yO9eSZuEfqRps4TeX7yhiqzaDpfq5omfhGAv0nbk_NoBAIQ4ey88mciGYaQhPDbLFPLW5bczZpLNwttn6WQ2v3CT8rOwuEW0O8RaLK-0C0JPuq0BtrKy4AhtdDLsw=w397-h298-k-no",
-    "gallery": [],
-    "miwadooScore": 75,
-    "budgetLabel": "~4 500 FCFA / pers.",
-    "budgetMax": 4500,
-    "badge": "Très populaire",
-    "badgeColor": "#e67e22",
-    "editorialSummary": "\"Super expérience dans ce fast-food !\"",
-    "strengths": [
-      "À compléter après visite"
-    ],
-    "weaknesses": [],
-    "recommendedDishes": [
-      "À compléter après visite"
-    ],
-    "openingHours": "Horaires à confirmer",
-    "contactPhone": "+229 96969693",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.3611979,2.3750453",
-    "tags": [
-      "restaurant",
-      "chawarma",
-      "mal",
-      "pizza",
-      "prix",
-      "super"
-    ],
-    "googleReviews": [
-      {
-        "author": "Pamella Mbouna",
-        "rating": 3,
-        "text": "Moyen. Beau cadre bon service mais la nourriture (pizza) bizarre a mon goût. Mais pour le reste j’ai bien aimé",
-        "date": "il y a 3 ans"
-      },
-      {
-        "author": "Mr Bruce LANMANDOUCELO",
-        "rating": 2,
-        "text": "Lieu : 8/10  c’est jolie assez chip et relax\n\nService : 4/10 le serveur il a du mal à prendre les commandes. Mais sérieux incapable de dire en cuisine ce que le client commande.\n\nNourriture:  5/10 Passable vraiment passable je m’attendais à plus. Steak pas assez cuit dure très dure ( on a préciser on veut pas les saillant etc…),\nChawarma fait avec de la viande de mouton dégeu pas haché sans sauce tomate(POV: j’avais précisé tout ça ),\nAlloco bien fait,\nfrite bien fait,\npizza goût très bizarre",
-        "date": "Modifié il y a 2 ans"
-      },
-      {
-        "author": "Maurice Boris DANDJINOU",
-        "rating": 5,
-        "text": "Le menu très bien fourni, les sont abordables, un cadre très propre avec des serveuses belles et attentives. Le repas et très bien fait. Malgré sa situation au bord des pavés aucun bruit n'est ressenti à l'intérieur. Un top",
-        "date": "il y a 4 ans"
-      }
-    ]
-  },
-  {
-    "id": 28,
     "slug": "le-kidou-restaurant-buffet-haie-vive",
-    "rank": 28,
+    "rank": 27,
     "name": "Le kidou Restaurant Buffet Haie vive",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -1561,11 +1522,12 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Bonne cuisine, ambiance sympa, service plat à améliorer\"",
     "strengths": [
-      "À compléter après visite"
+      "Buffet géant afro-européen",
+      "Rapport qualité-prix excellent"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Buffet africain et européen à volonté"
     ],
     "openingHours": "Jeu: 12:00–00:00 | Ven: 12:00–00:00 | Sam: 12:00–00:00 | Dim: 12:00–00:00 | Lun: 12:00–00:00 | Mar: 12:00–00:00 | Mer: 12:00–00:00",
     "contactPhone": "+229 95614483",
@@ -1600,9 +1562,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "la-plage-by-code-bar",
-    "rank": 29,
+    "rank": 28,
     "name": "La Plage, by Code Bar.",
     "city": "Cotonou",
     "area": "Togbin plage",
@@ -1619,11 +1581,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Le lieu est bien La nourriture est top Je recommande vivement\"",
     "strengths": [
-      "À compléter après visite"
+      "Mixologie excellente (cocktails)",
+      "Vue imprenable sur l'océan"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Tapas variés",
+      "Burgers gourmets"
     ],
     "openingHours": "Jeu: 11:00–23:00 | Ven: 11:00–23:00 | Sam: 11:00–23:00 | Dim: 11:00–23:00 | Lun: Fermé | Mar: 11:00–23:00 | Mer: 11:00–23:00",
     "contactPhone": "+229 96901010",
@@ -1658,9 +1622,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "pura-vida-cafe",
-    "rank": 30,
+    "rank": 29,
     "name": "Pura Vida Café",
     "city": "Cotonou",
     "area": "Rue 954B",
@@ -1677,11 +1641,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Ambiance au top Cuisine et service à améliorer\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance détente et brunch",
+      "Cadre verdoyant et lumineux"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Avocado toast",
+      "Smoothies frais"
     ],
     "openingHours": "Jeu: 07:00–00:00 | Ven: 07:00–00:00 | Sam: 07:00–00:00 | Dim: Fermé | Lun: 07:00–00:00 | Mar: 07:00–00:00 | Mer: 07:00–00:00",
     "contactPhone": "+229 01 97 26 47 97",
@@ -1716,9 +1682,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "eats",
-    "rank": 31,
+    "rank": 30,
     "name": "EAT’S",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -1735,11 +1701,12 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Merci EAT'S pour votre Livraison rapide Goût délicieux et unique.\"",
     "strengths": [
-      "À compléter après visite"
+      "Street food revisitée et moderne",
+      "Cadre contemporain"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Street food revisitée"
     ],
     "openingHours": "Mar: 08:30–21:00 | Mer: 08:30–21:00 | Jeu: 08:30–21:00 | Ven: 08:30–21:00 | Sam: 08:30–21:00 | Dim: 08:30–21:00 | Lun: Fermé",
     "contactPhone": "+229 01 61 69 34 34",
@@ -1771,9 +1738,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "viva-mandarine",
-    "rank": 32,
+    "rank": 31,
     "name": "Viva mandarine",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -1790,11 +1757,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Très bonne cuisine, et satisfait du service.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine asiatique rapide et abordable",
+      "Service efficace"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Nems",
+      "Riz sauté"
     ],
     "openingHours": "Jeu: 09:00–00:00 | Ven: 09:00–00:00 | Sam: 09:00–00:00 | Dim: 09:00–00:00 | Lun: 09:00–00:00 | Mar: 09:00–00:00 | Mer: 09:00–00:00",
     "contactPhone": "+229 01 96 60 96 96",
@@ -1828,9 +1797,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "maquis-tata-vivi",
-    "rank": 33,
+    "rank": 32,
     "name": "Maquis Tata Vivi",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -1847,11 +1816,13 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Très bonne cuisine.\"",
     "strengths": [
-      "À compléter après visite"
+      "Grillades populaires et généreuses",
+      "Ambiance de quartier authentique"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Mouton grillé",
+      "Akassa"
     ],
     "openingHours": "Mar: 08:00–19:00 | Mer: 08:00–19:00 | Jeu: 08:00–19:00 | Ven: 08:00–19:00 | Sam: 08:00–19:00 | Dim: Fermé | Lun: 08:00–19:00",
     "contactPhone": "+229 01 99 09 09 49",
@@ -1886,9 +1857,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "moonlight-water-park-restaurant-rooftop",
-    "rank": 34,
+    "rank": 33,
     "name": "MOONLIGHT Water Park - Restaurant - RoofTop",
     "city": "Cotonou",
     "area": "BP 480",
@@ -1905,11 +1876,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Restaurant, roof top, Moon light est un cadre accueillant et chic.\"",
     "strengths": [
-      "À compléter après visite"
+      "Vue sur piscine et parc aquatique",
+      "Idéal pour les familles"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Burgers",
+      "Grillades familiales"
     ],
     "openingHours": "Jeu: 11:00–04:00 | Ven: 11:00–04:00 | Sam: 11:00–02:00 | Dim: 11:00–02:00 | Lun: 11:00–04:00 | Mar: 11:00–04:00 | Mer: 11:00–02:00",
     "contactPhone": "+229 01 66 83 83 89",
@@ -1944,9 +1917,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "le-prive-restaurant",
-    "rank": 35,
+    "rank": 34,
     "name": "Le Privé Restaurant",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -1963,11 +1936,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Cadre agréable, très bonne cuisine, service impeccable.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cadre discret et élégant",
+      "Idéal pour les dîners d'affaires"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Cuisine française classique"
     ],
     "openingHours": "Jeu: 12:00–15:00, 19:00–23:00 | Ven: 12:00–15:00, 19:00–00:00 | Sam: 12:00–15:00, 19:00–00:00 | Dim: 12:00–15:00, 19:00–23:00 | Lun: 12:00–15:00, 19:00–23:00 | Mar: 12:00–15:00, 19:00–23:00 | Mer: 12:00–15:00, 19:00–23:00",
     "contactPhone": "+229 52267777",
@@ -2002,9 +1976,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "royal-paninis",
-    "rank": 36,
+    "rank": 35,
     "name": "ROYAL PANINI'S",
     "city": "Cotonou",
     "area": "Rue 108",
@@ -2021,11 +1995,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Cuisine appréciable Service rapide Ambiance détente et calme.\"",
     "strengths": [
-      "À compléter après visite"
+      "Service rapide",
+      "Idéal pour un déjeuner sur le pouce"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Large gamme de paninis chauds",
+      "Sandwichs garnis"
     ],
     "openingHours": "Mar: 08:30–23:00 | Mer: 08:30–23:00 | Jeu: 08:30–23:00 | Ven: 08:30–23:00 | Sam: 08:30–23:00 | Dim: 09:00–22:00 | Lun: 08:30–23:00",
     "contactPhone": "",
@@ -2057,9 +2033,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "wasabi-restaurant",
-    "rank": 37,
+    "rank": 36,
     "name": "Wasabi restaurant",
     "city": "Cotonou",
     "area": "Cadjehoun 1",
@@ -2076,11 +2052,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"C’est rare que je mette 5 étoiles partout mais ils méritent c’est bien.\"",
     "strengths": [
-      "À compléter après visite"
+      "Fraîcheur des produits",
+      "Présentation élégante des plats japonais"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Plateaux de Sushis/Makis",
+      "Soupe Miso"
     ],
     "openingHours": "Jeu: 12:00–14:30, 19:00–22:30 | Ven: 12:00–14:30, 19:00–22:30 | Sam: 12:00–14:30, 19:00–22:30 | Dim: 12:00–14:30, 19:00–22:30 | Lun: Fermé | Mar: 12:00–14:30, 19:00–22:30 | Mer: 12:00–14:30, 19:00–22:30",
     "contactPhone": "+229 01 64 07 07 07",
@@ -2115,9 +2093,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "chez-tantie-food-and-drink",
-    "rank": 38,
+    "rank": 37,
     "name": "Chez Tantie Food and Drink",
     "city": "Cotonou",
     "area": "Rue du Gouverneur General Felix Eboue",
@@ -2134,11 +2112,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Des plats africains de qualité, je commande très souvent via Benin resto.\"",
     "strengths": [
-      "À compléter après visite"
+      "Petit-déjeuner local copieux",
+      "Service rapide et chaleureux"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Bouillie de mil",
+      "Omelettes locales"
     ],
     "openingHours": "Mar: 12:00–23:00 | Mer: 12:00–23:00 | Jeu: 12:00–23:00 | Ven: 12:00–23:00 | Sam: 12:00–23:00 | Dim: 12:00–22:00 | Lun: 12:00–23:00",
     "contactPhone": "+229 53955512",
@@ -2173,9 +2153,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "paulcuisine",
-    "rank": 39,
+    "rank": 38,
     "name": "Paulcuisine",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -2192,11 +2172,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Spécialisé également en repas vegan !\"",
     "strengths": [
-      "À compléter après visite"
+      "Traiteur et repas à emporter",
+      "Cuisine béninoise maison"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Box repas",
+      "Plats béninois"
     ],
     "openingHours": "Mar: Fermé | Mer: 12:00–23:00 | Jeu: 12:00–23:00 | Ven: 12:00–23:00 | Sam: 12:00–23:00 | Dim: 18:00–23:00 | Lun: 12:00–23:00",
     "contactPhone": "+229 01 66 57 09 91",
@@ -2231,9 +2213,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "le-patio",
-    "rank": 40,
+    "rank": 39,
     "name": "Le Patio",
     "city": "Cotonou",
     "area": ", Rue du Révérend Père Kitti",
@@ -2250,11 +2232,14 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Très top le restaurant avec les produits de la Sobebra.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine gastronomique française et européenne",
+      "Cadre haut de gamme"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Magret de canard",
+      "Viandes grillées",
+      "Sélection de vins"
     ],
     "openingHours": "Jeu: 12:00–00:00 | Ven: 12:00–00:00 | Sam: 12:00–00:00 | Dim: 12:00–00:00 | Lun: 12:00–00:00 | Mar: 12:00–00:00 | Mer: 12:00–00:00",
     "contactPhone": "+229 96888818",
@@ -2289,9 +2274,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 41,
+    "id": 40,
     "slug": "restaurant-chez-bijou",
-    "rank": 41,
+    "rank": 40,
     "name": "Restaurant Chez Bijou",
     "city": "Cotonou",
     "area": "Rte de Lomé",
@@ -2308,11 +2293,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Un menu époustouflant.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine béninoise pure et authentique",
+      "Cadre local simple"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pâte rouge",
+      "Crincrin"
     ],
     "openingHours": "Jeu: 08:00–00:00 | Ven: 08:00–00:00 | Sam: 08:00–00:00 | Dim: 08:00–00:00 | Lun: 08:00–00:00 | Mar: 08:00–00:00 | Mer: 08:00–00:00",
     "contactPhone": "+229 01 97 81 55 55",
@@ -2347,9 +2334,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 42,
+    "id": 41,
     "slug": "mad-monkey-cotonou-fidjrosse",
-    "rank": 42,
+    "rank": 41,
     "name": "MAD MONKEY - Cotonou Fidjrosse",
     "city": "Cotonou",
     "area": "Fidjrosse fin pavé",
@@ -2366,11 +2353,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Nous avons pris des cocktails tous excellents et ensuite des pizzas.\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance voyage et internationale",
+      "Cadre décontracté à Fidjrossè"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pizzas artisanales",
+      "Cocktails"
     ],
     "openingHours": "Jeu: 11:30–16:00, 18:00–00:00 | Ven: 11:30–16:00, 18:00–00:00 | Sam: 11:30–16:00, 18:00–00:00 | Dim: 11:30–16:00, 18:00–00:00 | Lun: Fermé | Mar: 11:30–16:00, 18:00–00:00 | Mer: 11:30–16:00, 18:00–00:00",
     "contactPhone": "+229 01 92 36 05 02",
@@ -2405,9 +2394,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 43,
+    "id": 42,
     "slug": "chez-pape",
-    "rank": 43,
+    "rank": 42,
     "name": "Chez Pape",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -2424,11 +2413,12 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Cuisine, service, ambiance\"",
     "strengths": [
-      "À compléter après visite"
+      "Spécialités sénégalaises rares à Cotonou",
+      "Générosité des portions"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Thiéboudienne (riz au poisson)"
     ],
     "openingHours": "Jeu: 11:00–23:00 | Ven: 11:00–23:00 | Sam: 11:00–23:00 | Dim: 11:00–23:00 | Lun: 11:00–23:00 | Mar: 11:00–23:00 | Mer: 11:00–23:00",
     "contactPhone": "+229 96662800",
@@ -2461,9 +2451,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 44,
+    "id": 43,
     "slug": "chez-yovo-restaurant-viande-de-porc",
-    "rank": 44,
+    "rank": 43,
     "name": "CHEZ YOVO - restaurant viande de porc",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -2480,11 +2470,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Le porc était cuit à la perfection et délicieux.\"",
     "strengths": [
-      "À compléter après visite"
+      "Spécialiste reconnu de la viande de porc",
+      "Cadre local sans chichis"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Porc grillé au four (vendu au poids)",
+      "Frites d'igname ou de patate douce"
     ],
     "openingHours": "Jeu: 10:00–17:00 | Ven: 10:00–17:00 | Sam: 10:00–17:00 | Dim: Fermé | Lun: 10:00–17:00 | Mar: 10:00–17:00 | Mer: 10:00–17:00",
     "contactPhone": "+229 96466080",
@@ -2519,9 +2511,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 45,
+    "id": 44,
     "slug": "maquis-chez-rokia",
-    "rank": 45,
+    "rank": 44,
     "name": "Maquis Chez Rokia",
     "city": "Cotonou",
     "area": ", Ave Van Vollenhoven",
@@ -2538,11 +2530,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"J'ai beaucoup apprécié leur repas\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance de quartier conviviale",
+      "Cuisine du terroir"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Sauce Gombo",
+      "Pâte blanche"
     ],
     "openingHours": "Mar: 11:00–18:30 | Mer: 11:00–18:30 | Jeu: 11:00–18:30 | Ven: 11:00–18:30 | Sam: 11:00–18:30 | Dim: 11:00–18:30 | Lun: 11:00–18:30",
     "contactPhone": "+229 97574544",
@@ -2575,9 +2569,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 46,
+    "id": 45,
     "slug": "picasso-steak-house",
-    "rank": 46,
+    "rank": 45,
     "name": "Picasso steak house",
     "city": "Cotonou",
     "area": "Piste Amalco",
@@ -2594,11 +2588,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Accueil et service au top, repas excellent.\"",
     "strengths": [
-      "À compléter après visite"
+      "Spécialiste de la viande",
+      "Cuissons maîtrisées"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "T-bone steak",
+      "Faux-filet"
     ],
     "openingHours": "Jeu: 12:00–00:00 | Ven: 12:00–00:00 | Sam: 12:00–00:00 | Dim: 12:00–00:00 | Lun: Fermé | Mar: 12:00–00:00 | Mer: 12:00–00:00",
     "contactPhone": "+229 01 45 41 41 41",
@@ -2633,9 +2629,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 47,
+    "id": 46,
     "slug": "alegleta-buvette-bonne-amitie",
-    "rank": 47,
+    "rank": 46,
     "name": "Alegleta Buvette Bonne Amitie",
     "city": "Cotonou",
     "area": "Godomey",
@@ -2652,11 +2648,12 @@ const RESTAURANTS = [
     "badgeColor": "#e67e22",
     "editorialSummary": "\"Buvette simple et sympa\"",
     "strengths": [
-      "À compléter après visite"
+      "Convivialité et prix très accessibles",
+      "Lieu de vie local"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Viande de porc au four"
     ],
     "openingHours": "Jeu: 08:00–21:00 | Ven: 08:00–21:00 | Sam: 08:00–21:00 | Dim: 08:00–21:00 | Lun: 08:00–21:00 | Mar: 08:00–21:00 | Mer: 08:00–21:00",
     "contactPhone": "",
@@ -2690,9 +2687,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 48,
+    "id": 47,
     "slug": "linsolite",
-    "rank": 48,
+    "rank": 47,
     "name": "L'insolite",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -2709,11 +2706,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Excellent service, la nourriture et l’ambiance sont top!\"",
     "strengths": [
-      "À compléter après visite"
+      "Cadre original et atypique",
+      "Cuisine africaine revisitée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Cuisine africaine revisitée"
     ],
     "openingHours": "Mar: 11h00–23h00 | Mer: 11h00–23h00 | Jeu: 11h00–23h00 | Ven: 11h00–23h00 | Sam: 11h00–23h00 | Dim: 11h00–23h00 | Lun: 11h00–23h00",
     "contactPhone": "+229 01 67 26 01 75",
@@ -2746,9 +2744,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 49,
+    "id": 48,
     "slug": "jn-restaurant-epicerie-fine",
-    "rank": 49,
+    "rank": 48,
     "name": "JN Restaurant Epicerie Fine",
     "city": "Cotonou",
     "area": "Abomey Calavi",
@@ -2765,11 +2763,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Un accueil divin, une cuisine maîtrisée et inventive.\"",
     "strengths": [
-      "À compléter après visite"
+      "Produits nobles et sélectionnés",
+      "Épicerie fine associée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Planches de fromages et charcuterie"
     ],
     "openingHours": "Jeu: 11:00–15:00, 19:00–00:00 | Ven: 11:00–00:00 | Sam: 11:00–00:00 | Dim: 11:00–15:00 | Lun: Fermé | Mar: Fermé | Mer: Fermé",
     "contactPhone": "+229 01 53 28 68 32",
@@ -2800,9 +2799,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 50,
+    "id": 49,
     "slug": "pizza-royal-agla-livraison-uniquement",
-    "rank": 50,
+    "rank": 49,
     "name": "PIZZA ROYAL AGLA - LIVRAISON UNIQUEMENT",
     "city": "Cotonou",
     "area": "Agla-Akplomey",
@@ -2819,11 +2818,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"tenez, leur pizza au feu de bois 🪵 🔥 est une merveille 😋😋😋😍.\"",
     "strengths": [
-      "À compléter après visite"
+      "Livraison rapide à domicile",
+      "Pizzas généreuses"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pizza 4 fromages",
+      "Pizza Reine"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "+229 01 67 61 46 13",
@@ -2858,9 +2859,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 51,
+    "id": 50,
     "slug": "escobar",
-    "rank": 51,
+    "rank": 50,
     "name": "ESCOBAR",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -2877,11 +2878,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Crème de la crème\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance festive et animée",
+      "Idéal pour les soirées"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Tapas locaux",
+      "Brochettes"
     ],
     "openingHours": "Mar: 00:00–02:00, 11:30–00:00 | Mer: 00:00–02:00, 11:30–00:00 | Jeu: 00:00–02:00, 11:30–00:00 | Ven: 00:00–02:00, 11:30–00:00 | Sam: 00:00–06:00, 11:30–00:00 | Dim: 00:00–06:00, 15:00–00:00 | Lun: 00:00–02:00, 11:30–00:00",
     "contactPhone": "+229 01 97 77 77 77",
@@ -2916,9 +2919,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 52,
+    "id": 51,
     "slug": "sprinkles-365",
-    "rank": 52,
+    "rank": 51,
     "name": "Sprinkles 365",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -2935,11 +2938,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Service rapide .\"",
     "strengths": [
-      "À compléter après visite"
+      "Douceurs américaines uniques à Cotonou",
+      "Idéal pour une pause sucrée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Cupcakes",
+      "Milkshakes"
     ],
     "openingHours": "Jeu: 08:00–00:00 | Ven: 08:00–00:00 | Sam: 08:00–00:00 | Dim: 08:00–00:00 | Lun: 08:00–00:00 | Mar: 08:00–00:00 | Mer: 08:00–00:00",
     "contactPhone": "+229 01 55 36 53 65",
@@ -2973,9 +2978,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 53,
+    "id": 52,
     "slug": "maquis-le-tata",
-    "rank": 53,
+    "rank": 52,
     "name": "Maquis le TATA",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -2983,7 +2988,7 @@ const RESTAURANTS = [
     "googleRating": 4,
     "googleUserRatingCount": 109,
     "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepIlBeZlFFT_TfgdgUa9wfBPjiyGPimDwXiS0dSPTwVOoOM0dSBwdV_RNoBBTD8jGdU9rIRVBYJn_rBvgbWM1qwIdu9KqNiDTrNG_91thgiYNv9BIBv8h-7OZTZcGf1d9vj9tBa=w243-h304-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 69,
     "budgetLabel": "~4 500 FCFA / pers.",
@@ -2992,11 +2997,12 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Des mets intéressants préparés et servis avec soin.\"",
     "strengths": [
-      "À compléter après visite"
+      "Spécialités du Nord Bénin",
+      "Cuisine authentique et rare"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Igname pilée (Iyan)"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -3007,9 +3013,9 @@ const RESTAURANTS = [
     "googleReviews": []
   },
   {
-    "id": 54,
+    "id": 53,
     "slug": "le-kidou-restaurant-buffet-akpakpa",
-    "rank": 54,
+    "rank": 53,
     "name": "Le kidou Restaurant Buffet Akpakpa",
     "city": "Cotonou",
     "area": "°21'37.6\"N 2°27'13.8\"E",
@@ -3026,11 +3032,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Vous pourrez payer par Momopay si vous préférez garder vos espèces 👍🏽.\"",
     "strengths": [
-      "À compléter après visite"
+      "Buffet géant afro-européen",
+      "Rapport qualité-prix excellent"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Buffet africain et européen à volonté"
     ],
     "openingHours": "Jeu: 12:00–00:00 | Ven: 12:00–00:00 | Sam: 12:00–00:00 | Dim: 12:00–00:00 | Lun: 12:00–00:00 | Mar: 12:00–00:00 | Mer: 12:00–00:00",
     "contactPhone": "+229 91954848",
@@ -3063,9 +3070,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 55,
+    "id": 54,
     "slug": "le-brunch-restaurant",
-    "rank": 55,
+    "rank": 54,
     "name": "Le Brunch restaurant",
     "city": "Cotonou",
     "area": "lebrunchrestaurant@gmail.com Abattoir",
@@ -3082,11 +3089,14 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Ambiance très agréable La cuisine un délice Le service parfait\"",
     "strengths": [
-      "À compléter après visite"
+      "Spécialiste du petit-déjeuner tardif",
+      "Cadre lumineux et reposant"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Œufs bénédicte",
+      "Pancakes",
+      "Jus frais"
     ],
     "openingHours": "Jeu: 07:00–01:00 | Ven: 07:00–01:00 | Sam: 07:00–01:00 | Dim: 07:00–01:00 | Lun: Fermé | Mar: 07:00–01:00 | Mer: 07:00–01:00",
     "contactPhone": "+229 01 50 65 65 80",
@@ -3121,9 +3131,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 56,
+    "id": 55,
     "slug": "bar-guerar",
-    "rank": 56,
+    "rank": 55,
     "name": "Bar Guerar",
     "city": "Cotonou",
     "area": ", Rue 2650",
@@ -3140,11 +3150,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "Bar Guerar est une adresse populaire à Cotonou, appréciée pour son rapport qualité‑prix.",
     "strengths": [
-      "À compléter après visite"
+      "Détente et musique en soirée",
+      "Lieu de vie populaire"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Petites grillades",
+      "Snacks"
     ],
     "openingHours": "Jeu: Ouvert 24h/24 | Ven: Ouvert 24h/24 | Sam: Ouvert 24h/24 | Dim: Ouvert 24h/24 | Lun: Ouvert 24h/24 | Mar: Ouvert 24h/24 | Mer: Ouvert 24h/24",
     "contactPhone": "+229 95729880",
@@ -3176,9 +3188,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 57,
+    "id": 56,
     "slug": "les-grillades-dayinke",
-    "rank": 57,
+    "rank": 56,
     "name": "LES GRILLADES D'AYINKE",
     "city": "Cotonou",
     "area": ", Rue 201B",
@@ -3195,11 +3207,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Le cadre est agréable et plutôt cozi.\"",
     "strengths": [
-      "À compléter après visite"
+      "Poulet braisé d'exception réputé dans tout Cotonou",
+      "File d'attente gage de qualité"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Poulet braisé",
+      "Bananes plantains"
     ],
     "openingHours": "Jeu: 07:00–00:00 | Ven: 07:00–00:00 | Sam: 07:00–00:00 | Dim: 17:00–00:00 | Lun: 07:00–17:00 | Mar: 07:00–00:00 | Mer: 07:00–00:00",
     "contactPhone": "+229 62946377",
@@ -3229,9 +3243,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 58,
+    "id": 57,
     "slug": "maquis-chez-jb",
-    "rank": 58,
+    "rank": 57,
     "name": "Maquis Chez JB",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -3248,11 +3262,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Cuisine rapide, assez abordable.\"",
     "strengths": [
-      "À compléter après visite"
+      "Grillades de porc renommées dans le quartier",
+      "Ambiance populaire"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Porc grillé",
+      "Bière fraîche"
     ],
     "openingHours": "Jeu: Ouvert 24h/24 | Ven: Ouvert 24h/24 | Sam: Ouvert 24h/24 | Dim: Ouvert 24h/24 | Lun: Ouvert 24h/24 | Mar: Ouvert 24h/24 | Mer: Ouvert 24h/24",
     "contactPhone": "+229 63633832",
@@ -3284,9 +3300,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 59,
+    "id": 58,
     "slug": "ruski-dom",
-    "rank": 59,
+    "rank": 58,
     "name": "Ruski Dom",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -3303,11 +3319,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Le service est impeccable et les plats sont excellents.\"",
     "strengths": [
-      "À compléter après visite"
+      "Expérience russe unique à Cotonou",
+      "Décor authentique et dépaysant"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Bortsch",
+      "Pelmenis"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "+229 95956761",
@@ -3342,9 +3360,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 60,
+    "id": 59,
     "slug": "le-chablis",
-    "rank": 60,
+    "rank": 59,
     "name": "Le Châblis",
     "city": "Cotonou",
     "area": ", Rue 395",
@@ -3361,11 +3379,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Nouvel endroit tenue par une cheffe cuisinier passionnée.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine raffinée française",
+      "Carte des vins soignée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Poisson à la dieppoise",
+      "Entrecôte"
     ],
     "openingHours": "Jeu: 00:00–10:30, 12:00–15:00, 18:00–23:00 | Ven: 12:00–15:00, 18:00–23:00 | Sam: 12:00–15:00, 18:00–23:00 | Dim: 12:00–15:00, 18:00–22:30 | Lun: 12:00–15:00, 18:00–22:30 | Mar: 12:00–15:00, 18:00–22:30 | Mer: 12:00–15:00, 18:00–00:00",
     "contactPhone": "+229 56344862",
@@ -3400,9 +3420,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 61,
+    "id": 60,
     "slug": "moon-bar-restaurant-cotonou",
-    "rank": 61,
+    "rank": 60,
     "name": "Moon Bar-Restaurant / Cotonou",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -3419,11 +3439,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Coin chic, ambiance décontractée.\"",
     "strengths": [
-      "À compléter après visite"
+      "Rooftop lounge avec vue",
+      "Mixologie créative"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Cocktails",
+      "Amuse-bouches"
     ],
     "openingHours": "Jeu: 16:00–01:00 | Ven: 16:00–01:00 | Sam: 16:00–02:00 | Dim: 16:00–02:00 | Lun: Fermé | Mar: 16:00–01:00 | Mer: 16:00–01:00",
     "contactPhone": "+229 53714590",
@@ -3458,9 +3480,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 62,
+    "id": 61,
     "slug": "le-petit-four-cotonou",
-    "rank": 62,
+    "rank": 61,
     "name": "Le Petit Four Cotonou",
     "city": "Cotonou",
     "area": "Piste Amalco",
@@ -3477,11 +3499,14 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Le cadre est beau et les repas excellents.\"",
     "strengths": [
-      "À compléter après visite"
+      "Pâtisserie artisanale et bistronomie",
+      "Idéal pour le brunch ou le thé"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Quiches",
+      "Mille-feuille",
+      "Salades composées"
     ],
     "openingHours": "Jeu: 07:00–23:00 | Ven: 07:00–23:00 | Sam: 07:00–23:00 | Dim: 07:00–23:00 | Lun: Fermé | Mar: 07:00–23:00 | Mer: 07:00–23:00",
     "contactPhone": "+229 01 91 53 06 06",
@@ -3516,9 +3541,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 63,
+    "id": 62,
     "slug": "le-bistrot-du-marche",
-    "rank": 63,
+    "rank": 62,
     "name": "Le bistrot du marché",
     "city": "Cotonou",
     "area": "Rue 382",
@@ -3535,11 +3560,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Risotto, gnocchis, ceviche, tout est top !\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance brasserie parisienne",
+      "Produits frais du marché"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Steak frites",
+      "Tartares"
     ],
     "openingHours": "Jeu: 12:00–14:30, 19:00–22:30 | Ven: 12:00–14:30, 19:00–22:30 | Sam: 12:00–14:30, 19:00–22:30 | Dim: Fermé | Lun: 12:00–14:30, 19:00–22:30 | Mar: 12:00–14:30, 19:00–22:30 | Mer: 12:00–14:30, 19:00–22:30",
     "contactPhone": "+229 01 91 89 25 05",
@@ -3574,9 +3601,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 64,
+    "id": 63,
     "slug": "la-pergola-restaurant-cotonou",
-    "rank": 64,
+    "rank": 63,
     "name": "La pergola restaurant cotonou",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -3593,11 +3620,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Restaurant cool et sympa.\"",
     "strengths": [
-      "À compléter après visite"
+      "Terrasse élégante et ombragée",
+      "Cuisine méditerranéenne raffinée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Fruits de mer",
+      "Cuisine méditerranéenne"
     ],
     "openingHours": "Jeu: 12:00–22:00 | Ven: 12:00–22:00 | Sam: 12:00–22:00 | Dim: Fermé | Lun: 12:00–22:00 | Mar: 12:00–22:00 | Mer: 12:00–22:00",
     "contactPhone": "+229 01 98 70 70 70",
@@ -3631,9 +3660,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 65,
+    "id": 64,
     "slug": "maquis-le-yao",
-    "rank": 65,
+    "rank": 64,
     "name": "Maquis Le Yao",
     "city": "Cotonou",
     "area": "Rue 1211",
@@ -3650,11 +3679,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Très chic, convivial.\"",
     "strengths": [
-      "À compléter après visite"
+      "Style ivoirien authentique",
+      "Ambiance maquis décontractée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Kédjenou",
+      "Attiéké"
     ],
     "openingHours": "Jeu: 12:00–00:30 | Ven: 12:00–00:30 | Sam: 12:00–00:30 | Dim: 12:00–00:30 | Lun: 12:00–00:30 | Mar: 12:00–00:30 | Mer: 12:00–00:30",
     "contactPhone": "+229 66200055",
@@ -3686,9 +3717,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 66,
+    "id": 65,
     "slug": "maquis-chez-fatou",
-    "rank": 66,
+    "rank": 65,
     "name": "Maquis Chez Fatou",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -3705,11 +3736,12 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Serveuse sympathique.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine rapide et savoureuse",
+      "Idéal pour le déjeuner"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Yassa poulet"
     ],
     "openingHours": "Jeu: 11:00–22:00 | Ven: 11:00–22:00 | Sam: 11:00–22:00 | Dim: 11:00–22:00 | Lun: 11:00–22:00 | Mar: 11:00–22:00 | Mer: 11:00–22:00",
     "contactPhone": "+229 97166569",
@@ -3743,9 +3775,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 67,
+    "id": 66,
     "slug": "brochetterie",
-    "rank": 67,
+    "rank": 66,
     "name": "Brochetterie",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -3762,11 +3794,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"La nourriture est excellente et bien présentée.\"",
     "strengths": [
-      "À compléter après visite"
+      "Grillades rapides et savoureuses",
+      "Idéal pour une pause déjeuner"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Brochettes de foie",
+      "Brochettes de bœuf"
     ],
     "openingHours": "Jeu: 11:00–23:00 | Ven: 11:00–23:00 | Sam: 11:00–23:00 | Dim: 11:00–21:00 | Lun: 11:00–23:00 | Mar: 11:00–23:00 | Mer: 11:00–23:00",
     "contactPhone": "+229 90616060",
@@ -3801,43 +3835,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 68,
-    "slug": "karim-24-2",
-    "rank": 68,
-    "name": "Karim 24 (2)",
-    "city": "Cotonou",
-    "area": "Rue 105",
-    "cuisine": "Restaurant",
-    "googleRating": 4.2,
-    "googleUserRatingCount": 47,
-    "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop",
-    "gallery": [],
-    "miwadooScore": 69,
-    "budgetLabel": "~4 500 FCFA / pers.",
-    "budgetMax": 4500,
-    "badge": "Petit budget",
-    "badgeColor": "#27ae60",
-    "editorialSummary": "\"Meilleurs fast food restaurants, avec un service de qualité 💓\"",
-    "strengths": [
-      "À compléter après visite"
-    ],
-    "weaknesses": [],
-    "recommendedDishes": [
-      "À compléter après visite"
-    ],
-    "openingHours": "Horaires à confirmer",
-    "contactPhone": "",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.3582335,2.4368377",
-    "tags": [
-      "restaurant"
-    ],
-    "googleReviews": []
-  },
-  {
-    "id": 69,
+    "id": 67,
     "slug": "bar-maquis-mamika",
-    "rank": 69,
+    "rank": 67,
     "name": "Bar Maquis MAMIKA",
     "city": "Cotonou",
     "area": "BP 2366",
@@ -3854,11 +3854,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Les sauces y sont sublimées avec toute sorte d'accompagnement.\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance locale conviviale",
+      "Prix très accessibles"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Brochettes",
+      "Frites"
     ],
     "openingHours": "Jeu: 11:00–21:00 | Ven: 11:00–21:00 | Sam: 11:00–21:00 | Dim: 11:00–21:00 | Lun: Fermé | Mar: 11:00–21:00 | Mer: 11:00–21:00",
     "contactPhone": "+229 99269191",
@@ -3890,9 +3892,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 70,
+    "id": 68,
     "slug": "chez-daba",
-    "rank": 70,
+    "rank": 68,
     "name": "Chez DABA",
     "city": "Cotonou",
     "area": "rue 2 bofu",
@@ -3909,11 +3911,12 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Nourriture de bonne qualité mais avec un serveur un peu complexé.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine traditionnelle béninoise",
+      "Cadre simple et familial"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pâte noire (Amala)"
     ],
     "openingHours": "Jeu: 12:00–23:00 | Ven: 12:00–23:00 | Sam: 12:00–23:00 | Dim: 12:00–23:00 | Lun: 12:00–23:00 | Mar: 12:00–23:00 | Mer: 12:00–23:00",
     "contactPhone": "+229 97089813",
@@ -3948,9 +3951,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 71,
+    "id": 69,
     "slug": "mogador-restaurant-maghrebin",
-    "rank": 71,
+    "rank": 69,
     "name": "MOGADOR Restaurant Maghrébin",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -3967,11 +3970,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Superbe restaurant.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine maghrébine authentique",
+      "Saveurs du Maroc et de Tunisie"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Couscous",
+      "Chawarma oriental"
     ],
     "openingHours": "Jeu: 12:00–23:00 | Ven: 12:00–23:00 | Sam: 12:00–23:00 | Dim: Fermé | Lun: 12:00–23:00 | Mar: 12:00–23:00 | Mer: 12:00–23:00",
     "contactPhone": "+229 01 51 99 00 00",
@@ -4004,9 +4009,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 72,
+    "id": 70,
     "slug": "cotonoupizza",
-    "rank": 72,
+    "rank": 70,
     "name": "CotonouPizza",
     "city": "Cotonou",
     "area": "BP 3871",
@@ -4014,7 +4019,7 @@ const RESTAURANTS = [
     "googleRating": 3.8,
     "googleUserRatingCount": 61,
     "googlePriceLevel": 2,
-    "heroImage": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/p/AF1QipOX4VcAyJJkfGTuP2oBl5R_72fmCSyV7FsHRwLJ=w243-h244-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 65,
     "budgetLabel": "~9 000 FCFA / pers.",
@@ -4023,11 +4028,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Meilleurs pizzas de Cotonou!\"",
     "strengths": [
-      "À compléter après visite"
+      "Pizzeria locale accessible",
+      "Service rapide"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pizza Margherita",
+      "Pizza Reine"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -4035,12 +4042,31 @@ const RESTAURANTS = [
     "tags": [
       "restaurant"
     ],
-    "googleReviews": []
+    "googleReviews": [
+      {
+        "author": "DAVID ALVAREZ",
+        "rating": 1,
+        "text": "Les pires expériences de tous les restaurants de Cotonou... mes 3 dernières commandes ont été un désastre, plus de deux heures d'attente... évidemment la nourriture arrive froide et mauvaise.C'est dommage qu'il y ait des endroits comme celui-ci... et le pire c'est qu'ils n'ont pas les détails pour s'excuser... c'est pathétique que vous commandiez de la nourriture et que vous attendiez plus de deux heures..\nVous vendez comme publicité que les commandes arrivent en moins d'une heure.....il suffit de lire les avis pour voir la réalité....si vous ne savez pas travailler, consacrez-vous à la plantation d'ananas.",
+        "date": "il y a un an"
+      },
+      {
+        "author": "Ghostbuzz",
+        "rating": 1,
+        "text": "Client chez Cotonou Pizza depuis 2ans au moins\n-J'ai commandé une pizza il ya 2 semaines , après 2h d'attentes et après avoir par 4 fois modifié mes propositions parce qu'ils n'avaient pas des matières premières j'ai fini par me retrouver avec quelque chose de loin différent de ce que j'avais commandé à la base. Nourriture commandée à 22h j'ai dû l'attendre devant l'église jusqu'à minuit avant d'être livré.\n- Aujourd'hui c'est le tour d'un cheaseburger que j'ai commandé et pour lequel on m'a livré un simple hamburger facturé à 3000F. Finalement ils ont essayé de corriger le tire mais le résultat était encore pire.\n- Finalement j'ai exigé remboursement et là les employés m'ont fait tourner en rond pour une question de monnaie. D'avoir demandé leur MoMo pour leur transférer la monnaie m'a aidé à être sûr de leur mauvaise foi....\nAPPRENEZ À PRIORISER LA SATISFACTION DU CLIENT PLUTOT QUE VOTRE GAIN FINANCIER. POUR MA PART MA FAMILLE TOURNE LE DOS DÈS AUJOURD'HUI À VOTRE restaurant.\nPS : J'ai finalement commandé mon chease à M'ice Cream, 2500F au lieu des 3000F de Cotonou Pizza et je suis satisfait.\n☎️ 97907877 mon numéro et parce que je crois au changement je vous donne la chance de vous racheter pour que je supprime cette mauvaise note...🚶🏿‍♂️🚶🏿‍♂️🚶🏿‍♂️",
+        "date": "il y a 3 ans"
+      },
+      {
+        "author": "David",
+        "rating": 1,
+        "text": "Si vous voulez dîner à 22h...il vaut mieux commander à 15h...dommage",
+        "date": "il y a un an"
+      }
+    ]
   },
   {
-    "id": 73,
+    "id": 71,
     "slug": "bar-terrasse-akpakpa",
-    "rank": 73,
+    "rank": 71,
     "name": "BAR Terrasse Akpakpa",
     "city": "Cotonou",
     "area": "Rue 1214B",
@@ -4057,11 +4083,12 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Cool bar pour un pot entre amis\"",
     "strengths": [
-      "À compléter après visite"
+      "Vue et fraîcheur en terrasse",
+      "Ambiance détendue"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Poissons braisés"
     ],
     "openingHours": "Jeu: Ouvert 24h/24 | Ven: Ouvert 24h/24 | Sam: Ouvert 24h/24 | Dim: Ouvert 24h/24 | Lun: Fermé | Mar: Ouvert 24h/24 | Mer: Ouvert 24h/24",
     "contactPhone": "",
@@ -4091,9 +4118,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 74,
+    "id": 72,
     "slug": "tire-bouchon-restaurant",
-    "rank": 74,
+    "rank": 72,
     "name": "Tire bouchon restaurant",
     "city": "Cotonou",
     "area": "tire bouchon, 230",
@@ -4110,11 +4137,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Ambiance parfaite et nourriture au top.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cave à vin et cuisine de qualité",
+      "Ambiance cosy et chaleureuse"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Magret de canard",
+      "Bœuf bourguignon"
     ],
     "openingHours": "Jeu: 08:00–01:00 | Ven: 08:00–01:00 | Sam: 08:00–01:00 | Dim: 08:00–01:00 | Lun: 08:00–01:00 | Mar: 08:00–01:00 | Mer: 08:00–01:00",
     "contactPhone": "+229 01 62 16 16 06",
@@ -4145,9 +4174,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 75,
+    "id": 73,
     "slug": "frenesie-restaurant-bar",
-    "rank": 75,
+    "rank": 73,
     "name": "Frénésie Restaurant Bar",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4164,11 +4193,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Carte variée.\"",
     "strengths": [
-      "À compléter après visite"
+      "Ambiance festive et animée",
+      "Idéal pour les soirées en groupe"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Tapas variés",
+      "Grillades"
     ],
     "openingHours": "Jeu: 12:00–02:30 | Ven: 12:00–04:00 | Sam: 12:00–06:00 | Dim: 09:00–03:00 | Lun: 12:00–01:00 | Mar: 12:00–01:00 | Mer: 12:00–01:00",
     "contactPhone": "+229 01 97 97 06 89",
@@ -4200,9 +4231,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 76,
+    "id": 74,
     "slug": "maquis-le-talier",
-    "rank": 76,
+    "rank": 74,
     "name": "Maquis Le Talier",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4219,11 +4250,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Merci à l'équipe en salle et en cuisine !\"",
     "strengths": [
-      "À compléter après visite"
+      "Terrasse de quartier agréable",
+      "Grillades au charbon"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Poissons braisés",
+      "Poulets braisés"
     ],
     "openingHours": "Jeu: 11:00–18:00 | Ven: 11:00–18:00 | Sam: 11:00–18:00 | Dim: Fermé | Lun: 11:00–18:00 | Mar: 11:00–18:00 | Mer: 11:00–18:00",
     "contactPhone": "+229 95066640",
@@ -4254,9 +4287,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 77,
+    "id": 75,
     "slug": "le-braisier",
-    "rank": 77,
+    "rank": 75,
     "name": "Le braisier",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4273,11 +4306,12 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"très bon, poulet mayo pintade mayo.\"",
     "strengths": [
-      "À compléter après visite"
+      "Spécialiste des grillades au charbon",
+      "Cuissons lentes et savoureuses"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Grillades au charbon"
     ],
     "openingHours": "Jeu: 16:00–00:30 | Ven: 16:00–04:00 | Sam: 16:00–05:00 | Dim: 15:00–23:30 | Lun: Fermé | Mar: 16:00–23:30 | Mer: 16:00–23:00",
     "contactPhone": "+229 01 91 69 34 74",
@@ -4310,9 +4344,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 78,
+    "id": 76,
     "slug": "ile-grill-restaurant-lounge",
-    "rank": 78,
+    "rank": 76,
     "name": "Ilé Grill Restaurant Lounge",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4329,11 +4363,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Tout était très bon, la viande du bbq est excellente, très tendre.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cadre chic et ambiance nocturne",
+      "Lounge avec cocktails"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Brochettes géantes",
+      "Cocktails"
     ],
     "openingHours": "Jeu: 17:00–01:00 | Ven: 17:00–04:00 | Sam: 17:00–04:00 | Dim: 17:00–01:00 | Lun: Fermé | Mar: 17:00–01:00 | Mer: 17:00–01:00",
     "contactPhone": "+229 42084845",
@@ -4366,9 +4402,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 79,
+    "id": 77,
     "slug": "ola-snack",
-    "rank": 79,
+    "rank": 77,
     "name": "Ola snack",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4385,11 +4421,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Les charwarmas et les burgers que nous avons pris étaient délicieux.\"",
     "strengths": [
-      "À compléter après visite"
+      "Snack de quartier pratique",
+      "Prix très accessibles"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Sandwichs",
+      "Jus frais"
     ],
     "openingHours": "Jeu: 11:00–23:00 | Ven: 11:00–23:00 | Sam: 11:00–23:00 | Dim: 10:00–23:00 | Lun: Fermé | Mar: 11:00–23:00 | Mer: 11:00–23:00",
     "contactPhone": "+229 01 50 53 53 53",
@@ -4420,9 +4458,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 80,
+    "id": 78,
     "slug": "banquet-royal",
-    "rank": 80,
+    "rank": 78,
     "name": "Banquet Royal",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4439,11 +4477,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Savoureux, service excellent, tout simplement magnifique\"",
     "strengths": [
-      "À compléter après visite"
+      "Idéal pour les grands groupes et événements",
+      "Buffets copieux"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Buffets internationaux"
     ],
     "openingHours": "Jeu: 07:00–23:00 | Ven: 07:00–23:00 | Sam: 07:00–23:00 | Dim: 07:00–23:00 | Lun: 07:00–23:00 | Mar: 07:00–23:00 | Mer: 07:00–23:00",
     "contactPhone": "+229 01 52 51 89 89",
@@ -4475,9 +4514,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 81,
+    "id": 79,
     "slug": "pizza-minute",
-    "rank": 81,
+    "rank": 79,
     "name": "Pizza MINUTE",
     "city": "Cotonou",
     "area": "Rue 560",
@@ -4494,11 +4533,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Je recommande fortement pour vos pizza Rapide et délicieux 😋 .\"",
     "strengths": [
-      "À compléter après visite"
+      "Rapidité de service",
+      "Pizzas à emporter"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pizzas à emporter"
     ],
     "openingHours": "Jeu: 12:00–22:00 | Ven: 12:00–22:00 | Sam: 12:00–22:00 | Dim: 12:00–22:00 | Lun: Fermé | Mar: 12:00–22:00 | Mer: 12:00–22:00",
     "contactPhone": "+229 01 51 46 46 00",
@@ -4529,9 +4569,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 82,
+    "id": 80,
     "slug": "chez-dagan",
-    "rank": 82,
+    "rank": 80,
     "name": "Chez Dagan",
     "city": "Cotonou",
     "area": "BP1107",
@@ -4548,11 +4588,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Très bonnes grillades et des plats.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine métissée afro-européenne",
+      "Cadre calme et soigné"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Filet de capitaine au citron"
     ],
     "openingHours": "Jeu: Ouvert 24h/24 | Ven: Ouvert 24h/24 | Sam: Ouvert 24h/24 | Dim: Ouvert 24h/24 | Lun: Ouvert 24h/24 | Mar: Ouvert 24h/24 | Mer: Ouvert 24h/24",
     "contactPhone": "+229 96121637",
@@ -4584,9 +4625,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 83,
+    "id": 81,
     "slug": "francoises-garden-the-venue",
-    "rank": 83,
+    "rank": 81,
     "name": "Françoise’s Garden : Thé Venue",
     "city": "Cotonou",
     "area": ", Boulevard de la Marina",
@@ -4603,11 +4644,14 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"/ An unforgettable dinner.\"",
     "strengths": [
-      "À compléter après visite"
+      "Salon de thé au charme anglais",
+      "Jardin verdoyant et reposant"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Scones",
+      "Pâtisseries maison",
+      "Thés fins"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -4638,9 +4682,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 84,
+    "id": 82,
     "slug": "bombay-bistro",
-    "rank": 84,
+    "rank": 82,
     "name": "Bombay Bistro",
     "city": "Cotonou",
     "area": "Quartier Jak",
@@ -4657,11 +4701,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Service impeccable\"",
     "strengths": [
-      "À compléter après visite"
+      "Saveurs indiennes authentiques",
+      "Épices bien équilibrées"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Curry de poulet",
+      "Naans"
     ],
     "openingHours": "Jeu: 16:00–01:00 | Ven: 16:00–01:00 | Sam: 16:00–01:00 | Dim: 16:00–01:00 | Lun: 16:00–01:00 | Mar: Fermé | Mer: 16:00–01:00",
     "contactPhone": "+229 01 64 52 99 49",
@@ -4692,9 +4738,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 85,
+    "id": 83,
     "slug": "la-maison-italienne",
-    "rank": 85,
+    "rank": 83,
     "name": "LA MAISON ITALIENNE",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4711,11 +4757,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Excellentes propositions sur la carte.\"",
     "strengths": [
-      "À compléter après visite"
+      "Authenticité de la cuisine italienne",
+      "Pâtes fraîches maison"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Lasagnes",
+      "Osso Buco"
     ],
     "openingHours": "Jeu: 12:00–15:00, 19:30–23:00 | Ven: 12:00–15:00, 19:00–23:00 | Sam: 12:00–15:00, 19:00–23:00 | Dim: 19:00–23:00 | Lun: 12:00–15:00, 19:00–23:00 | Mar: 12:00–15:00, 19:00–23:00 | Mer: 12:00–15:00, 19:00–23:00",
     "contactPhone": "+229 01 56 56 69 09",
@@ -4750,9 +4798,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 86,
+    "id": 84,
     "slug": "lassiette-fine",
-    "rank": 86,
+    "rank": 84,
     "name": "L'assiette fine",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4769,11 +4817,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Très accueillante, cuisine bien faite, je recommande ❤️\"",
     "strengths": [
-      "À compléter après visite"
+      "Présentation soignée et créative",
+      "Cuisine de saison"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Carpaccio de poisson",
+      "Risottos"
     ],
     "openingHours": "Jeu: 10:00–21:00 | Ven: 10:00–21:00 | Sam: 13:00–17:00 | Dim: Fermé | Lun: 10:00–21:00 | Mar: 10:00–21:00 | Mer: 10:00–21:00",
     "contactPhone": "+229 01 46 33 89 36",
@@ -4804,9 +4854,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 87,
+    "id": 85,
     "slug": "chevalier-blanc",
-    "rank": 87,
+    "rank": 85,
     "name": "CHEVALIER BLANC",
     "city": "Cotonou",
     "area": "BP 1777",
@@ -4823,11 +4873,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"La carte est riche et bien pensée, impossible de ne pas trouver son bonheur.\"",
     "strengths": [
-      "À compléter après visite"
+      "Institution classique de Cotonou",
+      "Service professionnel"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Cuisine française traditionnelle"
     ],
     "openingHours": "Jeu: Ouvert 24h/24 | Ven: Ouvert 24h/24 | Sam: Ouvert 24h/24 | Dim: Ouvert 24h/24 | Lun: Ouvert 24h/24 | Mar: Ouvert 24h/24 | Mer: Ouvert 24h/24",
     "contactPhone": "+229 01 57 99 99 19",
@@ -4858,9 +4909,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 88,
+    "id": 86,
     "slug": "la-table-du-maire",
-    "rank": 88,
+    "rank": 86,
     "name": "La Table Du Maire",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -4868,7 +4919,7 @@ const RESTAURANTS = [
     "googleRating": 4.1,
     "googleUserRatingCount": 32,
     "googlePriceLevel": 3,
-    "heroImage": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqfs5-84BDAgcYDjzOT5Rh8FlVes2E_tYb9o8WRsxzPCHgga-FdC-xaIbSsBrfsXqekg1KnAzPhJDzXvpPRlLfLHjoa77-9DRcBncofYQ9s189BnaYzbZewrx7DvCgn5BAohQs=w141-h101-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 68,
     "budgetLabel": "~18 000 FCFA / pers.",
@@ -4877,11 +4928,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "La Table Du Maire est une adresse populaire à Cotonou, appréciée pour son rapport qualité‑prix.",
     "strengths": [
-      "À compléter après visite"
+      "Prestige et calme absolu",
+      "Cadre haut de gamme"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Plats de résistance gastronomiques"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -4892,9 +4944,9 @@ const RESTAURANTS = [
     "googleReviews": []
   },
   {
-    "id": 89,
+    "id": 87,
     "slug": "maquis-chez-rach",
-    "rank": 89,
+    "rank": 87,
     "name": "MAQUIS CHEZ RACH",
     "city": "Cotonou",
     "area": ", Ave Proche",
@@ -4911,11 +4963,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Je kiffe et vous le recommande vivement, vous ne serez pas déçu.\"",
     "strengths": [
-      "À compléter après visite"
+      "Adresse populaire du quartier",
+      "Cuisine locale variée"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Plats locaux variés"
     ],
     "openingHours": "Jeu: 11:00–17:30 | Ven: 11:00–17:30 | Sam: 11:00–17:30 | Dim: Fermé | Lun: 11:00–17:30 | Mar: 11:00–17:30 | Mer: 11:00–17:30",
     "contactPhone": "+229 97442827",
@@ -4946,9 +4999,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 90,
+    "id": 88,
     "slug": "fair-bar",
-    "rank": 90,
+    "rank": 88,
     "name": "Fair Bar",
     "city": "Cotonou",
     "area": "Plage, Derrière wellness fitness",
@@ -4965,11 +5018,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Parfait pour une sortie en groupe, en couple, ou en famille.\"",
     "strengths": [
-      "À compléter après visite"
+      "Mixologie créative",
+      "Finger food pour accompagner les cocktails"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Mini-burgers",
+      "Snacks"
     ],
     "openingHours": "Jeu: 11:00–00:00 | Ven: 11:00–00:00 | Sam: 11:00–00:00 | Dim: 11:00–00:00 | Lun: Fermé | Mar: 11:00–00:00 | Mer: 11:00–00:00",
     "contactPhone": "+229 01 62 34 20 93",
@@ -5002,9 +5057,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 91,
+    "id": 89,
     "slug": "good-taste-benin",
-    "rank": 91,
+    "rank": 89,
     "name": "GOOD TASTE Bénin",
     "city": "Cotonou",
     "area": "BP4390 Jéricho Cotonou",
@@ -5021,11 +5076,13 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "\"Je recommande vivement ce restaurant\"",
     "strengths": [
-      "À compléter après visite"
+      "Cuisine asiatique accessible",
+      "Service rapide"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Nouilles sautées",
+      "Riz cantonais"
     ],
     "openingHours": "Jeu: Ouvert 24h/24 | Ven: Ouvert 24h/24 | Sam: Ouvert 24h/24 | Dim: Ouvert 24h/24 | Lun: Ouvert 24h/24 | Mar: Ouvert 24h/24 | Mer: Ouvert 24h/24",
     "contactPhone": "+229 67454991",
@@ -5060,9 +5117,9 @@ const RESTAURANTS = [
     ]
   },
   {
-    "id": 92,
+    "id": 90,
     "slug": "cafeteria-chez-nasty",
-    "rank": 92,
+    "rank": 90,
     "name": "Cafétéria Chez Nasty",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -5070,7 +5127,7 @@ const RESTAURANTS = [
     "googleRating": 4.9,
     "googleUserRatingCount": 15,
     "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/p/AF1QipP53sqqSZpeMt-GOEvnGZ4k-cCSdq6vjhCyqqBH=w243-h304-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 77,
     "budgetLabel": "~4 500 FCFA / pers.",
@@ -5079,11 +5136,13 @@ const RESTAURANTS = [
     "badgeColor": "#2980b9",
     "editorialSummary": "\"Très bon très rapide vraiment merci pour votre accueil 🙏\"",
     "strengths": [
-      "À compléter après visite"
+      "Rapide et copieux",
+      "Idéal pour le déjeuner express"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Sandwichs omelette",
+      "Spaghettis"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -5091,12 +5150,31 @@ const RESTAURANTS = [
     "tags": [
       "cafeteria"
     ],
-    "googleReviews": []
+    "googleReviews": [
+      {
+        "author": "Cornos Dossou",
+        "rating": 5,
+        "text": "J’ai vraiment apprécié vos repas, et je tiens à exprimer pleinement mon admiration pour la qualité exceptionnelle de votre cuisine. Dès la première bouchée, j’ai été agréablement surpris par la finesse des saveurs, la fraîcheur des ingrédients et l’équilibre harmonieux de chaque plat. On sent clairement que vous mettez du cœur, du professionnalisme et une grande passion dans tout ce que vous préparez. La présentation est soignée, l'assaisonnement précis, et chaque détail semble avoir été pensé pour offrir une expérience culinaire mémorable. Ce n’est pas seulement bon, c’est délicieux au point où l’on a instantanément envie de recommander votre service à d’autres. Je peux affirmer sans hésitation que vos repas figurent parmi les meilleurs que j’ai dégustés récemment. Ils allient générosité, qualité et originalité, ce qui témoigne d’un véritable savoir-faire. Je vous encourage vivement à continuer sur cette lancée, car vous avez un talent remarquable. Je recommande donc vos repas à tous ceux qui cherchent une expérience gustative authentique, savoureuse et parfaitement maîtrisée. Bravo pour votre travail et merci de nous offrir des mets aussi exquis. Je reviendrai avec plaisir pour savourer encore vos délicieuses préparations. Votre constance, votre professionnalisme et votre sens du détail font réellement la différence et méritent d’être chaleureusement salués aujourd’hui.",
+        "date": "il y a 4 mois"
+      },
+      {
+        "author": "Germain Hounga",
+        "rating": 5,
+        "text": "Top des tops j'ai aimé vos délicieux repas et je conseille même.👍",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "HAKHADY Business Management",
+        "rating": 4,
+        "text": "Saveurs incroyables🥰. Très belle expérience😍. Je recommande 👌🏽💯",
+        "date": "il y a 10 mois"
+      }
+    ]
   },
   {
-    "id": 93,
+    "id": 91,
     "slug": "lyte-food-ste-rita",
-    "rank": 93,
+    "rank": 91,
     "name": "Lyte Food Ste Rita",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -5104,7 +5182,7 @@ const RESTAURANTS = [
     "googleRating": 4.2,
     "googleUserRatingCount": 24,
     "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo21diUP4s172fNS740uHrsopXujbNTTL_mnQXvDpDbPJO11KXJNiRA3oMg5PsK38L_I-rf4MhAt_SqAd7zZF8dz8pnga62MplYWcCJKx-mDRh6-tmY4bGvyzdTIXVf-_TT938z3VeF7h4=w243-h174-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 69,
     "budgetLabel": "~4 500 FCFA / pers.",
@@ -5113,11 +5191,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Les prix sont abordables.\"",
     "strengths": [
-      "À compléter après visite"
+      "Fast-food local efficace",
+      "Service rapide"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Burgers",
+      "Frites"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -5125,12 +5205,31 @@ const RESTAURANTS = [
     "tags": [
       "grillades"
     ],
-    "googleReviews": []
+    "googleReviews": [
+      {
+        "author": "Jean-Baptiste Oloufade",
+        "rating": 4,
+        "text": "Restaurant propre, staff bien accueillant, bouffe très succulentes. Je recommande après mon expérience constante de 3 ans 👏🏽",
+        "date": "il y a 6 mois"
+      },
+      {
+        "author": "Kouassi Roméo Gogan",
+        "rating": 5,
+        "text": "Rien a dire. Un seul mot \" TOP\"\nUn endroit vraiment calme,très classe",
+        "date": "il y a 5 mois"
+      },
+      {
+        "author": "Liliane Rebecca NZALE",
+        "rating": 4,
+        "text": "Très beau cadre et propre.\nJ’y ai mangé un choukouya de mouton très delicieux bien que très pimenté à mon goût.\nLe temps d’attente n’a pas dépassé 15 minutes, ce qui m’a semblé assez raisonnable.\nJe recommande",
+        "date": "il y a 7 mois"
+      }
+    ]
   },
   {
-    "id": 94,
+    "id": 92,
     "slug": "restaurant-la-coquillette",
-    "rank": 94,
+    "rank": 92,
     "name": "Restaurant la Coquillette",
     "city": "Cotonou",
     "area": "Fidjrosse, route des pêches",
@@ -5138,7 +5237,7 @@ const RESTAURANTS = [
     "googleRating": 4.3,
     "googleUserRatingCount": 22,
     "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/p/AF1QipP8OcXV9QQXc3cv9qxtLGzKvq2_hQM3NqVQQvw8=w243-h244-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 70,
     "budgetLabel": "~4 500 FCFA / pers.",
@@ -5147,11 +5246,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Je recommande ce restaurant au prix abordable.\"",
     "strengths": [
-      "À compléter après visite"
+      "Cadre convivial et familial",
+      "Cuisine simple et généreuse"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Pâtes fraîches",
+      "Gratins"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -5159,12 +5260,31 @@ const RESTAURANTS = [
     "tags": [
       "restaurant"
     ],
-    "googleReviews": []
+    "googleReviews": [
+      {
+        "author": "Katia Feuerhuber",
+        "rating": 5,
+        "text": "Ce restaurant en bord de plage est tout simplement génial !\nLe service est rapide ce qui est rare ici.\nLes serveurs sont d’une extrême gentillesse et d’une grande bienveillance.\nLes plats étaient délicieux et pas trop cher, j’ai mangé la salade d’avocat elle était excellente, mes amis ont mangé chawarma - frites et pizza c’était également parfait.\nJe recommande vivement ce lieu paisible.",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "Mathis",
+        "rating": 5,
+        "text": "J'y ai dine avec mes 2 femmes c etait un moment formidable. Les repas étaient servis rapidement et nous ont fait voyager de par leur succulence. Les serveurs étaient aux petits soins avec nous et ont déposé avec brio les plats sur la table. Je recommande immédiatement",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "Thalia pretlot",
+        "rating": 5,
+        "text": "Ce restaurant en bord de mer offre un cadre agréable, le service est rapide, les plats bons et le personnel adorable. Je recommande ce restaurant au prix abordable.",
+        "date": "il y a 9 mois"
+      }
+    ]
   },
   {
-    "id": 95,
+    "id": 93,
     "slug": "xinjiang-bbq",
-    "rank": 95,
+    "rank": 93,
     "name": "Xinjiang BBQ",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -5181,11 +5301,12 @@ const RESTAURANTS = [
     "badgeColor": "#e23844",
     "editorialSummary": "Xinjiang BBQ est une adresse populaire à Cotonou, appréciée pour son rapport qualité‑prix.",
     "strengths": [
-      "À compléter après visite"
+      "Barbecue chinois authentique",
+      "Saveurs épicées uniques à Cotonou"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Brochettes épicées au cumin"
     ],
     "openingHours": "Jeu: 09:00–00:00 | Ven: 09:00–00:00 | Sam: 09:00–00:00 | Dim: 09:00–00:00 | Lun: 09:00–00:00 | Mar: 09:00–00:00 | Mer: 09:00–00:00",
     "contactPhone": "+229 01 69 03 05 45",
@@ -5193,12 +5314,25 @@ const RESTAURANTS = [
     "tags": [
       "restaurant"
     ],
-    "googleReviews": []
+    "googleReviews": [
+      {
+        "author": "Chefick Akambi BELLO (noprama)",
+        "rating": 5,
+        "text": "Pas mal mais j'ai pas pu faire les photos",
+        "date": "il y a 5 ans"
+      },
+      {
+        "author": "Ange GNAKADJA",
+        "rating": 4,
+        "text": "Trop cool",
+        "date": "il y a 4 ans"
+      }
+    ]
   },
   {
-    "id": 96,
+    "id": 94,
     "slug": "q2-akpakpa",
-    "rank": 96,
+    "rank": 94,
     "name": "Q2 AKPAKPA",
     "city": "Cotonou",
     "area": "Cotonou",
@@ -5206,7 +5340,7 @@ const RESTAURANTS = [
     "googleRating": 4.3,
     "googleUserRatingCount": 21,
     "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoZuYh61ZN52tYZ1-ZD8IUYxWFCvaZSSkRDkZdS0FYakrvs-W2gInmghAIDLfwaNYoKYUZAYqBuOYv85ZJYtmuZMABJPv3oPIbjnbG5h__7aB38QvAvd6U27PYR1JpGBewvHkTh=s680-w680-h510-rw?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 70,
     "budgetLabel": "~4 500 FCFA / pers.",
@@ -5215,11 +5349,13 @@ const RESTAURANTS = [
     "badgeColor": "#27ae60",
     "editorialSummary": "\"Soft et très accueillant comme espace\"",
     "strengths": [
-      "À compléter après visite"
+      "Lieu de sortie nocturne animé",
+      "Ambiance festive"
     ],
     "weaknesses": [],
     "recommendedDishes": [
-      "À compléter après visite"
+      "Grillades",
+      "Boissons"
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
@@ -5227,12 +5363,31 @@ const RESTAURANTS = [
     "tags": [
       "bar"
     ],
-    "googleReviews": []
+    "googleReviews": [
+      {
+        "author": "BONI NÉTO GANSARE",
+        "rating": 4,
+        "text": "Soft et très accueillant comme espace",
+        "date": "il y a 4 semaines"
+      },
+      {
+        "author": "Emile AHO",
+        "rating": 5,
+        "text": "Très cool ce lieu",
+        "date": "il y a 4 semaines"
+      },
+      {
+        "author": "josué Lecinq",
+        "rating": 5,
+        "text": "Bar très cool et propre.\nÀ découvrir absolument !",
+        "date": "il y a 5 ans"
+      }
+    ]
   },
   {
-    "id": 97,
+    "id": 95,
     "slug": "alices",
-    "rank": 97,
+    "rank": 95,
     "name": "Alice's",
     "city": "Cotonou",
     "area": "AKPAKPA 200m avant le CEG",
@@ -5240,7 +5395,7 @@ const RESTAURANTS = [
     "googleRating": 4.7,
     "googleUserRatingCount": 15,
     "googlePriceLevel": 1,
-    "heroImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&auto=format&fit=crop",
+    "heroImage": "https://lh3.googleusercontent.com/p/AF1QipNg6Zvfz5ZL7zQc8LbJZTaKkMlMPNU5d74xZGSH=w243-h174-n-k-no-nu?w=800&auto=format&fit=crop",
     "gallery": [],
     "miwadooScore": 75,
     "budgetLabel": "~4 500 FCFA / pers.",
@@ -5248,6 +5403,217 @@ const RESTAURANTS = [
     "badge": "Qualité top",
     "badgeColor": "#2980b9",
     "editorialSummary": "Alice's est une adresse populaire à Cotonou, appréciée pour son rapport qualité‑prix.",
+    "strengths": [
+      "Charme et jardin ombragé",
+      "Cuisine maison généreuse"
+    ],
+    "weaknesses": [],
+    "recommendedDishes": [
+      "Tartes salées",
+      "Cuisine maison"
+    ],
+    "openingHours": "Horaires à confirmer",
+    "contactPhone": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.372401,2.467969",
+    "tags": [
+      "restaurant"
+    ],
+    "googleReviews": [
+      {
+        "author": "Lauren",
+        "rating": 5,
+        "text": "Really nice cafe in the main street. The food and service were really good. I had beef shawarma and would say it's one of the best I've had in west Africa, love the green décor inside very relaxing!",
+        "date": "il y a un an"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "la-tendance-restaurant",
+    "rank": 96,
+    "name": "La Tendance Restaurant",
+    "city": "Cotonou",
+    "area": "Abomey Calavi",
+    "cuisine": "Restauration rapide",
+    "googleRating": 4.9,
+    "googleUserRatingCount": 14,
+    "googlePriceLevel": 1,
+    "heroImage": "https://lh3.googleusercontent.com/p/AF1QipOcE3O1P5Fsge_EPZdr56GbJpOL9llXFThRGs77=s680-w680-h510-rw?w=800&auto=format&fit=crop",
+    "gallery": [],
+    "miwadooScore": 77,
+    "budgetLabel": "~4 500 FCFA / pers.",
+    "budgetMax": 4500,
+    "badge": "Qualité top",
+    "badgeColor": "#2980b9",
+    "editorialSummary": "\"Très cool comme restaurant\"",
+    "strengths": [
+      "Cadre chaleureux et équipe accueillante",
+      "Soirées à thème et ambiances musicales le week-end"
+    ],
+    "weaknesses": [],
+    "recommendedDishes": [
+      "Pizzas artisanales",
+      "Poissons braisés frais",
+      "Émincés de poulet à la crème"
+    ],
+    "openingHours": "Horaires à confirmer",
+    "contactPhone": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.4499345,2.320641",
+    "tags": [
+      "restauration-rapide"
+    ],
+    "googleReviews": [
+      {
+        "author": "Simone Toko",
+        "rating": 5,
+        "text": "Un cadre vraiment chaleureux ,et accueillant ! Les mets sont esquis, très délicieux ! J'y suis allée déjà 5 fois 🥰je compte revenir bientôt dèsque j'arrive à Cotonou.\n\nJe vous le conseille vivement,faites y un tour 🥰 vous allez adorer 😋😋😋",
+        "date": "il y a 2 ans"
+      },
+      {
+        "author": "Hospice SOETONVE",
+        "rating": 5,
+        "text": "Très cool comme restaurant",
+        "date": "il y a 7 mois"
+      },
+      {
+        "author": "Christophe ATCHADA",
+        "rating": 5,
+        "text": "La tendance Restaurant est un cadre splendide avec un service hors pair et une ambiance paradisiaque.",
+        "date": "Modifié il y a 2 ans"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "skyline",
+    "rank": 97,
+    "name": "Skyline",
+    "city": "Cotonou",
+    "area": "Cotonou",
+    "cuisine": "Restaurant",
+    "googleRating": 4.6,
+    "googleUserRatingCount": 17,
+    "googlePriceLevel": 1,
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqEWOAluVw9-YXRtJZbA_lpY_ySVo9gdCMAuOz0ViLMJACeqLega--yLvZgtCnTqi5jyYo3dkA95ew-0bxErf-MAQAXwq65Vcj48YmEeUzWvgRlp0Ta1mxzq03dwP9xpIVuQMiXAlOtROM=s680-w680-h510-rw?w=800&auto=format&fit=crop",
+    "gallery": [],
+    "miwadooScore": 74,
+    "budgetLabel": "~4 500 FCFA / pers.",
+    "budgetMax": 4500,
+    "badge": "Qualité top",
+    "badgeColor": "#2980b9",
+    "editorialSummary": "\"Nous avions été un peu déçu mais le repas est bien.\"",
+    "strengths": [
+      "Concept rooftop avec vue imprenable sur la ville",
+      "Cadre moderne et branché, idéal pour les soirées et dîners romantiques"
+    ],
+    "weaknesses": [],
+    "recommendedDishes": [
+      "Burgers gourmets",
+      "Cocktails signatures"
+    ],
+    "openingHours": "Horaires à confirmer",
+    "contactPhone": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.3619895,2.4321513",
+    "tags": [
+      "restaurant"
+    ],
+    "googleReviews": [
+      {
+        "author": "Arielle ZEHE",
+        "rating": 4,
+        "text": "Cadre lumineux et agréable. Cuisine intéressante et Cocktails idéal pour les amateurs de nouvelles expériences gustatives.",
+        "date": "il y a un mois"
+      },
+      {
+        "author": "Ashley zekiath",
+        "rating": 3,
+        "text": "Le service est très lent. Nous avions été un peu déçu mais le repas est bien.",
+        "date": "il y a un mois"
+      },
+      {
+        "author": "Moisej Aihonnou",
+        "rating": 5,
+        "text": "Cette une excellente soirée avec ma dulcinée",
+        "date": "il y a 2 mois"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "slug": "grill-spot-restaurant",
+    "rank": 98,
+    "name": "Grill Spot Restaurant",
+    "city": "Cotonou",
+    "area": "Cotonou",
+    "cuisine": "Restaurant",
+    "googleRating": 4.6,
+    "googleUserRatingCount": 17,
+    "googlePriceLevel": 1,
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerLML9esTGfyI0F-8MJskkB0Ylmt-evjUHPmMu4rrxR4yrEYFH8dXxXmwuYPVSPmLmAZhgh4aoqPGRpiLBdsvYGHbXsHccGnWdFoMeJLEUoIVM7ICuCdtCYLxUwSTApHU3q9JiYAAvTpieM=s680-w680-h510-rw?w=800&auto=format&fit=crop",
+    "gallery": [],
+    "miwadooScore": 74,
+    "budgetLabel": "~4 500 FCFA / pers.",
+    "budgetMax": 4500,
+    "badge": "Qualité top",
+    "badgeColor": "#2980b9",
+    "editorialSummary": "\"Un cadre beau, avec une bonne ambiance .\"",
+    "strengths": [
+      "Cadre aéré face à l'océan à Fidjrossè Plage",
+      "Écrans géants pour les matchs, table de billard, ouvert jusqu'à 4h du matin"
+    ],
+    "weaknesses": [],
+    "recommendedDishes": [
+      "Demi-poulet grillé au charbon",
+      "Gambas grillées",
+      "Steak de bœuf",
+      "Escargots braisés"
+    ],
+    "openingHours": "Horaires à confirmer",
+    "contactPhone": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.3508344,2.3568907",
+    "tags": [
+      "restaurant"
+    ],
+    "googleReviews": [
+      {
+        "author": "Berenger Maelle",
+        "rating": 5,
+        "text": "Un cardre idéal.... Qui fait face à la plage et ne laisse pas la chaleur vous étouffer..\nLa nourriture très appétissante 🥲🥰🥰🥰",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "Thierry ML",
+        "rating": 2,
+        "text": "Service trop lent. Le restaurant n'était pas du tout plein mais ils ont trouvé le moyen de nous oublier sous prétexte que le barman n'avait pas vu nos commandes laissées par son collègue",
+        "date": "il y a 7 mois"
+      },
+      {
+        "author": "Groupe Porteur",
+        "rating": 5,
+        "text": "Une expérience culinaire exceptionnelle du début à la fin. Dès notre arrivée, nous avons été chaleureusement accueillis par une équipe souriante et attentive, créant une atmosphère conviviale et professionnelle. Le menu est un véritable voyage gastronomique, avec des plats savamment élaborés qui allient fraîcheur, équilibre des saveurs et présentation soignée. Chaque bouchée témoigne du savoir-faire du chef et de la qualité des produits sélectionnés.\n\nLe cadre, quant à lui, ajoute une touche supplémentaire à cette belle expérience : une décoration raffinée, une ambiance apaisante et un agencement qui permet de profiter pleinement du moment. Que ce soit pour un dîner en amoureux, un repas d’affaires ou une sortie entre amis, ce restaurant coche toutes les cases d’une adresse incontournable. Nous y reviendrons sans hésitation !",
+        "date": "il y a un an"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "slug": "le-code-bar",
+    "rank": 99,
+    "name": "Le Code Bar",
+    "city": "Cotonou",
+    "area": "Rue 230",
+    "cuisine": "Bar",
+    "googleRating": 4.2,
+    "googleUserRatingCount": 1600,
+    "googlePriceLevel": 2,
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqtVVQsf5nyE_3AcaNDvqopitlgt1P7dpNKId5yYzdB4yJnFI-DlcSwcQ6V8y4SIcKc7gs-oZhNZSDnbSRa9VhkrfZAhSvK2SLUY-Qs0Jl9-KH2Rad81xBhVoWJOSmHlNpCXposs4SxxidU=w243-h174-n-k-no-nu?w=800&auto=format&fit=crop",
+    "gallery": [],
+    "miwadooScore": 70,
+    "budgetLabel": "~9 000 FCFA / pers.",
+    "budgetMax": 9000,
+    "badge": "Très populaire",
+    "badgeColor": "#e67e22",
+    "editorialSummary": "\"Soirée retrouvaille au Code Bar, très belle ambiance avec un son d'enfer.\"",
     "strengths": [
       "À compléter après visite"
     ],
@@ -5257,13 +5623,85 @@ const RESTAURANTS = [
     ],
     "openingHours": "Horaires à confirmer",
     "contactPhone": "",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.372401,2.467969",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.3517284,2.3867483",
     "tags": [
-      "restaurant"
+      "bar"
     ],
-    "googleReviews": []
+    "googleReviews": [
+      {
+        "author": "Amaury Escalès",
+        "rating": 4,
+        "text": "Non loin de l aéroport de Cotonou, cet endroit offre une ambiance chaleureuse et conviviale. Entres amis ou pour le business, il est idéal pour partager un bon moment.\nLa musique est sympa, la clientèle agréable et un service très pro.",
+        "date": "Modifié il y a 2 mois"
+      },
+      {
+        "author": "Steeve Ghislain Mebale",
+        "rating": 5,
+        "text": "Superbe endroit entre amis pour décompresser  de la semaine de travail\nBelle ambiance, bonne nourriture bien fraîche et bien cuite, juste comme il faut, les cocktails 🍸 super bien dosé",
+        "date": "il y a un mois"
+      },
+      {
+        "author": "Sarah De Nabila",
+        "rating": 2,
+        "text": "Le cadre est très bien avec une présentation claire et agréable\nLa cuisine  nous avons d’abord pris de la boisson qui était topissime ensuite nous avons pris du chawarma qui était malheureusement aigre et dont l’assaisonnement laissait à désirer nous nous attendions à plus 🧐\n\nL’ambiance n’était pas entraînante mais c’était correcte\nPour le service je reste mitigé entre l’accueil correcte de certain serveurs et le reste de l’équipe ( mine renfrognée et remarque acerbe surtout l’équipe du 1er niveau)\nLes prix sont assez élevé pour ce que nous avons vu\nBref je n’ai pas accroché mais cela reste mon avis personnel qui n’engage que moi😀",
+        "date": "il y a 5 mois"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "slug": "the-garden-rooftop-bar-restaurant",
+    "rank": 100,
+    "name": "The Garden Rooftop - Bar - Restaurant",
+    "city": "Cotonou",
+    "area": "Cotonou",
+    "cuisine": "Bar",
+    "googleRating": 4.1,
+    "googleUserRatingCount": 223,
+    "googlePriceLevel": 2,
+    "heroImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoYy7kgZp-mVpbyJSYpA2s34hRC6Fg-k1q2TPOCWnlZIlv-QHgm99B2UVAVsCKt2KXKEBTaYkbdDJki3iUq4g8eeZQaXh_Tyu6G6xTmvzUy5UgHlM_YeCib4zDQ-7Lk5JhmalOwGQ=w243-h174-n-k-no-nu?w=800&auto=format&fit=crop",
+    "gallery": [],
+    "miwadooScore": 60,
+    "budgetLabel": "~9 000 FCFA / pers.",
+    "budgetMax": 9000,
+    "badge": "Très populaire",
+    "badgeColor": "#e67e22",
+    "editorialSummary": "\"Idéal pour se relaxer les week-ends autour d'un verre 🍹🧉\"",
+    "strengths": [
+      "À compléter après visite"
+    ],
+    "weaknesses": [],
+    "recommendedDishes": [
+      "À compléter après visite"
+    ],
+    "openingHours": "Horaires à confirmer",
+    "contactPhone": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.372987,2.46825",
+    "tags": [
+      "bar"
+    ],
+    "googleReviews": [
+      {
+        "author": "West Star",
+        "rating": 5,
+        "text": "Excellent endroit pour décompresser après une semaine de travail, ou pour une soirée entre amis ou même avec la famille. Le personnel est serviable et assez professionnel, toujours attentif aux besoins de la clientèle. La musique y est bonne. Côté propreté des toilettes, c'est impeccable. Je recommande cet endroit",
+        "date": "il y a 3 ans"
+      },
+      {
+        "author": "charlotte Lewhe",
+        "rating": 1,
+        "text": "La nourriture reste à désirée! Beau cadre oui  mais mon poulet au kedjenou a été un réchauffée de poulet braisée mis dans une sauce qui n’est pas le kedjenou entier avec juste 2 petit morceaux et plein de légume . Je n ai jamais aussi mal mangé ! Je ne recommande pas la bouffe ! Vraiment nul",
+        "date": "il y a 3 ans"
+      },
+      {
+        "author": "Samuel Yonhossou",
+        "rating": 5,
+        "text": "Une référence...depuis ma première fois je rêve d'y retourner presque 2 week-end sur 4...du faite de son cadre hyper attrayant et des services qui y sont proposés....de bon plat accompagné de la bonne musique.",
+        "date": "Modifié il y a un an"
+      }
+    ]
   }
-]
+];
 
 // ─── Utilitaires ─────────────────────────────────────────────────────────
 

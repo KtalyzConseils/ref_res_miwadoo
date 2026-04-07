@@ -7647,6 +7647,1555 @@
         "type": "Restaurant",
         "address": "Rue 201A"
       }
+    ],
+    "restaurant tendance Cotonou 2024": [
+      {
+        "position": 1,
+        "rating": 4.5,
+        "reviews": 2,
+        "reviews_original": "(2)",
+        "description": "\"Très Beau Restaurant , service au point\"",
+        "lsig": "AB86z5UchY-EhRXt6M_V_MaLmM-v",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/xZhu_JMGRTAf5Y-MxOUpkXYwSoObyRDWXXQP0M3qv_c.jpeg",
+        "place_id": "11060197776652235349",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=11060197776652235349&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11mz1fs2ql",
+        "gps_coordinates": {
+          "latitude": 6.3577952,
+          "longitude": 2.3721323
+        },
+        "title": "Restaurant Le Futé",
+        "type": "Restaurant",
+        "address": "Calvaire rue allant vers le lycée des Princes"
+      },
+      {
+        "position": 2,
+        "rating": 4.1,
+        "reviews": 312,
+        "reviews_original": "(312)",
+        "description": "\"Les plats sont délicieux et la présentation est souvent impeccable.\"",
+        "lsig": "AB86z5UOtoSlezD6QhywmvQZ78U8",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/f8Go8RO7dgSBgeC1bSGjQF4Ll-pwy0U3dd4BvwUBuiE.jpeg",
+        "place_id": "6058912575071177986",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=6058912575071177986&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11ptnjpbwl",
+        "gps_coordinates": {
+          "latitude": 6.3509207,
+          "longitude": 2.3505745
+        },
+        "title": "Face À La Mer",
+        "type": "Restaurant",
+        "address": "03 BP 68 Fidjrossè Route des pêches"
+      },
+      {
+        "position": 3,
+        "rating": 5,
+        "reviews": 1,
+        "reviews_original": "(1)",
+        "lsig": "AB86z5V_u-vhaH_TxuqP7ByK52Wg",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/GNUXAQcBxjFhFm3MjalQj9N78I-lB4DsCl1Q9oYEG98.webp",
+        "place_id": "5472373225228208469",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5472373225228208469&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11yy4w3gnd",
+        "gps_coordinates": {
+          "latitude": 6.3542027,
+          "longitude": 2.3988342
+        },
+        "title": "Shamiana",
+        "type": "Indienne",
+        "address": "993X+MGH"
+      },
+      {
+        "position": 4,
+        "rating": 4.3,
+        "reviews": 617,
+        "reviews_original": "(617)",
+        "description": "\"Super cadre, super ambiance avec du house music, superbe cuisine\"",
+        "lsig": "AB86z5X6Iu5xCFNIcPA92MFygLq9",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/1_S1KsMTI8jHzTZg_OLiYEDFiLYf29qeOSr1Qq9d1mY.jpeg",
+        "place_id": "14244235029726651576",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=14244235029726651576&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11fxzlj5lt",
+        "gps_coordinates": {
+          "latitude": 6.352873,
+          "longitude": 2.4374778
+        },
+        "title": "L'Imprévu",
+        "type": "Restaurant",
+        "address": "Face à ECOBANK direction general, Ganhi"
+      },
+      {
+        "position": 5,
+        "rating": 4.1,
+        "reviews": 285,
+        "reviews_original": "(285)",
+        "description": "\"Un endroit très convivial avec un menu très appétissant.\"",
+        "lsig": "AB86z5UyRI10BFknWmQDmRZ9_LjF",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/RhLQ6eQ3geCa0MO8sPac4Bz8-zfShyAmJeA5CUKj-jw.jpeg",
+        "place_id": "4468079343464564174",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=4468079343464564174&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11n5lpyn0q",
+        "gps_coordinates": {
+          "latitude": 6.3564887,
+          "longitude": 2.3962538
+        },
+        "title": "3.14 Atelier",
+        "type": "Restaurant",
+        "address": "Piste Almalco"
+      },
+      {
+        "position": 6,
+        "rating": 4.4,
+        "reviews": 18,
+        "reviews_original": "(18)",
+        "description": "\"Repas bon, bonne ambiance, service rapide\"",
+        "lsig": "AB86z5XnYq6hHE4MrlfnuBxjXU4y",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/G_KFv8sGl-E3zL688TjwwaI4AX1jGm3tBNEuFvSMTuo.webp",
+        "place_id": "12249524114139955757",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=12249524114139955757&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11yfs8wg20",
+        "gps_coordinates": {
+          "latitude": 6.3707767,
+          "longitude": 2.4221103
+        },
+        "title": "Restaurant Savane",
+        "type": "Restaurant",
+        "address": "9CCC+8HW"
+      },
+      {
+        "position": 7,
+        "rating": 4.5,
+        "reviews": 339,
+        "reviews_original": "(339)",
+        "description": "\"Cuisine parfaite, service impeccable, mais un peu trop calme à mon goût.\"",
+        "lsig": "AB86z5VFpmge5tH4fqFfWXHqO9OS",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/f-jPJFkef0YblPSDdkpEv8TAtZTmDDxDEwbA37Su-nQ.jpeg",
+        "place_id": "5199071038044622760",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5199071038044622760&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/1vm6b8_p",
+        "gps_coordinates": {
+          "latitude": 6.359681,
+          "longitude": 2.438177
+        },
+        "title": "La Pirogue",
+        "type": "Restaurant",
+        "address": "Rue 104B"
+      },
+      {
+        "position": 8,
+        "rating": 4.1,
+        "reviews": 300,
+        "reviews_original": "(300)",
+        "description": "\"Terrasse agréable, bonne cuisine, pizzas, plats traditionnels.\"",
+        "lsig": "AB86z5V4E_gyyZrjExmvDc-fKyCX",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/INb_OrSkVS6AjlTxsvlelwhheeZR-oQ2veT2rCe3WqM.jpeg",
+        "place_id": "2227643976506008772",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=2227643976506008772&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11k9bl9spg",
+        "gps_coordinates": {
+          "latitude": 6.3546343,
+          "longitude": 2.36555
+        },
+        "title": "Restaurant Le Resto - Cotonou",
+        "type": "Restaurant",
+        "address": "Rue 2108"
+      },
+      {
+        "position": 9,
+        "rating": 4.5,
+        "reviews": 17,
+        "reviews_original": "(17)",
+        "description": "\"Plats bons et copieux ou a pris à emporter aussi.\"",
+        "lsig": "AB86z5UGvdkvUUo5fVsmxr2WeS5f",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/afgq7Qoj0sHfJ18FrMhwYxqadpORT0wGZ_e5ekWQ_14.jpeg",
+        "place_id": "8560024784253845043",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=8560024784253845043&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11xtp_sjr8",
+        "gps_coordinates": {
+          "latitude": 6.356794,
+          "longitude": 2.3910112
+        },
+        "title": "La Villa Lounge Bar",
+        "type": "Restaurant",
+        "address": "994R+PCH"
+      },
+      {
+        "position": 10,
+        "rating": 4.3,
+        "reviews": 483,
+        "reviews_original": "(483)",
+        "description": "\"Bonne cuisine thaïlandaise, endroit calme, équipe discrète\"",
+        "lsig": "AB86z5XkOpMbHQrk0UvmGVp2tDHR",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/jkFVTuAIqI3MxQWCgk1R53yNM2V0qYFSeSFoSl0fT9I.jpeg",
+        "place_id": "10950372693142575832",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=10950372693142575832&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11cn679kn9",
+        "gps_coordinates": {
+          "latitude": 6.35398,
+          "longitude": 2.4174042
+        },
+        "title": "Bangkok Terrasse",
+        "type": "Thaï",
+        "address": "Rue 449",
+        "hours": "Fermé · Ouvre à 19:00"
+      },
+      {
+        "position": 11,
+        "rating": 4.6,
+        "reviews": 253,
+        "reviews_original": "(253)",
+        "description": "\"La cuisine est très bonne, cadre cosy et personnel sympa.\"",
+        "lsig": "AB86z5VE7bt_cMjgtSZxIPSWUj2U",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/Wi42rpW2UfKWPTx4RWMBZitnKHZygjDPoyI4HsRUABs.jpeg",
+        "place_id": "2743148239182769197",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=2743148239182769197&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11gw2k68xw",
+        "gps_coordinates": {
+          "latitude": 6.360705,
+          "longitude": 2.4357712
+        },
+        "title": "Ya- Hala",
+        "type": "Restaurant",
+        "address": "9C6P+78C, Rue 108"
+      },
+      {
+        "position": 12,
+        "rating": 4.9,
+        "reviews": 14,
+        "reviews_original": "(14)",
+        "description": "\"Très cool comme restaurant\"",
+        "lsig": "AB86z5XiGVHjIbYHKQbAhsubZIof",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/UfXkkCLb69R19mMf4v1Ess1ojh50caUEVf4k1SYQWO4.jpeg",
+        "place_id": "11464430734952221595",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=11464430734952221595&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11v60qpsg9",
+        "gps_coordinates": {
+          "latitude": 6.4499345,
+          "longitude": 2.320641
+        },
+        "title": "La Tendance Restaurant",
+        "type": "Restauration rapide",
+        "address": "Abomey Calavi"
+      },
+      {
+        "position": 13,
+        "rating": 4.1,
+        "reviews": 17,
+        "reviews_original": "(17)",
+        "description": "\"Très bon lieu pour simplement boire un verre ou se restaurer.\"",
+        "lsig": "AB86z5ViVGiofjWfnexL8c8sEB5W",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoT5AfBJGeB_6A2JonwKKhKrb-VahiR02Zlh5Tni2f7BIv3x2gTGDVZK7vJMbGzEd0UYn4NevoiE9EYYOqu5iw87cdYFf_kc77m5Wd5eLxv9CFyceQQJdrgBf92hGK8Oo9a_NF64y1dMg1l=w90-h90-n-k-no-l75",
+        "place_id": "9328451374573657913",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=9328451374573657913&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11xfqy134q",
+        "gps_coordinates": {
+          "latitude": 6.35019,
+          "longitude": 2.3550496
+        },
+        "title": "Les nouveaux alizés",
+        "type": "Restaurant",
+        "address": "9924+42H"
+      },
+      {
+        "position": 14,
+        "rating": 4.1,
+        "reviews": 1100,
+        "reviews_original": "(1,1 k)",
+        "description": "\"La cuisine est juste exquise et le service est impeccable.\"",
+        "lsig": "AB86z5UPnl-Vn40y8MOsuJ2NfWsm",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/q0p880XaLgzfp9hjIlX176TUXrRglTOj1F8x2hlwTo8.jpeg",
+        "place_id": "16181165329346433284",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=16181165329346433284&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11cp78hkrb",
+        "gps_coordinates": {
+          "latitude": 6.3568377,
+          "longitude": 2.3911023
+        },
+        "title": "Restaurant Le Teranga",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 15,
+        "rating": 3.9,
+        "reviews": 20,
+        "reviews_original": "(20)",
+        "description": "\"Ambiance décontractée, parfait pour un cocktail ou un dîner entre amis\"",
+        "lsig": "AB86z5UastOfx9Lwyzdq_7oVEOS4",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF4XbVZZz17L-2tN4Lh5bkdCMntuwAAEQJzVB-y1upINdZ50fvdNiTUX8U_nfjNdTwKqcuW6YOZhJV-gIpHd-7eowtg49O0Rs8xaZ7IluTKQrQvwbabTmcVHB2kVyEU_AxuKNKKZ0vE5jEgKNtG3J1bCeQiIZHivGqYbEH9tErZ9cpgwhTfMiY=w90-h90-n-k-no-l75",
+        "place_id": "9926373170441627906",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=9926373170441627906&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11yhsb55qh",
+        "gps_coordinates": {
+          "latitude": 6.3506703,
+          "longitude": 2.3442817
+        },
+        "title": "Le Hublot",
+        "type": "Restaurant",
+        "address": "0000"
+      },
+      {
+        "position": 16,
+        "rating": 4.1,
+        "reviews": 180,
+        "reviews_original": "(180)",
+        "description": "\"Cadre agréable, très bonne cuisine, service impeccable.\"",
+        "lsig": "AB86z5VfRcFQ4spkPtdgkfQ0ikBh",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/wknYaU0KrCwpnWpEk_nNKpZnmOvKIsqFDcLiE2FdzAk.jpeg",
+        "place_id": "10824075644959574557",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=10824075644959574557&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11c6z021q5",
+        "gps_coordinates": {
+          "latitude": 6.356689,
+          "longitude": 2.4392755
+        },
+        "title": "Le Privé Restaurant",
+        "type": "Restaurant",
+        "address": "Cotonou",
+        "hours": "Fermé · Ouvre à 19:00"
+      },
+      {
+        "position": 17,
+        "rating": 4,
+        "reviews": 398,
+        "reviews_original": "(398)",
+        "description": "\"Nourriture délicieuse et service impeccable!\"",
+        "lsig": "AB86z5Ul_i9WLMbzGCllu9JpP_Jz",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/AZObfPeQbg-wTzRR15xHxCVB_QNI83NwOouTtXB_aaA.jpeg",
+        "place_id": "4653143022339360865",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=4653143022339360865&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11rf7n4s0x",
+        "gps_coordinates": {
+          "latitude": 6.3770733,
+          "longitude": 2.4786353
+        },
+        "title": "LYTE FOOD Avotrou",
+        "type": "Restaurant",
+        "address": "Akpakpa quartier Avotrou, 350 mètres après l'église catholique Sainte"
+      },
+      {
+        "position": 18,
+        "rating": 4.4,
+        "reviews": 95,
+        "reviews_original": "(95)",
+        "description": "\"Un très bon endroit pour décompresser entre amis.\"",
+        "lsig": "AB86z5XeGX3840QKU73XTDWreTdF",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/Z1MOx2xW8ysgpJFs9Akxi3jjpdiPWWbOHAI__t7K0dk.jpeg",
+        "place_id": "13137801851610640476",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=13137801851610640476&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11qpqfr9z_",
+        "gps_coordinates": {
+          "latitude": 6.348916,
+          "longitude": 2.403429
+        },
+        "title": "Le Djabi lounge bar",
+        "type": "Restaurant",
+        "address": "No 90 rue 12.017, Boulevard de la Marina",
+        "hours": "Fermé · Ouvre à 17:00"
+      },
+      {
+        "position": 19,
+        "rating": 3.9,
+        "reviews": 510,
+        "reviews_original": "(510)",
+        "description": "\"Une très bonne cuisine locale, avec ces petits délicieux accompagnents.\"",
+        "lsig": "AB86z5Xe6TRNeIdKD3jAhUaehC3C",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/93cDSMx7Z8sNSSuRhUxz8qL0kzLmFckuysZumUFXKGo.jpeg",
+        "place_id": "9280138858748889989",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=9280138858748889989&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/119w_65k3",
+        "gps_coordinates": {
+          "latitude": 6.354025,
+          "longitude": 2.4210706
+        },
+        "title": "Maquis la Résidence",
+        "type": "Restaurant",
+        "address": "Rue 235",
+        "hours": "Ferme bientôt · 16:00"
+      },
+      {
+        "position": 20,
+        "rating": 5,
+        "reviews": 3,
+        "reviews_original": "(3)",
+        "description": "\"Les repas sont soignés et servir dans un temps raisonnable.\"",
+        "lsig": "AB86z5X0NS1qtIZ3DNIWZMgrz07N",
+        "thumbnail": "https://serpapi.com/searches/69d51226f9aa7305d0b4e1ee/images/u2DSyDOMh3F0Q-jS4DP8jnfBoA0CVTGCuYT-Xe2_94U.jpeg",
+        "place_id": "747079145041670930",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=747079145041670930&q=restaurant+tendance+Cotonou+2024",
+        "provider_id": "/g/11shjtqfb7",
+        "gps_coordinates": {
+          "latitude": 6.3577266,
+          "longitude": 2.3721182
+        },
+        "title": "Fairy Beach",
+        "type": "Restaurant",
+        "address": "995C+3RQ"
+      }
+    ],
+    "nouveau restaurant Cotonou Bénin": [
+      {
+        "position": 1,
+        "rating": 5,
+        "reviews": 6,
+        "reviews_original": "(6)",
+        "description": "\"Cuisine saine sans additifs chimiques, service rapide, accueil convivial.\"",
+        "lsig": "AB86z5VM9F7_dJdV04WbH89jPmUa",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/vFoQEDN-MZ4ZErDejMbN0iKujrcQEgUU_fgxTkCdiog.jpeg",
+        "place_id": "1805469557821709148",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=1805469557821709148&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11yyz9r0dw",
+        "gps_coordinates": {
+          "latitude": 6.3602886,
+          "longitude": 2.434558
+        },
+        "title": "Ikoko Restaurant Cotonou",
+        "type": "Plats africains",
+        "address": "Cotonou"
+      },
+      {
+        "position": 2,
+        "rating": 5,
+        "reviews": 1,
+        "reviews_original": "(1)",
+        "lsig": "AB86z5XcyFZ0K7Xo-SQq9J3OyXEx",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/hA0XYjCAa4lxy64YUV5isq8R2h1gF6f-qrzzDuXsCE4.jpeg",
+        "place_id": "2810983449834586338",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=2810983449834586338&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11z19bkwkt",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "La Rosette food 🍗",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 3,
+        "rating": 5,
+        "reviews": 2,
+        "reviews_original": "(2)",
+        "lsig": "AB86z5Xb8Pjm5v8otADKijs1Ocmu",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/dGpVBl6SkPH5jx-_h8sgX7cUoN9elvfyzNZaKJPJ7Lw.jpeg",
+        "place_id": "10337550330891236408",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=10337550330891236408&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11ym_ykhhs",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "LE JOJO",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 4,
+        "rating": 5,
+        "reviews": 11,
+        "reviews_original": "(11)",
+        "description": "\"Une expérience culinaire inoubliable !\"",
+        "lsig": "AB86z5UCQ5W95LNGgfWzIBmYBg_l",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/w3iYmAgPZG4Ve3yhoGg2wq_N4XGd3ft-IOBt9saHxyg.jpeg",
+        "place_id": "7108790969714490682",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=7108790969714490682&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11y3vgyt5p",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "Del Gusto RESTO",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 5,
+        "rating": 4.9,
+        "reviews": 12,
+        "reviews_original": "(12)",
+        "description": "\"Le chef a réussi à marier les saveurs et les ingrédients avec brio !\"",
+        "lsig": "AB86z5UZ0zMtFnIbKQjHeAjiRrnK",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/Dyi2pigHeSI8o-6NydlTLuRxH0HQVzZqaRc1b5EYT4E.jpeg",
+        "place_id": "5362338921157323634",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5362338921157323634&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11y63s5bs8",
+        "gps_coordinates": {
+          "latitude": 6.3532004,
+          "longitude": 2.4219863
+        },
+        "title": "Mon Amour",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 6,
+        "rating": 5,
+        "reviews": 3,
+        "reviews_original": "(3)",
+        "lsig": "AB86z5UmrQISvZF01fdvp4rY5d2X",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/56S7Wh7TtFb_FU098pLTL_vmReMlraZmp7HD63m7S6E.jpeg",
+        "place_id": "6577953143172873811",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=6577953143172873811&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11mlz1151c",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "Garage Gourmand",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 7,
+        "rating": 4.6,
+        "reviews": 17,
+        "reviews_original": "(17)",
+        "description": "\"Nous avions été un peu déçu mais le repas est bien.\"",
+        "lsig": "AB86z5WVUEr4a7hSOOw9OYsRhEIX",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/adFHIUv4rbb2mvMmbpRwgc-Bzz1uip9VYrna_24XMBM.jpeg",
+        "place_id": "4825407767095040075",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=4825407767095040075&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11ygk4mdrf",
+        "gps_coordinates": {
+          "latitude": 6.3619895,
+          "longitude": 2.4321513
+        },
+        "title": "Skyline",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 8,
+        "rating": 4.3,
+        "reviews": 3,
+        "reviews_original": "(3)",
+        "description": "\"Les plats sont bien préparés, savoureux et proposés à des prix abordables.\"",
+        "lsig": "AB86z5Uke0yeMHL-gDIgTUAMjsg-",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/ZufBqwh37uQ_Hrb07AylS4zpN9NxfZU7sGOeP3sHpHQ.jpeg",
+        "place_id": "10593188326810024199",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=10593188326810024199&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11n4plr26n",
+        "gps_coordinates": {
+          "latitude": 6.3568206,
+          "longitude": 2.42852
+        },
+        "title": "Café-Bar-Resto Chez Adé",
+        "type": "Plats africains",
+        "address": "Cotonou"
+      },
+      {
+        "position": 9,
+        "lsig": "AB86z5Xpqc4_6kmbzv_6_pLzcLxY",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/s5HqYNoHLSOzXyj7BuO1KClhT5lX1lkPpu5WlXcKV6Y.webp",
+        "place_id": "3206944285568411033",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=3206944285568411033&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11z3zxyqhs",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "Maquis CHEZ FLEUR",
+        "reviews_original": "Aucun avis",
+        "type": "Restaurant",
+        "address": "Cotonou",
+        "hours": "Fermé · Ouvre à 00:00 lun."
+      },
+      {
+        "position": 10,
+        "rating": 4.5,
+        "reviews": 8,
+        "reviews_original": "(8)",
+        "description": "\"Cuisine exceptionnelle et créative avec un menu qui change chaque semaine.\"",
+        "lsig": "AB86z5Xzp0Yr8vxK-dhxWRkTO4BM",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/SyAp1uWBybdOwmPakHeirIYp221JGHqw5k_B-8khGrk.jpeg",
+        "place_id": "183091699908633868",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=183091699908633868&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11myy380gc",
+        "gps_coordinates": {
+          "latitude": 6.351037,
+          "longitude": 2.3529613
+        },
+        "title": "ORUN bj Restaurant",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 11,
+        "rating": 4.7,
+        "reviews": 68,
+        "reviews_original": "(68)",
+        "description": "\"Un service excellent, un personnel au top, une carte varié.\"",
+        "lsig": "AB86z5X8G4dMnh53aeMU5gz2-J2E",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/n7-CMwNjQBfCxT8UEHonAEAWTNCUFWsJ5ToPCibVB-w.jpeg",
+        "place_id": "4591092974699265400",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=4591092974699265400&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11smc7wc1t",
+        "gps_coordinates": {
+          "latitude": 6.3653374,
+          "longitude": 2.4121048
+        },
+        "title": "L'insolite",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 12,
+        "lsig": "AB86z5XFvgWg9f6lLQRytkehif2_",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/eD_rDnk7Ulrr8jfUyFZvempm3vWoBwRFDiLtLpVgzwA.jpeg",
+        "service_options": {
+          "repas_sur_place": true,
+          "vente_à_emporter": true,
+          "livraison": true
+        },
+        "place_id": "10247962737821468604",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=10247962737821468604&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11z3yg76v_",
+        "gps_coordinates": {
+          "latitude": 6.3610454,
+          "longitude": 2.4326203
+        },
+        "title": "Grillade halal Cotonou",
+        "reviews_original": "Aucun avis",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 13,
+        "rating": 3.8,
+        "reviews": 36,
+        "reviews_original": "(36)",
+        "description": "\"Service impeccable\"",
+        "lsig": "AB86z5UwROKo8ElZ6poYcDma9w4b",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/SeswkKLIjeJ6pWFnAreC3pGx_INXZ976IkhRNCD6FXs.jpeg",
+        "place_id": "276117724642935602",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=276117724642935602&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11mrmybxph",
+        "gps_coordinates": {
+          "latitude": 6.3725686,
+          "longitude": 2.471624
+        },
+        "title": "L'OPERA Restaurant & Lounge",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 14,
+        "rating": 4.6,
+        "reviews": 17,
+        "reviews_original": "(17)",
+        "description": "\"Un cadre beau, avec une bonne ambiance .\"",
+        "lsig": "AB86z5UcAmDwSouOl9dshBGiYEqQ",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/PSSGoVxtYFdJIzSUR5Wr7UI3J9LNGTwXG6Iby9Z1NAI.jpeg",
+        "place_id": "15249700162184921874",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=15249700162184921874&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11x39g9420",
+        "gps_coordinates": {
+          "latitude": 6.3508344,
+          "longitude": 2.3568907
+        },
+        "title": "Grill Spot Restaurant",
+        "type": "Restaurant",
+        "address": "Cotonou",
+        "hours": "Fermé · Ouvre à 16:00"
+      },
+      {
+        "position": 15,
+        "rating": 5,
+        "reviews": 2,
+        "reviews_original": "(2)",
+        "description": "\"Leurs desserts sont délicieux, bien présentés, et parfaits.\"",
+        "lsig": "AB86z5UkoF3nbuOT26S_FA9TdPOO",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/hm4gniY5bM-p52tkngvJOmHWkGk30WnQK_BI-6OpPO0.jpeg",
+        "place_id": "4744437881799476644",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=4744437881799476644&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11vzf6xgtr",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "Wêli - Pâtisserie sans Gluten",
+        "type": "Pâtisserie",
+        "address": "Cotonou"
+      },
+      {
+        "position": 16,
+        "rating": 3.3,
+        "reviews": 3,
+        "reviews_original": "(3)",
+        "description": "\"Très esquit leur Black cake 🍰\"",
+        "lsig": "AB86z5U-VI0NNVRtevq2NBSd7dRp",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/6NTlIZmekCXVbRrWgptZnoh9iFeYhgPyEItaDMx7l5U.png",
+        "place_id": "2852397952514315261",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=2852397952514315261&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11mkcy6vt8",
+        "gps_coordinates": {
+          "latitude": 6.35392,
+          "longitude": 2.427366
+        },
+        "title": "Meltique pastry",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 17,
+        "rating": 4.1,
+        "reviews": 17,
+        "reviews_original": "(17)",
+        "description": "\"Très bon lieu pour simplement boire un verre ou se restaurer.\"",
+        "lsig": "AB86z5VXSKihxV3rr-aQPTv2SmQl",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/Zxzoti-g3zfcg49bWFFtlINSgZsaOta0O0GidQNWx-4.jpeg",
+        "place_id": "9328451374573657913",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=9328451374573657913&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11xfqy134q",
+        "gps_coordinates": {
+          "latitude": 6.35019,
+          "longitude": 2.3550496
+        },
+        "title": "Les nouveaux alizés",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 18,
+        "lsig": "AB86z5ViVGiofjWfnexL8c8sEB5W",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/e_pHi2AlAKl6s2BEOkbozbJ8x4M54qo9EY53PSVA25c.jpeg",
+        "place_id": "9067276908421074102",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=9067276908421074102&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11z2vv05qx",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "Maquis Flore G",
+        "reviews_original": "Aucun avis",
+        "type": "Restaurant",
+        "address": "Cotonou"
+      },
+      {
+        "position": 19,
+        "rating": 4.5,
+        "reviews": 23,
+        "reviews_original": "(23)",
+        "description": "\"Franchement, service impeccable.. dépasse les attentes !\"",
+        "lsig": "AB86z5V4QwIiqX4tOLVDpaLRiQTq",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/F7krFyESvr_7KmcWtFEHC7P_BAYf_-KE5tL-IB26cOE.jpeg",
+        "place_id": "14231160545069317405",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=14231160545069317405&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11lzhbtxfl",
+        "gps_coordinates": {
+          "latitude": 6.3617907,
+          "longitude": 2.423478
+        },
+        "title": "Hi Five Rooftop Restaurant & Bar",
+        "type": "Restaurant",
+        "address": "Cotonou",
+        "hours": "Fermé · Ouvre à 17:00"
+      },
+      {
+        "position": 20,
+        "rating": 4.7,
+        "reviews": 44,
+        "reviews_original": "(44)",
+        "description": "\"Merci à l’équipe et au chef pour cet excellent accueil Je recommande à 100%\"",
+        "lsig": "AB86z5VEggNhIwTt_ctHDcX6Vz3p",
+        "thumbnail": "https://serpapi.com/searches/69d5122dfbbebbac4c4d9332/images/UwzGrjrnMF8sv8z2pxyCh0E4Clz43lLvNFcoRLjjm54.jpeg",
+        "place_id": "3146119097136538541",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=3146119097136538541&q=nouveau+restaurant+Cotonou+B%C3%A9nin",
+        "provider_id": "/g/11wxg2y2zs",
+        "gps_coordinates": {
+          "latitude": 6.359761,
+          "longitude": 2.3969996
+        },
+        "title": "Le bistrot du marché",
+        "type": "Restaurant",
+        "address": "Cotonou",
+        "hours": "Fermé · Ouvre à 19:00"
+      }
+    ],
+    "restaurant bar lounge Cotonou": [
+      {
+        "position": 1,
+        "rating": 4.3,
+        "reviews": 28,
+        "reviews_original": "(28)",
+        "description": "\"Beau cadre, tres accueillant.\"",
+        "lsig": "AB86z5Vyh_-hf8ylF7AkQ4hGJeFa",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/ur8w8_x3g7uOUf2HN_RC-PSbYqm02lyNmY4V_ZLIZkI.jpeg",
+        "place_id": "9685837978555247242",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=9685837978555247242&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11k46rtznv",
+        "gps_coordinates": {
+          "latitude": 6.3502593,
+          "longitude": 2.3690083
+        },
+        "title": "Sky lounge",
+        "type": "Indienne",
+        "address": "plage fin pave Avant église morija, 4eme etage de hotel la casa cielo"
+      },
+      {
+        "position": 2,
+        "rating": 4.6,
+        "reviews": 15,
+        "reviews_original": "(15)",
+        "lsig": "AB86z5V6hSRFe8Br49n-xV7oewI4",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/tnXY5abCGjyctjHC54Hr2OWAedcijHzKGSTh0Cqi0wM.jpeg",
+        "place_id": "2208699290977099680",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=2208699290977099680&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11y7f726vk",
+        "gps_coordinates": {
+          "latitude": 6.3553314,
+          "longitude": 2.4370303
+        },
+        "title": "O2 Lounge Bar Restaurant & NightClub",
+        "type": "Discothèque",
+        "address": "Ganhi"
+      },
+      {
+        "position": 3,
+        "rating": 4.8,
+        "reviews": 12,
+        "reviews_original": "(12)",
+        "description": "\"Super bar pour faire une pause hors du temps, bien équipé et chaleureux.\"",
+        "lsig": "AB86z5VSOyO8dj49-w7uSH_TRbf5",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/fW7SduZRCVOCFdgw1uceqFqroW6QrWTyw8Z654UzWlk.jpeg",
+        "place_id": "12308839809859651575",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=12308839809859651575&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11yrx4d58f",
+        "gps_coordinates": {
+          "latitude": 6.3503604,
+          "longitude": 2.3280747
+        },
+        "title": "La Parenthèse Lounge Bar",
+        "type": "Bar",
+        "address": "229"
+      },
+      {
+        "position": 4,
+        "rating": 5,
+        "reviews": 2,
+        "reviews_original": "(2)",
+        "lsig": "AB86z5V7awKdeky6VEWBsEzoh_q6",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/6oWD-BPxEWSF-Z-dHQhAQ34EN3gcvBDMfQUFMU2K85U.jpeg",
+        "place_id": "1991887873021511058",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=1991887873021511058&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11mzchq0gq",
+        "gps_coordinates": {
+          "latitude": 6.354702,
+          "longitude": 2.4392116
+        },
+        "title": "Blue Bird Le Café De Ganhi & Lounge Club",
+        "type": "Restaurant",
+        "address": "Face à la Cimenterie SCB, Ganhi"
+      },
+      {
+        "position": 5,
+        "rating": 4,
+        "reviews": 77,
+        "reviews_original": "(77)",
+        "description": "\"Coin chic, ambiance décontractée.\"",
+        "lsig": "AB86z5V9sAjWd5ya-iI_ZUEjdEZs",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/fuczCfkegdyDfnX16xqRXKyT-NP5ifWeoFLo8qyD-Sc.jpeg",
+        "place_id": "11473130646175335253",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=11473130646175335253&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11q8wzzs3q",
+        "gps_coordinates": {
+          "latitude": 6.3511343,
+          "longitude": 2.3453484
+        },
+        "title": "Moon Bar-Restaurant / Cotonou",
+        "type": "Restaurant",
+        "address": "Fidjrossè plage- route des pêches, rue Atlantic Beach Hôtel"
+      },
+      {
+        "position": 6,
+        "rating": 4.5,
+        "reviews": 17,
+        "reviews_original": "(17)",
+        "description": "\"J'y suis allé pour prendre un verre.\"",
+        "lsig": "AB86z5UGvdkvUUo5fVsmxr2WeS5f",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/PADHI-mIFV1tUU2Gdk6aDDGBavLwAeP5LeZZvAErwYE.jpeg",
+        "place_id": "8560024784253845043",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=8560024784253845043&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11xtp_sjr8",
+        "gps_coordinates": {
+          "latitude": 6.356794,
+          "longitude": 2.3910112
+        },
+        "title": "La Villa Lounge Bar",
+        "type": "Restaurant",
+        "address": "994R+PCH"
+      },
+      {
+        "position": 7,
+        "rating": 4.2,
+        "reviews": 21,
+        "reviews_original": "(21)",
+        "lsig": "AB86z5U9DbCAVipjIasAyispVJWo",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/L5iJu6wIbh5A4CfYcdwA9CUWxf301QEJtRmeqZY9wOU.jpeg",
+        "service_options": {
+          "repas_sur_place": true,
+          "service_de_drive": true,
+          "livraison": true
+        },
+        "place_id": "12851624924681700946",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=12851624924681700946&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11s7kxhxkl",
+        "gps_coordinates": {
+          "latitude": 6.372747,
+          "longitude": 2.47742
+        },
+        "title": "D’PACIFIC LOUNGE &BAR",
+        "type": "Grillades",
+        "address": "Enface JNP Station,Danji Tanto Cotonou Akpakpa"
+      },
+      {
+        "position": 8,
+        "rating": 3.8,
+        "reviews": 41,
+        "reviews_original": "(41)",
+        "description": "\"Convivial et agréable, vous ne serez pas déçu\"",
+        "lsig": "AB86z5XVACWlaTOhsuPMAr2eZt1_",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/gdcnoP9Nqy9CSyXgp-s0Stg9lHuVGQhDEcRAQogt-7o.jpeg",
+        "place_id": "6385620608174792487",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=6385620608174792487&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11c7t46744",
+        "gps_coordinates": {
+          "latitude": 6.359173,
+          "longitude": 2.4359913
+        },
+        "title": "Lounge Restaurant Pacha",
+        "type": "Bar lounge",
+        "address": "9C5P+M99",
+        "hours": "Fermé · Ouvre à 20:00"
+      },
+      {
+        "position": 9,
+        "rating": 4.4,
+        "reviews": 95,
+        "reviews_original": "(95)",
+        "description": "\"Un très bon endroit pour décompresser entre amis.\"",
+        "lsig": "AB86z5XeGX3840QKU73XTDWreTdF",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/ELN7NXt3y6LRTlnctWdZV10zoIRSGokVqz_q5V-O13w.jpeg",
+        "place_id": "13137801851610640476",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=13137801851610640476&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11qpqfr9z_",
+        "gps_coordinates": {
+          "latitude": 6.348916,
+          "longitude": 2.403429
+        },
+        "title": "Le Djabi lounge bar",
+        "type": "Bar",
+        "address": "No 90 rue 12.017, Boulevard de la Marina",
+        "hours": "Fermé · Ouvre à 17:00"
+      },
+      {
+        "position": 10,
+        "rating": 4.1,
+        "reviews": 118,
+        "reviews_original": "(118)",
+        "description": "\"Espace convivial pour les couples(avec enfant) ou groupes d'amis.\"",
+        "lsig": "AB86z5UR1rOuwF35XrusYDBZtM1s",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/cTBl8prMfKAGXCQxSoq52h8Joz1n3dvJvf4slQTFjc8.jpeg",
+        "place_id": "9105918674582190753",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=9105918674582190753&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11lkgslml9",
+        "gps_coordinates": {
+          "latitude": 6.350923,
+          "longitude": 2.3509953
+        },
+        "title": "LE SWEET - Lounge",
+        "type": "Bar lounge",
+        "address": "229"
+      },
+      {
+        "position": 11,
+        "rating": 4.3,
+        "reviews": 92,
+        "reviews_original": "(92)",
+        "description": "\"Nourriture 10/10 ambiance 10/10\"",
+        "lsig": "AB86z5Vk9hYBOsAvprcsnSD9QcyW",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/11CmR5y6MhBR3sNzkzOedoif8Fw5bpv3U2y6cFVr-60.jpeg",
+        "place_id": "10857323277569242861",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=10857323277569242861&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11sysp_5d1",
+        "gps_coordinates": {
+          "latitude": 6.3682656,
+          "longitude": 2.442282
+        },
+        "title": "My Cubana Lounge Bar",
+        "type": "Bar lounge",
+        "address": "9C9R+7VV, 01bp 848, Rue 1403"
+      },
+      {
+        "position": 12,
+        "rating": 4.1,
+        "reviews": 223,
+        "reviews_original": "(223)",
+        "description": "\"Idéal pour se relaxer les week-ends autour d'un verre 🍹🧉\"",
+        "lsig": "AB86z5Ul7jI2jXHoxG7LRPCL-0Gh",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/7yySnujQLuJEA0dYGj4O7mgR_VLEAtXiCT6jb2Vq8ME.jpeg",
+        "place_id": "30028000412248043",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=30028000412248043&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11rty4q4bv",
+        "gps_coordinates": {
+          "latitude": 6.372987,
+          "longitude": 2.46825
+        },
+        "title": "The Garden Rooftop - Bar - Restaurant",
+        "type": "Bar",
+        "address": "Cotonou",
+        "hours": "Fermé · Ouvre à 18:00"
+      },
+      {
+        "position": 13,
+        "rating": 3.8,
+        "reviews": 36,
+        "reviews_original": "(36)",
+        "description": "\"La déco est cosy, le cadre est magnifique.\"",
+        "lsig": "AB86z5UcAmDwSouOl9dshBGiYEqQ",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/1d79mzfRFbcQd4ZrT9blxIoYTamvoMe1ckabKSC-Y1k.jpeg",
+        "place_id": "276117724642935602",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=276117724642935602&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11mrmybxph",
+        "gps_coordinates": {
+          "latitude": 6.3725686,
+          "longitude": 2.471624
+        },
+        "title": "L'OPERA Restaurant & Lounge",
+        "type": "Restaurant",
+        "address": "9FFC+2J9, Rue 1600"
+      },
+      {
+        "position": 14,
+        "rating": 4.7,
+        "reviews": 21,
+        "reviews_original": "(21)",
+        "description": "\"Meilleure restaurant et meilleure endroit de divertissement à cotonou sunset\"",
+        "lsig": "AB86z5XHqlQVKxeKyJnW2fH1IeMG",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweois_qvd1g4uCOpdjm-vfAM_G0gCyO4YrTFHJYvHATqPqjQUFZ-CM9dHCllaBPAiz5dFEubdo2_Tm5grKK4V91iyTWOKSe-BboBIIe2JxVHhwVH7jO7y8RGCjeS-2xrNV9zE48U-9QPtpP4=w90-h90-n-k-no-l75",
+        "place_id": "8587365008742520864",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=8587365008742520864&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11mm7g1yrv",
+        "gps_coordinates": {
+          "latitude": 6.3575664,
+          "longitude": 2.3687484
+        },
+        "title": "SUNSET RESTAU BAR",
+        "type": "Restaurant",
+        "address": "229",
+        "hours": "Fermé · Ouvre à 17:00"
+      },
+      {
+        "position": 15,
+        "rating": 3.5,
+        "reviews": 13,
+        "reviews_original": "(13)",
+        "description": "\"C'est un bar très sympa\"",
+        "lsig": "AB86z5XK7Sy0UdxJsrVra4BNiZs5",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/AE6g6Zsnt1izSlOCI-0G1jIwI6HEdvepyC94s7xq7KE.jpeg",
+        "place_id": "5875509070455969668",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5875509070455969668&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11n06tx8tv",
+        "gps_coordinates": {
+          "latitude": 6.3786116,
+          "longitude": 2.475778
+        },
+        "title": "Story lounge bar & restaurant",
+        "type": "Restaurant",
+        "address": "Akpakpa, Rue 1322"
+      },
+      {
+        "position": 16,
+        "rating": 4.5,
+        "reviews": 2,
+        "reviews_original": "(2)",
+        "lsig": "AB86z5UhRTpBY2q8sesQog2ZrsuZ",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/b8LgpzYS5FZ18IK-VAMZzFMEgUmwpLFAuHN83cw6DXE.webp",
+        "service_options": {
+          "repas_sur_place": true,
+          "service_de_drive": true,
+          "livraison": true
+        },
+        "place_id": "5932223041410687860",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5932223041410687860&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11sl7m3yqp",
+        "gps_coordinates": {
+          "latitude": 6.371326,
+          "longitude": 2.3917387
+        },
+        "title": "RESTAURANT BAR",
+        "type": "Restaurant",
+        "address": "04 BP : 1089"
+      },
+      {
+        "position": 17,
+        "rating": 4.4,
+        "reviews": 9,
+        "reviews_original": "(9)",
+        "description": "\"Le personnel est accueillant et l'atmosphère du lieu est intime et agréable\"",
+        "lsig": "AB86z5WqnqGUa7ljvwGadlAKDpud",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/H_S7EMKdiHXVDqpUcgP0X7NZ6jC3BPlvlBd8fobRL5E.jpeg",
+        "place_id": "13701968373654638738",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=13701968373654638738&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11sqk9t1yr",
+        "gps_coordinates": {
+          "latitude": 6.3702927,
+          "longitude": 2.3912363
+        },
+        "title": "RESTAURANT LA VILLA 229 NIGHTS",
+        "type": "Restaurant",
+        "address": "00229"
+      },
+      {
+        "position": 18,
+        "rating": 4.1,
+        "reviews": 28,
+        "reviews_original": "(28)",
+        "description": "\"Magnifique bar 🍻🍺 de relaxation électrique\"",
+        "lsig": "AB86z5WpYKjSXYqgX7s6visRH-4-",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/AsLrSP4kaFOz7Kei7oMx-A_G90UdfnYvSECcJPsdJNg.jpeg",
+        "place_id": "16845571924358570221",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=16845571924358570221&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11st8698n4",
+        "gps_coordinates": {
+          "latitude": 6.3474965,
+          "longitude": 2.3815396
+        },
+        "title": "Fair Bar",
+        "type": "Restaurant",
+        "address": "Plage, Derrière wellness fitness"
+      },
+      {
+        "position": 19,
+        "rating": 4.3,
+        "reviews": 29,
+        "reviews_original": "(29)",
+        "description": "\"Bon service, bons plats, bon personnel.\"",
+        "lsig": "AB86z5VCom3BUSrz32vQRX_gnAi6",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/8wD3nq4Jomm-pzasc04J3bAOwDibUuSNkzwsIDHRh2E.jpeg",
+        "place_id": "5938258082673992184",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5938258082673992184&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/11jrxncrsp",
+        "gps_coordinates": {
+          "latitude": 6.374537,
+          "longitude": 2.4147851
+        },
+        "title": "Level restaurant lounge",
+        "type": "Restaurant",
+        "address": "Etoile"
+      },
+      {
+        "position": 20,
+        "rating": 4.2,
+        "reviews": 1600,
+        "reviews_original": "(1,6 k)",
+        "description": "\"Soirée retrouvaille au Code Bar, très belle ambiance avec un son d'enfer.\"",
+        "lsig": "AB86z5VtdqAbhDugtLoqC-ljQPd5",
+        "thumbnail": "https://serpapi.com/searches/69d5210e4c437f10d2e24b46/images/0Zrd4iaKcVM2CeapcNibmfcA3aW9LAvdL5YdLNW2Mgo.jpeg",
+        "place_id": "932467378848437071",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=932467378848437071&q=restaurant+bar+lounge+Cotonou",
+        "provider_id": "/g/1pv0ls915",
+        "gps_coordinates": {
+          "latitude": 6.3517284,
+          "longitude": 2.3867483
+        },
+        "title": "Le Code Bar",
+        "type": "Bar",
+        "address": "Rue 230",
+        "hours": "Fermé · Ouvre à 18:00"
+      }
+    ],
+    "cafe restaurant Cotonou": [
+      {
+        "position": 1,
+        "rating": 4.7,
+        "reviews": 86,
+        "reviews_original": "(86)",
+        "description": "\"Acceuil chaleureux, service et repas impeccable\"",
+        "lsig": "AB86z5XynJBEVJVwYFzBLVdrniiI",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/QD6OO8fIsT-A0jRIHdTIrxP39eMNp_g0SQo7VSEqXeI.jpeg",
+        "place_id": "16608963469538770101",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=16608963469538770101&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11y5hbxzb9",
+        "gps_coordinates": {
+          "latitude": 6.3762336,
+          "longitude": 2.4228122
+        },
+        "title": "L'Epicurienne Café",
+        "type": "Café",
+        "address": "Cotonou"
+      },
+      {
+        "position": 2,
+        "rating": 5,
+        "reviews": 11,
+        "reviews_original": "(11)",
+        "description": "\"Des mets très circulent avec livraison très rapide\"",
+        "lsig": "AB86z5UZ0zMtFnIbKQjHeAjiRrnK",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/UE8Lbc_dBCie10Xw-ndf89n4SSQ6GhSQJf1O9e-BEZc.jpeg",
+        "place_id": "7108790969714490682",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=7108790969714490682&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11y3vgyt5p",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "Del Gusto RESTO",
+        "type": "Restaurant",
+        "address": "0076"
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews": 93,
+        "reviews_original": "(93)",
+        "description": "\"-Repas 9/10 : nos brunch etaient excellents et bien présentés.\"",
+        "lsig": "AB86z5Xxl96ApzABsVNf2C7SQVfI",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/i9hQPRTN4X44EYFVVUvmVqkavAf6gdy_mBe56TnCgn0.jpeg",
+        "place_id": "1611276529242759599",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=1611276529242759599&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11txnnw8s7",
+        "gps_coordinates": {
+          "latitude": 6.3705916,
+          "longitude": 2.410112
+        },
+        "title": "Café Étoile Bénin",
+        "type": "Café",
+        "address": "à côté du magasin Infinix, Carrefour de l'Etoile Rouge, Immeuble Noir"
+      },
+      {
+        "position": 4,
+        "rating": 4.3,
+        "reviews": 3,
+        "reviews_original": "(3)",
+        "description": "\"Les plats sont bien préparés, savoureux et proposés à des prix abordables.\"",
+        "lsig": "AB86z5Xpqc4_6kmbzv_6_pLzcLxY",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/AuSab43-hL_oOD9HjyweHSrTdfScmdClIxKQY760gGM.jpeg",
+        "place_id": "10593188326810024199",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=10593188326810024199&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11n4plr26n",
+        "gps_coordinates": {
+          "latitude": 6.3568206,
+          "longitude": 2.42852
+        },
+        "title": "Café-Bar-Resto Chez Adé",
+        "type": "Plats africains",
+        "address": "0"
+      },
+      {
+        "position": 5,
+        "rating": 4.3,
+        "reviews": 171,
+        "reviews_original": "(171)",
+        "description": "\"Ambiance au top Cuisine et service à améliorer\"",
+        "lsig": "AB86z5VUemmuETu6wrnXYob9N1ZP",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/CdFCSTomq-0oFPgfR-O5YSR7HnvlJXIgd9dK8nWfMVk.jpeg",
+        "place_id": "5506993191321780482",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5506993191321780482&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11hbljwns5",
+        "gps_coordinates": {
+          "latitude": 6.3579383,
+          "longitude": 2.3972008
+        },
+        "title": "Pura Vida Café",
+        "type": "Café",
+        "address": "Rue 954B"
+      },
+      {
+        "position": 6,
+        "rating": 4.7,
+        "reviews": 68,
+        "reviews_original": "(68)",
+        "description": "\"Excellent service, la nourriture et l’ambiance sont top!\"",
+        "lsig": "AB86z5XFvgWg9f6lLQRytkehif2_",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/T-ds0GfBroyb1Hf_gZLK0i6IuyTI8PuFP6rgbDR3XvQ.jpeg",
+        "place_id": "4591092974699265400",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=4591092974699265400&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11smc7wc1t",
+        "gps_coordinates": {
+          "latitude": 6.3653374,
+          "longitude": 2.4121048
+        },
+        "title": "L'insolite",
+        "type": "Restaurant",
+        "address": "9C86+6J9"
+      },
+      {
+        "position": 7,
+        "rating": 4.5,
+        "reviews": 39,
+        "reviews_original": "(39)",
+        "description": "\"Tout est fait maison et est délicieux, la gérante est super sympa.\"",
+        "lsig": "AB86z5UeTvJi-JVDSISyYr4oD-Ng",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/NKDxK0fG4FMlFX9JSyO4u8jtnzyN1qTYmEMfMU5OmjA.jpeg",
+        "place_id": "15999245588589274097",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=15999245588589274097&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11lg7z9psk",
+        "gps_coordinates": {
+          "latitude": 6.3602457,
+          "longitude": 2.3731782
+        },
+        "title": "Felicita_cafe_coo",
+        "type": "Restaurant",
+        "address": "Parcelle lot/1705 B, Adjaha, Maison Lawson bibiane denise, BP 3027"
+      },
+      {
+        "position": 8,
+        "rating": 5,
+        "reviews": 6,
+        "reviews_original": "(6)",
+        "description": "\"Un bon cadre pour un déjeuner rapide au centre ville!\"",
+        "lsig": "AB86z5XcyFZ0K7Xo-SQq9J3OyXEx",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/oDDvunqtc2FDNRvfeDhBck86MWOG0DI0qPVehh1jd1Q.jpeg",
+        "place_id": "1805469557821709148",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=1805469557821709148&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11yyz9r0dw",
+        "gps_coordinates": {
+          "latitude": 6.3602886,
+          "longitude": 2.434558
+        },
+        "title": "Ikoko Restaurant Cotonou",
+        "type": "Plats africains",
+        "address": "Cotonou"
+      },
+      {
+        "position": 9,
+        "rating": 4.5,
+        "reviews": 339,
+        "reviews_original": "(339)",
+        "description": "\"Joli cadre et bon service 👍 (Succulant moelleux au chocolat en dessert ^^).\"",
+        "lsig": "AB86z5VFpmge5tH4fqFfWXHqO9OS",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/6y9EuTR0qIrZMCqcnWJ2P7DipiHKs0qIQ3TXDhacBkM.jpeg",
+        "place_id": "5199071038044622760",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=5199071038044622760&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/1vm6b8_p",
+        "gps_coordinates": {
+          "latitude": 6.359681,
+          "longitude": 2.438177
+        },
+        "title": "La Pirogue",
+        "type": "Restaurant",
+        "address": "Rue 104B"
+      },
+      {
+        "position": 10,
+        "rating": 4.3,
+        "reviews": 617,
+        "reviews_original": "(617)",
+        "description": "\"Super cadre, super ambiance avec du house music, superbe cuisine\"",
+        "lsig": "AB86z5X6Iu5xCFNIcPA92MFygLq9",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/MR790MdT1CIOFedtDmZByLD6DbNeTAaTqFdOXdmmC_8.jpeg",
+        "place_id": "14244235029726651576",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=14244235029726651576&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11fxzlj5lt",
+        "gps_coordinates": {
+          "latitude": 6.352873,
+          "longitude": 2.4374778
+        },
+        "title": "L'Imprévu",
+        "type": "Restaurant",
+        "address": "Face à ECOBANK direction general, Ganhi"
+      },
+      {
+        "position": 11,
+        "rating": 4.1,
+        "reviews": 312,
+        "reviews_original": "(312)",
+        "description": "\"Cadre agréable Relaxant Espace pro Une cuisine au top...\"",
+        "lsig": "AB86z5UOtoSlezD6QhywmvQZ78U8",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/aeGAGbyY_v596El03LM5wvrDp0RuxP1xc1KSBobPzyg.jpeg",
+        "place_id": "6058912575071177986",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=6058912575071177986&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11ptnjpbwl",
+        "gps_coordinates": {
+          "latitude": 6.3509207,
+          "longitude": 2.3505745
+        },
+        "title": "Face À La Mer",
+        "type": "Restaurant",
+        "address": "03 BP 68 Fidjrossè Route des pêches"
+      },
+      {
+        "position": 12,
+        "rating": 4.2,
+        "reviews": 10,
+        "reviews_original": "(10)",
+        "description": "\"Ambiance chaleureuse, et repas bien faits.\"",
+        "lsig": "AB86z5Wm-CAh2XqC8ht9nPwSAe99",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/pIOioWRrTA5jGrdo08KI2C3IYT9mR36RvKpOGTL4m98.png",
+        "place_id": "7149990917236723509",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=7149990917236723509&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11vwmsq2dp",
+        "gps_coordinates": {
+          "latitude": 6.377722,
+          "longitude": 2.3923235
+        },
+        "title": "Café-Cacao",
+        "type": "Restaurant",
+        "address": "von Funaï"
+      },
+      {
+        "position": 13,
+        "rating": 4.1,
+        "reviews": 850,
+        "reviews_original": "(850)",
+        "description": "\"Cadre plaisant, menu au top et une belle ambiance musicale les samedis.\"",
+        "lsig": "AB86z5VKUs6i-IvO7R3p-X-RIjmc",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/Sr6kyeq2CdZ3QP7wpQzbs3DsqGi2IgoCzWKEl00jm7g.jpeg",
+        "place_id": "18189340790431077204",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=18189340790431077204&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11c2nhgy2j",
+        "gps_coordinates": {
+          "latitude": 6.3574605,
+          "longitude": 2.3676584
+        },
+        "title": "Le Lieu Unique",
+        "type": "Restaurant",
+        "address": "08 Bp, 67 avenue de la francophonie"
+      },
+      {
+        "position": 14,
+        "rating": 4.6,
+        "reviews": 253,
+        "reviews_original": "(253)",
+        "description": "\"Super endroit pour se retrouver entre amis.\"",
+        "lsig": "AB86z5VE7bt_cMjgtSZxIPSWUj2U",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/37CAfaMaEOBztUQNxoephXLH-oQwoZq7VPcAiBJNl80.jpeg",
+        "place_id": "2743148239182769197",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=2743148239182769197&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11gw2k68xw",
+        "gps_coordinates": {
+          "latitude": 6.360705,
+          "longitude": 2.4357712
+        },
+        "title": "Ya- Hala",
+        "type": "Restaurant",
+        "address": "9C6P+78C, Rue 108"
+      },
+      {
+        "position": 15,
+        "rating": 4,
+        "reviews": 1,
+        "reviews_original": "(1)",
+        "lsig": "AB86z5UYZ-RMOWZ7P55RZzpSy_w4",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/rr19G6MSEY-s6Mc5FdpKS1rg1JIOKBSX_iiuTDSr1ys.jpeg",
+        "service_options": {
+          "repas_sur_place": true,
+          "vente_à_emporter": true,
+          "livraison": true
+        },
+        "place_id": "16589430424869767545",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=16589430424869767545&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11y13g3gz3",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "Cafétéria les cocotiers",
+        "type": "Cafétéria",
+        "address": "03 bp 492"
+      },
+      {
+        "position": 16,
+        "rating": 5,
+        "reviews": 4,
+        "reviews_original": "(4)",
+        "description": "\"Excellent service, nourriture, ambiance agréable\"",
+        "lsig": "AB86z5UK6fDYe-RlnZrwLGexYOG4",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/eR4U6-wC7XsdXUOWqRNbjsHCSHSBBFuG1FeXk-k4Dsk.jpeg",
+        "place_id": "3003521770698971468",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=3003521770698971468&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11vqyy7m_t",
+        "gps_coordinates": {
+          "latitude": 6.361654,
+          "longitude": 2.432725
+        },
+        "title": "JARDIN DES GOÛTS",
+        "type": "Plats africains",
+        "address": "En face de l'université LES COURS SONOU"
+      },
+      {
+        "position": 17,
+        "rating": 3.9,
+        "reviews": 495,
+        "reviews_original": "(495)",
+        "description": "\"Bon accueil, cuisine service et ambiance excellent\"",
+        "lsig": "AB86z5VWrfs0x7wWdnCfQpLgqwu5",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/Z8HbC-P_it0pcCJ7vwkl-H4Bow1dunKJCn-3LVvZeu0.jpeg",
+        "place_id": "1809884934161440198",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=1809884934161440198&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11c1r2hc0x",
+        "gps_coordinates": {
+          "latitude": 6.3624225,
+          "longitude": 2.4225848
+        },
+        "title": "Restaurant Chez Maman Benin",
+        "type": "Restaurant",
+        "address": "Rue 201A"
+      },
+      {
+        "position": 18,
+        "rating": 4.8,
+        "reviews": 4,
+        "reviews_original": "(4)",
+        "lsig": "AB86z5VlrLldRq8ESX0HT9C9Gw2r",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/Biy7RHsMlmHADxAFj5IJkYpNQuIe4vLFFEpWPgsxA18.jpeg",
+        "service_options": {
+          "drive_disponible": true,
+          "livraison": true
+        },
+        "place_id": "14009445241673251660",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=14009445241673251660&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11wy298hp_",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "QG Fidjrossè",
+        "type": "Restaurant",
+        "address": "0000"
+      },
+      {
+        "position": 19,
+        "rating": 5,
+        "reviews": 1,
+        "reviews_original": "(1)",
+        "lsig": "AB86z5Xb8Pjm5v8otADKijs1Ocmu",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/vavfzYdApRWBZyByjKSM4zR2z9J4PpsJ_mpua7gdTSM.jpeg",
+        "place_id": "2810983449834586338",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=2810983449834586338&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11z19bkwkt",
+        "gps_coordinates": {
+          "latitude": 6.3562427,
+          "longitude": 2.4277995
+        },
+        "title": "La Rosette food 🍗",
+        "type": "Restaurant",
+        "address": "Abomey-Calavi"
+      },
+      {
+        "position": 20,
+        "rating": 5,
+        "reviews": 1,
+        "reviews_original": "(1)",
+        "lsig": "AB86z5XJBOdKDN5mJyZdqkR7fDVb",
+        "thumbnail": "https://serpapi.com/searches/69d5211603b13691338fd4ef/images/SDAIrsvC25cVWQmtYvQK5ocPufhS1SUem_kR1bNSgw4.webp",
+        "service_options": {
+          "repas_sur_place": true,
+          "service_de_drive": true,
+          "livraison": true
+        },
+        "place_id": "17705856461913106207",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=bj&google_domain=google.com&hl=fr&location=Cotonou%2C+Benin&ludocid=17705856461913106207&q=cafe+restaurant+Cotonou",
+        "provider_id": "/g/11vsxxwbpx",
+        "gps_coordinates": {
+          "latitude": 6.3604026,
+          "longitude": 2.4264722
+        },
+        "title": "Chez Maman Laryssa",
+        "type": "Restaurant",
+        "address": "1218"
+      }
     ]
   },
   "reviews": {
@@ -9612,7 +11161,248 @@
         "date": "il y a 6 mois"
       }
     ],
-    "rev3_0x102355f2920e2373:0x6cde17ce568b1363": []
+    "rev3_0x102355f2920e2373:0x6cde17ce568b1363": [
+      {
+        "author": "Chefick Akambi BELLO (noprama)",
+        "rating": 5,
+        "text": "Pas mal mais j'ai pas pu faire les photos",
+        "date": "il y a 5 ans"
+      },
+      {
+        "author": "Ange GNAKADJA",
+        "rating": 4,
+        "text": "Trop cool",
+        "date": "il y a 4 ans"
+      }
+    ],
+    "revL_6058912575071177986": [],
+    "revL_9280138858748889989": [],
+    "revL_13007048683924756384": [],
+    "revL_8202667783197191714": [],
+    "revL_1775464306819932212": [],
+    "revL_11145948074120145452": [],
+    "revL_4653143022339360865": [],
+    "revL_1809884934161440198": [],
+    "revL_7844733775908639587": [],
+    "revL_8638674539277265720": [],
+    "revL_4930857219961310335": [],
+    "revL_13137801851610640476": [],
+    "revL_14231160545069317405": [],
+    "revL_276117724642935602": [],
+    "rev3_0x1023552cc2b5fb1d:0x9aae5cb83ae16a2c": [
+      {
+        "author": "Cornos Dossou",
+        "rating": 5,
+        "text": "J’ai vraiment apprécié vos repas, et je tiens à exprimer pleinement mon admiration pour la qualité exceptionnelle de votre cuisine. Dès la première bouchée, j’ai été agréablement surpris par la finesse des saveurs, la fraîcheur des ingrédients et l’équilibre harmonieux de chaque plat. On sent clairement que vous mettez du cœur, du professionnalisme et une grande passion dans tout ce que vous préparez. La présentation est soignée, l'assaisonnement précis, et chaque détail semble avoir été pensé pour offrir une expérience culinaire mémorable. Ce n’est pas seulement bon, c’est délicieux au point où l’on a instantanément envie de recommander votre service à d’autres. Je peux affirmer sans hésitation que vos repas figurent parmi les meilleurs que j’ai dégustés récemment. Ils allient générosité, qualité et originalité, ce qui témoigne d’un véritable savoir-faire. Je vous encourage vivement à continuer sur cette lancée, car vous avez un talent remarquable. Je recommande donc vos repas à tous ceux qui cherchent une expérience gustative authentique, savoureuse et parfaitement maîtrisée. Bravo pour votre travail et merci de nous offrir des mets aussi exquis. Je reviendrai avec plaisir pour savourer encore vos délicieuses préparations. Votre constance, votre professionnalisme et votre sens du détail font réellement la différence et méritent d’être chaleureusement salués aujourd’hui.",
+        "date": "il y a 4 mois"
+      },
+      {
+        "author": "Germain Hounga",
+        "rating": 5,
+        "text": "Top des tops j'ai aimé vos délicieux repas et je conseille même.👍",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "HAKHADY Business Management",
+        "rating": 4,
+        "text": "Saveurs incroyables🥰. Très belle expérience😍. Je recommande 👌🏽💯",
+        "date": "il y a 10 mois"
+      }
+    ],
+    "rev3_0x1023550070cba6e9:0xf3871de456450db9": [
+      {
+        "author": "Jean-Baptiste Oloufade",
+        "rating": 4,
+        "text": "Restaurant propre, staff bien accueillant, bouffe très succulentes. Je recommande après mon expérience constante de 3 ans 👏🏽",
+        "date": "il y a 6 mois"
+      },
+      {
+        "author": "Kouassi Roméo Gogan",
+        "rating": 5,
+        "text": "Rien a dire. Un seul mot \" TOP\"\nUn endroit vraiment calme,très classe",
+        "date": "il y a 5 mois"
+      },
+      {
+        "author": "Liliane Rebecca NZALE",
+        "rating": 4,
+        "text": "Très beau cadre et propre.\nJ’y ai mangé un choukouya de mouton très delicieux bien que très pimenté à mon goût.\nLe temps d’attente n’a pas dépassé 15 minutes, ce qui m’a semblé assez raisonnable.\nJe recommande",
+        "date": "il y a 7 mois"
+      }
+    ],
+    "rev3_0x1023576b2210df49:0xdfa7db67d977e72a": [
+      {
+        "author": "Katia Feuerhuber",
+        "rating": 5,
+        "text": "Ce restaurant en bord de plage est tout simplement génial !\nLe service est rapide ce qui est rare ici.\nLes serveurs sont d’une extrême gentillesse et d’une grande bienveillance.\nLes plats étaient délicieux et pas trop cher, j’ai mangé la salade d’avocat elle était excellente, mes amis ont mangé chawarma - frites et pizza c’était également parfait.\nJe recommande vivement ce lieu paisible.",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "Mathis",
+        "rating": 5,
+        "text": "J'y ai dine avec mes 2 femmes c etait un moment formidable. Les repas étaient servis rapidement et nous ont fait voyager de par leur succulence. Les serveurs étaient aux petits soins avec nous et ont déposé avec brio les plats sur la table. Je recommande immédiatement",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "Thalia pretlot",
+        "rating": 5,
+        "text": "Ce restaurant en bord de mer offre un cadre agréable, le service est rapide, les plats bons et le personnel adorable. Je recommande ce restaurant au prix abordable.",
+        "date": "il y a 9 mois"
+      }
+    ],
+    "rev3_0x102355487ab2d9d1:0x77e2bcb94bd52b38": [
+      {
+        "author": "BONI NÉTO GANSARE",
+        "rating": 4,
+        "text": "Soft et très accueillant comme espace",
+        "date": "il y a 4 semaines"
+      },
+      {
+        "author": "Emile AHO",
+        "rating": 5,
+        "text": "Très cool ce lieu",
+        "date": "il y a 4 semaines"
+      },
+      {
+        "author": "josué Lecinq",
+        "rating": 5,
+        "text": "Bar très cool et propre.\nÀ découvrir absolument !",
+        "date": "il y a 5 ans"
+      }
+    ],
+    "rev3_0x103cab79a9d53f41:0x446dec8449f6cc7f": [
+      {
+        "author": "Lauren",
+        "rating": 5,
+        "text": "Really nice cafe in the main street. The food and service were really good. I had beef shawarma and would say it's one of the best I've had in west Africa, love the green décor inside very relaxing!",
+        "date": "il y a un an"
+      }
+    ],
+    "rev3_0x10235500428ece03:0x42f74acc4e1c584b": [
+      {
+        "author": "Arielle ZEHE",
+        "rating": 4,
+        "text": "Cadre lumineux et agréable. Cuisine intéressante et Cocktails idéal pour les amateurs de nouvelles expériences gustatives.",
+        "date": "il y a un mois"
+      },
+      {
+        "author": "Ashley zekiath",
+        "rating": 3,
+        "text": "Le service est très lent. Nous avions été un peu déçu mais le repas est bien.",
+        "date": "il y a un mois"
+      },
+      {
+        "author": "Moisej Aihonnou",
+        "rating": 5,
+        "text": "Cette une excellente soirée avec ma dulcinée",
+        "date": "il y a 2 mois"
+      }
+    ],
+    "rev3_0x102357001258d93b:0xd3a1d1804a3fc312": [
+      {
+        "author": "Berenger Maelle",
+        "rating": 5,
+        "text": "Un cardre idéal.... Qui fait face à la plage et ne laisse pas la chaleur vous étouffer..\nLa nourriture très appétissante 🥲🥰🥰🥰",
+        "date": "il y a 9 mois"
+      },
+      {
+        "author": "Thierry ML",
+        "rating": 2,
+        "text": "Service trop lent. Le restaurant n'était pas du tout plein mais ils ont trouvé le moyen de nous oublier sous prétexte que le barman n'avait pas vu nos commandes laissées par son collègue",
+        "date": "il y a 7 mois"
+      },
+      {
+        "author": "Groupe Porteur",
+        "rating": 5,
+        "text": "Une expérience culinaire exceptionnelle du début à la fin. Dès notre arrivée, nous avons été chaleureusement accueillis par une équipe souriante et attentive, créant une atmosphère conviviale et professionnelle. Le menu est un véritable voyage gastronomique, avec des plats savamment élaborés qui allient fraîcheur, équilibre des saveurs et présentation soignée. Chaque bouchée témoigne du savoir-faire du chef et de la qualité des produits sélectionnés.\n\nLe cadre, quant à lui, ajoute une touche supplémentaire à cette belle expérience : une décoration raffinée, une ambiance apaisante et un agencement qui permet de profiter pleinement du moment. Que ce soit pour un dîner en amoureux, un repas d’affaires ou une sortie entre amis, ce restaurant coche toutes les cases d’une adresse incontournable. Nous y reviendrons sans hésitation !",
+        "date": "il y a un an"
+      }
+    ],
+    "revP_6058912575071177986": [],
+    "revP_2519683370199349164": [],
+    "revP_13007048683924756384": [],
+    "revP_8202667783197191714": [],
+    "revP_1775464306819932212": [],
+    "revP_11464430734952221595": [],
+    "rev3_0x1024a9851c33be6d:0x9f19d70324e5cb9b": [
+      {
+        "author": "Simone Toko",
+        "rating": 5,
+        "text": "Un cadre vraiment chaleureux ,et accueillant ! Les mets sont esquis, très délicieux ! J'y suis allée déjà 5 fois 🥰je compte revenir bientôt dèsque j'arrive à Cotonou.\n\nJe vous le conseille vivement,faites y un tour 🥰 vous allez adorer 😋😋😋",
+        "date": "il y a 2 ans"
+      },
+      {
+        "author": "Hospice SOETONVE",
+        "rating": 5,
+        "text": "Très cool comme restaurant",
+        "date": "il y a 7 mois"
+      },
+      {
+        "author": "Christophe ATCHADA",
+        "rating": 5,
+        "text": "La tendance Restaurant est un cadre splendide avec un service hors pair et une ambiance paradisiaque.",
+        "date": "Modifié il y a 2 ans"
+      }
+    ],
+    "rev3_0x10235789ebe66a51:0x71d5bae3a4026e22": [
+      {
+        "author": "DAVID ALVAREZ",
+        "rating": 1,
+        "text": "Les pires expériences de tous les restaurants de Cotonou... mes 3 dernières commandes ont été un désastre, plus de deux heures d'attente... évidemment la nourriture arrive froide et mauvaise.C'est dommage qu'il y ait des endroits comme celui-ci... et le pire c'est qu'ils n'ont pas les détails pour s'excuser... c'est pathétique que vous commandiez de la nourriture et que vous attendiez plus de deux heures..\nVous vendez comme publicité que les commandes arrivent en moins d'une heure.....il suffit de lire les avis pour voir la réalité....si vous ne savez pas travailler, consacrez-vous à la plantation d'ananas.",
+        "date": "il y a un an"
+      },
+      {
+        "author": "Ghostbuzz",
+        "rating": 1,
+        "text": "Client chez Cotonou Pizza depuis 2ans au moins\n-J'ai commandé une pizza il ya 2 semaines , après 2h d'attentes et après avoir par 4 fois modifié mes propositions parce qu'ils n'avaient pas des matières premières j'ai fini par me retrouver avec quelque chose de loin différent de ce que j'avais commandé à la base. Nourriture commandée à 22h j'ai dû l'attendre devant l'église jusqu'à minuit avant d'être livré.\n- Aujourd'hui c'est le tour d'un cheaseburger que j'ai commandé et pour lequel on m'a livré un simple hamburger facturé à 3000F. Finalement ils ont essayé de corriger le tire mais le résultat était encore pire.\n- Finalement j'ai exigé remboursement et là les employés m'ont fait tourner en rond pour une question de monnaie. D'avoir demandé leur MoMo pour leur transférer la monnaie m'a aidé à être sûr de leur mauvaise foi....\nAPPRENEZ À PRIORISER LA SATISFACTION DU CLIENT PLUTOT QUE VOTRE GAIN FINANCIER. POUR MA PART MA FAMILLE TOURNE LE DOS DÈS AUJOURD'HUI À VOTRE restaurant.\nPS : J'ai finalement commandé mon chease à M'ice Cream, 2500F au lieu des 3000F de Cotonou Pizza et je suis satisfait.\n☎️ 97907877 mon numéro et parce que je crois au changement je vous donne la chance de vous racheter pour que je supprime cette mauvaise note...🚶🏿‍♂️🚶🏿‍♂️🚶🏿‍♂️",
+        "date": "il y a 3 ans"
+      },
+      {
+        "author": "David",
+        "rating": 1,
+        "text": "Si vous voulez dîner à 22h...il vaut mieux commander à 15h...dommage",
+        "date": "il y a un an"
+      }
+    ],
+    "rev3_0x1023542ed5853b5b:0xcf0ca2400e6934f": [
+      {
+        "author": "Amaury Escalès",
+        "rating": 4,
+        "text": "Non loin de l aéroport de Cotonou, cet endroit offre une ambiance chaleureuse et conviviale. Entres amis ou pour le business, il est idéal pour partager un bon moment.\nLa musique est sympa, la clientèle agréable et un service très pro.",
+        "date": "Modifié il y a 2 mois"
+      },
+      {
+        "author": "Steeve Ghislain Mebale",
+        "rating": 5,
+        "text": "Superbe endroit entre amis pour décompresser  de la semaine de travail\nBelle ambiance, bonne nourriture bien fraîche et bien cuite, juste comme il faut, les cocktails 🍸 super bien dosé",
+        "date": "il y a un mois"
+      },
+      {
+        "author": "Sarah De Nabila",
+        "rating": 2,
+        "text": "Le cadre est très bien avec une présentation claire et agréable\nLa cuisine  nous avons d’abord pris de la boisson qui était topissime ensuite nous avons pris du chawarma qui était malheureusement aigre et dont l’assaisonnement laissait à désirer nous nous attendions à plus 🧐\n\nL’ambiance n’était pas entraînante mais c’était correcte\nPour le service je reste mitigé entre l’accueil correcte de certain serveurs et le reste de l’équipe ( mine renfrognée et remarque acerbe surtout l’équipe du 1er niveau)\nLes prix sont assez élevé pour ce que nous avons vu\nBref je n’ai pas accroché mais cela reste mon avis personnel qui n’engage que moi😀",
+        "date": "il y a 5 mois"
+      }
+    ],
+    "rev3_0x103cab810bd8a393:0x6aae4ea9e327eb": [
+      {
+        "author": "West Star",
+        "rating": 5,
+        "text": "Excellent endroit pour décompresser après une semaine de travail, ou pour une soirée entre amis ou même avec la famille. Le personnel est serviable et assez professionnel, toujours attentif aux besoins de la clientèle. La musique y est bonne. Côté propreté des toilettes, c'est impeccable. Je recommande cet endroit",
+        "date": "il y a 3 ans"
+      },
+      {
+        "author": "charlotte Lewhe",
+        "rating": 1,
+        "text": "La nourriture reste à désirée! Beau cadre oui  mais mon poulet au kedjenou a été un réchauffée de poulet braisée mis dans une sauce qui n’est pas le kedjenou entier avec juste 2 petit morceaux et plein de légume . Je n ai jamais aussi mal mangé ! Je ne recommande pas la bouffe ! Vraiment nul",
+        "date": "il y a 3 ans"
+      },
+      {
+        "author": "Samuel Yonhossou",
+        "rating": 5,
+        "text": "Une référence...depuis ma première fois je rêve d'y retourner presque 2 week-end sur 4...du faite de son cadre hyper attrayant et des services qui y sont proposés....de bon plat accompagné de la bonne musique.",
+        "date": "Modifié il y a un an"
+      }
+    ]
   },
   "details": {
     "det2_restaurant-le-teranga": {
@@ -12529,7 +14319,7 @@
     },
     "det2_cafeteria-chez-nasty": {
       "phone": "",
-      "data_id": "",
+      "data_id": "0x1023552cc2b5fb1d:0x9aae5cb83ae16a2c",
       "hoursText": "",
       "thumbnail": "",
       "reviews": [],
@@ -12538,7 +14328,7 @@
     },
     "det2_lyte-food-ste-rita": {
       "phone": "",
-      "data_id": "",
+      "data_id": "0x1023550070cba6e9:0xf3871de456450db9",
       "hoursText": "",
       "thumbnail": "",
       "reviews": [],
@@ -12547,7 +14337,7 @@
     },
     "det2_restaurant-la-coquillette": {
       "phone": "",
-      "data_id": "",
+      "data_id": "0x1023576b2210df49:0xdfa7db67d977e72a",
       "hoursText": "",
       "thumbnail": "",
       "reviews": [],
@@ -12565,7 +14355,7 @@
     },
     "det2_q2-akpakpa": {
       "phone": "",
-      "data_id": "",
+      "data_id": "0x102355487ab2d9d1:0x77e2bcb94bd52b38",
       "hoursText": "",
       "thumbnail": "",
       "reviews": [],
@@ -12574,12 +14364,54 @@
     },
     "det2_alices": {
       "phone": "",
-      "data_id": "",
+      "data_id": "0x103cab79a9d53f41:0x446dec8449f6cc7f",
       "hoursText": "",
       "thumbnail": "",
       "reviews": [],
       "topics": [],
       "mapsUrl": ""
+    },
+    "det2_skyline": {
+      "data_id": "0x10235500428ece03:0x42f74acc4e1c584b"
+    },
+    "det2_grill-spot-restaurant": {
+      "data_id": "0x102357001258d93b:0xd3a1d1804a3fc312"
+    },
+    "det2_gps_face--la-mer": {
+      "data_id": ""
+    },
+    "det2_gps_face--la-mer-restaurant": {
+      "data_id": ""
+    },
+    "det2_gps_restaurant-face--la-mer": {
+      "data_id": ""
+    },
+    "det2_gps_maquis-le-tata": {
+      "data_id": ""
+    },
+    "det2_gps_maquis-tata": {
+      "data_id": ""
+    },
+    "det2_gps_le-tata-cotonou": {
+      "data_id": ""
+    },
+    "det2_gps_cotonoupizza": {
+      "data_id": ""
+    },
+    "det2_gps_cotonou-pizza": {
+      "data_id": "0x10235789ebe66a51:0x71d5bae3a4026e22"
+    },
+    "det2_gps_la-table-du-maire": {
+      "data_id": ""
+    },
+    "det2_gps_restaurant-table-du-maire": {
+      "data_id": ""
+    },
+    "det2_new_le-code-bar": {
+      "data_id": "0x1023542ed5853b5b:0xcf0ca2400e6934f"
+    },
+    "det2_new_the-garden-rooftop-bar-restaurant": {
+      "data_id": "0x103cab810bd8a393:0x6aae4ea9e327eb"
     }
   }
 }

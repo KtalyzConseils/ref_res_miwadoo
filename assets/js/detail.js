@@ -190,7 +190,7 @@ function renderSidebar(r) {
             <div class="score-label">/100</div>
           </div>
         </div>
-        <span class="score-desc"><strong>${scoreLabel}</strong><br>Classé <strong>#${r.rank}</strong> sur 97</span>
+        <span class="score-desc"><strong>${scoreLabel}</strong><br>Classé <strong>#${r.rank}</strong> sur 100</span>
       </div>
       <div class="info-row" style="justify-content:center;border:none;padding:10px 0 0">
         <span style="font-size:12px;color:var(--muted);text-align:center">

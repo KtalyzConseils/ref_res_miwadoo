@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Top 97 Restaurants Bon Marché Cotonou | MIWADOO</title>
-  <meta name="description" content="Découvrez les 97 meilleurs restaurants de Cotonou sélectionnés par Miwadoo pour leur rapport qualité-prix exceptionnel. Fiches détaillées, avis et budget affiché.">
+  <title>Top 100 Restaurants Bon Marché Cotonou | MIWADOO</title>
+  <meta name="description" content="Découvrez les 100 meilleurs restaurants de Cotonou sélectionnés par Miwadoo pour leur rapport qualité-prix exceptionnel. Fiches détaillées, avis et budget affiché.">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="icon" href="https://www.miwadoo.com/img/icons/miadoo.png" type="image/png">
 </head>
@@ -41,17 +41,23 @@
   <div class="hero-slide-label" id="hero-slide-label"></div>
   <div class="hero-content">
     <div class="hero-tag">Sélection Miwadoo 2026</div>
-    <h1>Top 97 Restaurants<br><span>Bon Marché</span> à Cotonou</h1>
+    <h1>Top 100 Restaurants<br><span>Bon Marché</span> à Cotonou</h1>
     <p>Notre sélection des meilleurs restaurants de Cotonou, choisis pour leur qualité et surtout leurs prix accessibles. Vrai contenu éditorial, avis vérifiés, budget affiché.</p>
 
     <div class="hero-search">
-      <input type="text" id="search-input" placeholder="Rechercher un restaurant, une cuisine, un quartier…">
-      <button type="button">Rechercher</button>
+      <div class="hero-search-inner">
+        <input type="text" id="search-input" placeholder="Rechercher un restaurant, une cuisine, un quartier…">
+        <button type="button" id="search-btn">Rechercher</button>
+      </div>
+      <button type="button" id="filter-toggle-btn" title="Afficher / Masquer les filtres">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="8" y1="12" x2="16" y2="12"/><line x1="11" y1="18" x2="13" y2="18"/></svg>
+        Filtres
+      </button>
     </div>
 
     <div class="hero-stats">
       <div class="hero-stat">
-        <strong>97</strong>
+        <strong>100</strong>
         <span>Restaurants</span>
       </div>
       <div class="hero-stat">
@@ -71,7 +77,7 @@
 </section>
 
 <!-- ======= FILTERS ======= -->
-<div class="filters-bar">
+<div class="filters-bar" id="filters-panel">
   <div class="filters-inner">
     <div class="filter-group">
       <span class="filter-label">Budget :</span>
@@ -104,12 +110,12 @@
       </select>
     </div>
 
-    <span class="filter-count" id="result-count">97 restaurants trouvés</span>
+    <span class="filter-count" id="result-count">100 restaurants trouvés</span>
   </div>
 </div>
 
 <!-- ======= LISTING ======= -->
-<section class="listing-section" style="padding-top:30px">
+<section class="listing-section" id="listing-section" style="padding-top:30px">
   <h2 class="section-title">🏆 Le classement complet</h2>
   <div class="restaurant-grid" id="restaurant-grid">
     <!-- Rendered by JS -->

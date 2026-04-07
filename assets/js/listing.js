@@ -94,13 +94,41 @@ function buildFilters() {
   });
 }
 
+function scrollToListing() {
+  const section = document.getElementById('listing-section');
+  if (section) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
 function bindEvents() {
-  // Search
+  // Search input (live filtering, no scroll on keystroke)
   const searchInput = document.getElementById('search-input');
   if (searchInput) {
     searchInput.addEventListener('input', e => {
       searchQuery = e.target.value.toLowerCase().trim();
       applyFilters();
+    });
+    // Enter key → apply + scroll
+    searchInput.addEventListener('keydown', e => {
+      if (e.key === 'Enter') { applyFilters(); scrollToListing(); }
+    });
+  }
+
+  // Search button → apply + scroll
+  const searchBtn = document.getElementById('search-btn');
+  if (searchBtn) {
+    searchBtn.addEventListener('click', () => { applyFilters(); scrollToListing(); });
+  }
+
+  // Filter toggle button
+  const filterToggle = document.getElementById('filter-toggle-btn');
+  const filtersPanel = document.getElementById('filters-panel');
+  if (filterToggle && filtersPanel) {
+    // Set initial max-height so the transition works
+    filtersPanel.style.maxHeight = filtersPanel.scrollHeight + 'px';
+    filterToggle.addEventListener('click', () => {
+      const hidden = filtersPanel.classList.toggle('filters-hidden');
+      filterToggle.classList.toggle('active', !hidden);
+      if (!hidden) filtersPanel.style.maxHeight = filtersPanel.scrollHeight + 'px';
     });
   }
 

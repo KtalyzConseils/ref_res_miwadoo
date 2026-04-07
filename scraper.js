@@ -15,7 +15,7 @@ const fs     = require('fs');
 const path   = require('path');
 
 // ─── CONFIG ────────────────────────────────────────────────────────────────
-const API_KEY     = '655dfb50aa957907b7c2ed834a83deb4c4b4ba42e3dec37e14e29879858f2657';
+const API_KEY     = '88964efa2c17b9a340efe80fee7e8241c7c849af72420a0408b748ed24742da5';
 const CACHE_FILE  = path.join(__dirname, 'data', 'cache.json');
 const OUTPUT_FILE = path.join(__dirname, 'assets', 'js', 'restaurants.js');
 const TARGET      = 100;
